@@ -583,9 +583,9 @@
   },
   {
     "name": "anytype",
-    "version": "0.33.2",
-    "url": "https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype-0.33.2-mac-x64.dmg",
-    "sha256": "bf236aff9bfa904b7f764ef9d1530ab877e2d92ada2f6b49f38f313491a2706c"
+    "version": "0.33.3",
+    "url": "https://anytype-release.fra1.cdn.digitaloceanspaces.com/Anytype-0.33.3-mac-x64.dmg",
+    "sha256": "19c6834f96fe740c21e07a2bc9a1b1e746dfc05d37d3f04e2ef067a708127a12"
   },
   {
     "name": "ao",
@@ -1261,9 +1261,9 @@
   },
   {
     "name": "bean",
-    "version": "3.5.1",
-    "url": "https://www.bean-osx.com/releases/Bean-Install-3-5-1.zip",
-    "sha256": "9e0e0e7b39819714ca27f8b41e63d4c0a2a995fbb74317940bcc454ebc2cd15e"
+    "version": "3.6.0",
+    "url": "https://www.bean-osx.com/releases/Bean-Install-3-6-0.zip",
+    "sha256": "492d70e4e8746822cd0bb607d95122f3f820b021d564596757f012d2d2c87d56"
   },
   {
     "name": "beardedspice",
@@ -1573,9 +1573,9 @@
   },
   {
     "name": "bloop",
-    "version": "0.4.8",
-    "url": "https://github.com/BloopAI/bloop/releases/download/v0.4.8/bloop_0.4.8_x64.dmg",
-    "sha256": "040d2cc0d2363282c9440bf6a15923fcfff0de47f900c229a86216e5b9ac12cd"
+    "version": "0.4.9",
+    "url": "https://github.com/BloopAI/bloop/releases/download/v0.4.9/bloop_0.4.9_x64.dmg",
+    "sha256": "f9e619e99c0c65c587806e76eb4017bf71bbc25e27de2bb79f15b66005c946f9"
   },
   {
     "name": "blu-ray-player",
@@ -2065,9 +2065,9 @@
   },
   {
     "name": "capacities",
-    "version": "1.26.1",
-    "url": "https://capacities-frontend-app.s3.eu-central-1.amazonaws.com/Capacities-1.26.1.dmg",
-    "sha256": "b67a0b973e3e74d173b07aad3d08f979379053c2f716827348416fe082c6bb8d"
+    "version": "1.26.10",
+    "url": "https://capacities-frontend-app.s3.eu-central-1.amazonaws.com/Capacities-1.26.10.dmg",
+    "sha256": "36bea73d1191d42664c2addebc66f3dee84e2250898d5b58492007a16d53f713"
   },
   {
     "name": "caprine",
@@ -2227,9 +2227,9 @@
   },
   {
     "name": "chatbox",
-    "version": "0.6.2",
-    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v0.6.2/Chatbox-0.6.2.dmg",
-    "sha256": "9ad7f3ada4135b8db733f4927e5aa783cc7c8b588663ca8b2fd30a0ded9a2905"
+    "version": "0.6.3",
+    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v0.6.3/Chatbox-0.6.3.dmg",
+    "sha256": "8a4a678e1cdb9751e666dc4ca1fd5d7a28d0d47c99c984c779fabaa110dbca74"
   },
   {
     "name": "chatmate-for-facebook",
@@ -3481,9 +3481,9 @@
   },
   {
     "name": "devpod",
-    "version": "0.3.0",
-    "url": "https://github.com/loft-sh/devpod/releases/download/v0.3.0/DevPod_macos_x64.dmg",
-    "sha256": "6c85e4a2042d28e365e48f6d219903e8d956ef88a6ea4b62d493ebeab8d24e5d"
+    "version": "0.3.2",
+    "url": "https://github.com/loft-sh/devpod/releases/download/v0.3.2/DevPod_macos_x64.dmg",
+    "sha256": "1302cf322a8ea9fcef785f1f7c71d8948fc95ccbd52dc4842273a82cfb97aaea"
   },
   {
     "name": "devtoys",
@@ -6433,9 +6433,9 @@
   },
   {
     "name": "inkscape",
-    "version": "1.2.2",
-    "url": "https://media.inkscape.org/dl/resources/file/Inkscape-1.2.2_x86_64.dmg",
-    "sha256": "d2e9969ba8b5056926b08719e527f781cca9f6b35fdbc54e855d0540c93709b2"
+    "version": "1.3.0",
+    "url": "https://media.inkscape.org/dl/resources/file/Inkscape-1.3.0_x86_64.dmg",
+    "sha256": "e97de6804d8811dd2f1bc45d709d87fb6fe45963aae710c24a4ed655ecd8eb8a"
   },
   {
     "name": "inky",
@@ -8851,9 +8851,9 @@
   },
   {
     "name": "millie",
-    "version": "5.11.0",
-    "url": "https://apis.millie.co.kr/v1/download/installer/mac/Millie-5.11.0.dmg",
-    "sha256": "12e8c75d62cf74ec7e33cd5824f98bdcfe513fef0794074b22a124cc684f56c3"
+    "version": "5.12.1",
+    "url": "https://apis.millie.co.kr/v1/download/installer/mac/Millie-5.12.1.dmg",
+    "sha256": "93de27c626e0e0fb1415d0a5114831353abc06538f432091546a7145ad225e21"
   },
   {
     "name": "miln-movie-splitter",
@@ -9049,9 +9049,9 @@
   },
   {
     "name": "mockoon",
-    "version": "3.1.0",
-    "url": "https://github.com/mockoon/mockoon/releases/download/v3.1.0/mockoon.setup.3.1.0.universal.dmg",
-    "sha256": "68a0d5af432f382ef2778193c126af5e6d842d0096d7a08ea90109939486144b"
+    "version": "4.0.0",
+    "url": "https://github.com/mockoon/mockoon/releases/download/v4.0.0/mockoon.setup.4.0.0.universal.dmg",
+    "sha256": "4f1c5bde11fcb1b4dd79626fc6597896886ed53f3cd6552b9530a806f6fef880"
   },
   {
     "name": "mockplus",
@@ -9289,9 +9289,9 @@
   },
   {
     "name": "mpv",
-    "version": "0.35.1",
-    "url": "https://laboratory.stolendata.net/~djinn/mpv_osx/mpv-0.35.1.tar.gz",
-    "sha256": "efec391acfb4445f89ab2af2c02199d883d47e7f85013217be158f6b07bbc12c"
+    "version": "0.36.0",
+    "url": "https://laboratory.stolendata.net/~djinn/mpv_osx/mpv-0.36.0.tar.gz",
+    "sha256": "cf0511aa6a26d51ac581535e69b96327850b9aca2750a55097cbe09eca2afb0e"
   },
   {
     "name": "mqtt-explorer",
@@ -9643,9 +9643,9 @@
   },
   {
     "name": "netron",
-    "version": "7.0.7",
-    "url": "https://github.com/lutzroeder/netron/releases/download/v7.0.7/Netron-7.0.7-mac.zip",
-    "sha256": "1429eba075d548fac813a2aa34ffc76bf2ca56b45138c59735365389d06e6cdd"
+    "version": "7.0.8",
+    "url": "https://github.com/lutzroeder/netron/releases/download/v7.0.8/Netron-7.0.8-mac.zip",
+    "sha256": "0752866bd1edf85db773b799c0eb1f6f629f5a12dbb3b6a73b5b4287443d3884"
   },
   {
     "name": "netxms-console",
@@ -9961,9 +9961,9 @@
   },
   {
     "name": "nwjs",
-    "version": "0.77.0",
-    "url": "https://dl.nwjs.io/v0.77.0/nwjs-sdk-v0.77.0-osx-x64.zip",
-    "sha256": "7ce84cf7963b98021f6bbb6e18cb5788b92047cb576ab8da8dcdb5030c75aa65"
+    "version": "0.78.0",
+    "url": "https://dl.nwjs.io/v0.78.0/nwjs-sdk-v0.78.0-osx-x64.zip",
+    "sha256": "57234dfc0c8946f2318dcbd6f15e29cefd39a7628efbcd07e3badda4b1db748e"
   },
   {
     "name": "nzbget",
@@ -9991,9 +9991,9 @@
   },
   {
     "name": "obsbot-webcam",
-    "version": "2.0.4.28",
-    "url": "https://obsbot-static-resource.oss-accelerate.aliyuncs.com/download/obsbot-webcam/Obsbot_WebCam_OA_E_MacOS_2.0.4.28_release.dmg",
-    "sha256": "78eb59967f7dc6797771cbb6401691e2bcb1e798ca9b284dc36a170c0154b818"
+    "version": "2.0.5.8",
+    "url": "https://obsbot-static-resource.oss-accelerate.aliyuncs.com/download/obsbot-webcam/Obsbot_WebCam_OA_E_MacOS_2.0.5.8_release.dmg",
+    "sha256": "78e7b4ef0b0b08289f43ec5eb227ca95a31b275b23932e7920ee6bbd5d21172e"
   },
   {
     "name": "obsidian",
@@ -10939,9 +10939,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.133.0,stable.4,5706349",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.133.0-stable.4-ci5706349.dmg",
-    "sha256": "4a22a7ab09aaa28e069b7e53039a27abcafcfdd72af7be166b2da4ecb24fdb18"
+    "version": "1.133.0,stable.5,5711178",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.133.0-stable.5-ci5711178.dmg",
+    "sha256": "7433d3847fb6f7e76f78d89b395153ec674681e6eae5393fdb172782d7279581"
   },
   {
     "name": "pixel-check",
@@ -11221,9 +11221,9 @@
   },
   {
     "name": "portfolioperformance",
-    "version": "0.64.4",
-    "url": "https://github.com/buchen/portfolio/releases/download/0.64.4/PortfolioPerformance-0.64.4-x86_64.dmg",
-    "sha256": "edb90e714888036c38cd5c566642185a8e25660d0f7bfbd291723c178398b55e"
+    "version": "0.64.5",
+    "url": "https://github.com/buchen/portfolio/releases/download/0.64.5/PortfolioPerformance-0.64.5-x86_64.dmg",
+    "sha256": "b95ce9da1bdf3a1bdbb38e008aaca046fd7745b18b1111d8e1863e67783cc32a"
   },
   {
     "name": "porting-kit",
@@ -11317,9 +11317,9 @@
   },
   {
     "name": "praat",
-    "version": "6.3.11,6311",
-    "url": "https://github.com/praat/praat/releases/download/v6.3.11/praat6311_mac.dmg",
-    "sha256": "8d1ac77152f8c73528bb7b049558af6b82111e938ca4d1088eb3c3af00d01da8"
+    "version": "6.3.12,6312",
+    "url": "https://github.com/praat/praat/releases/download/v6.3.12/praat6312_mac.dmg",
+    "sha256": "bf1147a890c3ec1ac2d37bebd935b14abd45453403472dd83731babc1cff092e"
   },
   {
     "name": "preference-manager",
@@ -11773,9 +11773,9 @@
   },
   {
     "name": "qq",
-    "version": "6.9.17-12118,7547c696",
-    "url": "https://dldir1.qq.com/qqfile/qq/QQNT/7547c696/QQ_v6.9.17-12118.dmg",
-    "sha256": "8fc0e92adebe546a6332673df9adbdfd54920cd6ab8cbd83a1b6eb229f3d6ab8"
+    "version": "6.9.18-15293,d12eb6eb",
+    "url": "https://dldir1.qq.com/qqfile/qq/QQNT/d12eb6eb/QQ_v6.9.18-15293.dmg",
+    "sha256": "1854e1e5beb95d0510ea664c79ea174682cb554681801b965291402c8144aeb6"
   },
   {
     "name": "qqlive",
@@ -12535,9 +12535,9 @@
   },
   {
     "name": "runelite",
-    "version": "2.6.4",
-    "url": "https://github.com/runelite/launcher/releases/download/2.6.4/RuneLite-x64.dmg",
-    "sha256": "fbac3f85949392defaa40d1dd958abe3ce0b78776dd35807e2567b16450bec24"
+    "version": "2.6.7",
+    "url": "https://github.com/runelite/launcher/releases/download/2.6.7/RuneLite-x64.dmg",
+    "sha256": "c07d5abd86cd8f30dc99aae3059e09a330aed2e024f71cc871eec954521a6772"
   },
   {
     "name": "runjs",
@@ -12727,9 +12727,9 @@
   },
   {
     "name": "screen-studio",
-    "version": "2.15.4",
-    "url": "https://screenstudioassets.com/Screen%20Studio-2.15.4-mac.zip",
-    "sha256": "d4f09ae8d2f3abbf80bb5e5a18959b7080d3a983c25b444443580c37408c8620"
+    "version": "2.16.1",
+    "url": "https://screenstudioassets.com/Screen%20Studio-2.16.1-mac.zip",
+    "sha256": "4228c9fbacf1a4ecd2d549d45b8c1712b9201539d6d07052eb91c66b6b8ced29"
   },
   {
     "name": "screencast",
@@ -12943,9 +12943,9 @@
   },
   {
     "name": "shadow",
-    "version": "8.0.10123",
-    "url": "https://update.shadow.tech/launcher/prod/mac/x64/ShadowPC-8.0.10123.dmg",
-    "sha256": "e4e47d675c02217aa3901217daaf40b6d6237e4830c4598a3f596a1ff5f04aa5"
+    "version": "8.0.10137",
+    "url": "https://update.shadow.tech/launcher/prod/mac/x64/ShadowPC-8.0.10137.dmg",
+    "sha256": "b92772950be24d2da3fcc8d657a6de4f0d066bc4b16b67cd5997b693ea78823d"
   },
   {
     "name": "shadowsocksx",
@@ -12973,9 +12973,9 @@
   },
   {
     "name": "shapr3d",
-    "version": "5.411.0.5417",
-    "url": "https://download.shapr3d.com/mac/Shapr3D-5.411.0.5417.dmg",
-    "sha256": "56173a9d79d03f0671bfdc2423181c5f69587fb7eb3a3e4611d811d378a45afa"
+    "version": "5.420.0.5479",
+    "url": "https://download.shapr3d.com/mac/Shapr3D-5.420.0.5479.dmg",
+    "sha256": "8290bf9ed8d0d85bd3b1a2e00e36547f5c4a0196b7247dd17b94d6e7291a9cc2"
   },
   {
     "name": "sharepod",
@@ -14869,9 +14869,9 @@
   },
   {
     "name": "ticktick",
-    "version": "4.5.51,259",
-    "url": "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.5.51_259.dmg",
-    "sha256": "fc07d66dc10c3b75d02ab14f2d496ed666d384b168df1690dacb69844e4849d1"
+    "version": "4.5.60,260",
+    "url": "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.5.60_260.dmg",
+    "sha256": "78b3d04c6150837463029039404ad122a1a57b6980edb6710780d016150429fd"
   },
   {
     "name": "tidal",
@@ -15745,9 +15745,9 @@
   },
   {
     "name": "uu-booster",
-    "version": "2.7.2,239",
-    "url": "https://uu.gdl.netease.com/UU-macOS-2.7.2(239).dmg",
-    "sha256": "0ef231537c950f8e3b2e2f16967057b77ca58d9b8006b1d1fbddb2fdf0642220"
+    "version": "2.7.3,240",
+    "url": "https://uu.gdl.netease.com/UU-macOS-2.7.3(240).dmg",
+    "sha256": "966c92a884118e9385eed2133d21f5021b39e3eb2659ccbec5311c54da47dd92"
   },
   {
     "name": "uvtools",
@@ -16315,9 +16315,9 @@
   },
   {
     "name": "webstorm",
-    "version": "2023.1.4,231.9225.18",
-    "url": "https://download.jetbrains.com/webstorm/WebStorm-2023.1.4.dmg",
-    "sha256": "9e80e3047396b99f82d541813a1177e058f3acb0fc81d27a625e3f62cc1ddadb"
+    "version": "2023.2,232.8660.143",
+    "url": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.dmg",
+    "sha256": "daf4d9c0b27f305e063d128ed7a8a63cbfbe8ddfaadb4cb0b1484b9742235137"
   },
   {
     "name": "webtorrent",
@@ -16753,9 +16753,9 @@
   },
   {
     "name": "xmind",
-    "version": "23.06.301214-202307032140",
-    "url": "https://dl3.xmind.net/Xmind-for-macOS-23.06.301214-202307032140.dmg",
-    "sha256": "000f3323c71837896d3d00a0249cc39433af75edb67cc9ec6fe838c6ca86126b"
+    "version": "23.07.180256-202307191914",
+    "url": "https://dl3.xmind.net/Xmind-for-macOS-23.07.180256-202307191914.dmg",
+    "sha256": "26115bc2650fec69a96ba9f246c60221fb431b792a7b536f540fcb292c9f0b31"
   },
   {
     "name": "xmplify",
