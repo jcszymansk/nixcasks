@@ -29,7 +29,7 @@ in
   
         mkdir -p $out/bin
         for bin in $out/Applications/*.app/Contents/MacOS/*; do
-          [[ -f "$bin" && -x "$bin" ]] &&  makeWrapper $bin "$out/bin/$(basename $bin)"
+          [[ -f "$bin" && -x "$bin" ]] &&  makeWrapper "$bin" "$out/bin/$(basename "$bin")"
         done
   
         runHook postInstall
