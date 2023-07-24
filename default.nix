@@ -8,7 +8,7 @@ let
   data = with builtins; fromJSON (readFile ./casks.json);
 in
   builtins.listToAttrs (lib.lists.forEach data (cask: rec {
-    name = "nixcask-" + cask.name;
+    inherit (cask) name;
     value = pkgs.stdenv.mkDerivation {
       inherit (cask) version;
       pname = name;
