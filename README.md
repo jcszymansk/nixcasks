@@ -10,6 +10,12 @@ installed version every time; it should be easy to fix as a Home Manager module.
 
 Variants are unsupported.
 
+# WARNING
+
+There are many commercial packages in Homebrew Casks; neither this project nor Homebrew does distribute or
+sell them; it's **your (the user's) responsibility** to properly obtain any required license. Both Homebrew
+and this project only provide a way to automate their (un)installation.
+
 ### How to use:
 
 - add this to your flake inputs
@@ -25,4 +31,8 @@ Variants are unsupported.
 
 Pull requests welcome :-)
 
+# LICENSE
 
+This project is MIT-licensed. This is applicable to the Nix expressions, shell scripts and other
+software written for this project only. This license does not apply to any package which may be
+managed with the help of this project.
