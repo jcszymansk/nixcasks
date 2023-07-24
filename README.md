@@ -24,6 +24,7 @@ and this project only provide a way to automate their (un)installation.
 
 ## TODO
 
+- github action to update casks.json...
 - support more casks, installers and if possible .pkg's
 - support adding services/autologins
 - better docs
