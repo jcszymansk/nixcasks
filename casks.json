@@ -66,6 +66,12 @@
     "sha256": "77045f837da6da26ae59cd2177dedec6a6e40eeab1f159f26681046b5a644568"
   },
   {
+    "name": "4k-video-downloaderplus",
+    "version": "1.0.1",
+    "url": "https://dl.4kdownload.com/app/4kvideodownloaderplus_1.0.1.dmg",
+    "sha256": "1cfef986b588cc856bac7930f91b6ea425313d9cf66c6b0a75f47a2f73ac609d"
+  },
+  {
     "name": "4k-video-to-mp3",
     "version": "3.0.1",
     "url": "https://dl.4kdownload.com/app/4kvideotomp3_3.0.1.dmg",
@@ -1087,9 +1093,9 @@
   },
   {
     "name": "baidunetdisk",
-    "version": "4.23.5",
-    "url": "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/4.23.5/BaiduNetdisk_mac_4.23.5_x64.dmg",
-    "sha256": "51e3bd959e633f03554bcb04f9f835f88f502b0698917ad73c511e0d71b57449"
+    "version": "4.24.0",
+    "url": "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/4.24.0/BaiduNetdisk_mac_4.24.0_x64.dmg",
+    "sha256": "4e60cd4ac1c19aab3643396ddb2ae1236b55f514dc7a8945551222b9d370cb46"
   },
   {
     "name": "balance-lock",
@@ -1363,9 +1369,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.175,2393",
-    "url": "https://folivora.ai/releases/btt4.175-2393.zip",
-    "sha256": "3c04fe30c7357c0c4b5d5189485ec2ad6c2e6afdabefa1a1dd03b06cc8045155"
+    "version": "4.178,2396",
+    "url": "https://folivora.ai/releases/btt4.178-2396.zip",
+    "sha256": "9700bd89065ecb0ecca0160111fcc0ead4d38f7c169e344201a64f281fe4124f"
   },
   {
     "name": "betterzip",
@@ -2029,9 +2035,9 @@
   },
   {
     "name": "camo-studio",
-    "version": "2.0.3,9716",
-    "url": "https://reincubate.com/res/labs/camo/CamoStudioMac-2.0.3-9716-Release.app.zip",
-    "sha256": "2c675cc7bbb08ce44ab46be68b6e515c882c046aab2129130bb53b83c6f29d36"
+    "version": "2.0.4,10016",
+    "url": "https://reincubate.com/res/labs/camo/CamoStudioMac-2.0.4-10016-Release.app.zip",
+    "sha256": "3c98b62935926f72c8b3cf0508675ecb19245b5aec50ef221ce38be69cec7fa6"
   },
   {
     "name": "camtasia",
@@ -2065,9 +2071,9 @@
   },
   {
     "name": "capacities",
-    "version": "1.26.10",
-    "url": "https://capacities-frontend-app.s3.eu-central-1.amazonaws.com/Capacities-1.26.10.dmg",
-    "sha256": "36bea73d1191d42664c2addebc66f3dee84e2250898d5b58492007a16d53f713"
+    "version": "1.26.20",
+    "url": "https://capacities-frontend-app.s3.eu-central-1.amazonaws.com/Capacities-1.26.20.dmg",
+    "sha256": "ed479920276c04fc51b12239dd948284a76397da5d46597a75c35a2765ec3ca2"
   },
   {
     "name": "caprine",
@@ -2113,9 +2119,9 @@
   },
   {
     "name": "cardhop",
-    "version": "2.2.8",
-    "url": "https://cdn.flexibits.com/Cardhop_2.2.8.zip",
-    "sha256": "23c4f71fef5169c8e0ebb86012d7d963cfceb2c72f7d4ec87e47655a4d04d8db"
+    "version": "2.2.9",
+    "url": "https://cdn.flexibits.com/Cardhop_2.2.9.zip",
+    "sha256": "20264e25bb04ae099189ab6d762017a7ee53d75499cc0d1557991953600eb15f"
   },
   {
     "name": "cardpresso",
@@ -2221,9 +2227,9 @@
   },
   {
     "name": "chatall",
-    "version": "1.37.54",
-    "url": "https://github.com/sunner/ChatALL/releases/download/v1.37.54/ChatALL-1.37.54-mac-x64.dmg",
-    "sha256": "125a8f067232ea55743bcf48f863bb0e0477f9c5d9f1913d7e7c910b772e7819"
+    "version": "1.37.55",
+    "url": "https://github.com/sunner/ChatALL/releases/download/v1.37.55/ChatALL-1.37.55-mac-x64.dmg",
+    "sha256": "49d96bc6ec2e665bf14841d222d076d74e6a048426d7935e78459a25842ed890"
   },
   {
     "name": "chatbox",
@@ -2287,9 +2293,9 @@
   },
   {
     "name": "chirp",
-    "version": "20230722",
-    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230722/chirp-next-20230722.app.zip",
-    "sha256": "537777ffbf867e1ed73b2749c6a13fb6ad67a5b29e09148a450550d84aa8ea48"
+    "version": "20230725",
+    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230725/chirp-next-20230725.app.zip",
+    "sha256": "bcb8e3db1dd3caf22fae3188d9bd65f339f20d2a08a6592bad76069d64a1d064"
   },
   {
     "name": "chrome-devtools",
@@ -2377,9 +2383,9 @@
   },
   {
     "name": "clashx",
-    "version": "1.116.3",
-    "url": "https://github.com/yichengchen/clashX/releases/download/1.116.3/ClashX.dmg",
-    "sha256": "87ee970bb388a183035d9125ae052b9f38bdfa569cbddd36fe293ab1ec33a8ae"
+    "version": "1.117.1",
+    "url": "https://github.com/yichengchen/clashX/releases/download/1.117.1/ClashX.dmg",
+    "sha256": "43ee6f8d75b2c297ba75b9d99a3d1579e87cbff8743650f84d930d04aff5a2c8"
   },
   {
     "name": "classroom-assistant",
@@ -2875,9 +2881,9 @@
   },
   {
     "name": "coteditor",
-    "version": "4.5.6",
-    "url": "https://github.com/coteditor/CotEditor/releases/download/4.5.6/CotEditor_4.5.6.dmg",
-    "sha256": "1e1ec23622a3443e0eeea45f3a39adb12b3de0633d9e2a93977fa64d2365ece4"
+    "version": "4.5.7",
+    "url": "https://github.com/coteditor/CotEditor/releases/download/4.5.7/CotEditor_4.5.7.dmg",
+    "sha256": "6f794ad832f04a2fabb3008d3257bb00eae196d659ee79cb3e9178ca9f96b59d"
   },
   {
     "name": "couchbase-server-community",
@@ -3055,9 +3061,9 @@
   },
   {
     "name": "cursor",
-    "version": "0.3.1",
-    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.3.1-x64-mac.zip",
-    "sha256": "f6e2fe0fa467216ccff6c679bc1e9fb643aa57faf25f126a74e7b106d97c3f60"
+    "version": "0.4.0",
+    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.4.0-x64-mac.zip",
+    "sha256": "a8fd176e6fe7ef0a02e157ad19db85aae3df2e056d5d6b8bd01c0a7105f246f6"
   },
   {
     "name": "cursr",
@@ -3421,9 +3427,9 @@
   },
   {
     "name": "descript",
-    "version": "68.1.6-release.20230719.21161",
-    "url": "https://electron.descript.com/Descript-68.1.6-release.20230719.21161.dmg",
-    "sha256": "6a43af7944b294b70ed9a3d5903d2144e6d053b03e1f2780851a4a06a5b83a85"
+    "version": "69.1.0-release.20230721.21372",
+    "url": "https://electron.descript.com/Descript-69.1.0-release.20230721.21372.dmg",
+    "sha256": "59de8d1e5acb05a8d4e63517339e1cdd5aa466825239d1fbf99e371e6e3e4b8e"
   },
   {
     "name": "deskreen",
@@ -3859,9 +3865,9 @@
   },
   {
     "name": "duckduckgo",
-    "version": "1.48.1",
-    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.48.1.dmg",
-    "sha256": "fe7159e90fbdd459b438ca81b789fb36714860a3ab055b4a6b72afc89bb272ef"
+    "version": "1.48.2",
+    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.48.2.dmg",
+    "sha256": "680e2143ba20f8a2f2403af1e680b8aefb725d53aec68dc20c52335ee417fece"
   },
   {
     "name": "duefocus",
@@ -4441,9 +4447,9 @@
   },
   {
     "name": "fantastical",
-    "version": "3.7.16",
-    "url": "https://cdn.flexibits.com/Fantastical_3.7.16.zip",
-    "sha256": "dfa7762ca348b8f200b2760ea1576e4b3789899750eda1a84edb98cf79f62e5a"
+    "version": "3.7.17",
+    "url": "https://cdn.flexibits.com/Fantastical_3.7.17.zip",
+    "sha256": "133653e747d6d814dd433c9d07d5eb673b1881adbf52c0021e607ff9f67107a7"
   },
   {
     "name": "fantasy-map-generator",
@@ -5179,9 +5185,9 @@
   },
   {
     "name": "gather",
-    "version": "0.9.2",
-    "url": "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.9.2/Gather-0.9.2-mac.zip",
-    "sha256": "dab990fcd533b7262409461e99eafadd392dd08a1d6ab8cd8c373b023d809d17"
+    "version": "0.10.1",
+    "url": "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.10.1/Gather-0.10.1-mac.zip",
+    "sha256": "8a593c90eea329c67ec58b15856cb82cc9e9b69761a6f611fd84766b6a6f9d4e"
   },
   {
     "name": "gb-studio",
@@ -5665,9 +5671,9 @@
   },
   {
     "name": "grandperspective",
-    "version": "3.4.1",
-    "url": "https://downloads.sourceforge.net/grandperspectiv/grandperspective/3.4.1/GrandPerspective-3_4_1.dmg",
-    "sha256": "893b6f3fa88e35c7c3589dea321f9350930dfb7b29c0243fe52f80df4ec12423"
+    "version": "3.4.2",
+    "url": "https://downloads.sourceforge.net/grandperspectiv/grandperspective/3.4.2/GrandPerspective-3_4_2.dmg",
+    "sha256": "660c817900a88b12c60854bcf9416832296fb6cc299440bc3332b7044e287038"
   },
   {
     "name": "grandtotal",
@@ -8161,9 +8167,9 @@
   },
   {
     "name": "mactracker",
-    "version": "7.12.4",
-    "url": "https://www.mactracker.ca/downloads/Mactracker_7.12.4.zip",
-    "sha256": "acdba7193a2deac385e20cbb8f1ee3af207a15f7f16c591407c14d06adf8c5d0"
+    "version": "7.12.5",
+    "url": "https://www.mactracker.ca/downloads/Mactracker_7.12.5.zip",
+    "sha256": "34a62d4dcf73241108406c6e11480d4bf2e538d3b35f0a699ca9bb4e488e72fc"
   },
   {
     "name": "macupdater",
@@ -8209,9 +8215,9 @@
   },
   {
     "name": "maestral",
-    "version": "1.7.3",
-    "url": "https://github.com/SamSchott/maestral/releases/download/v1.7.3/Maestral-1.7.3.dmg",
-    "sha256": "e7fb56b4300e1c017bb9b64f795d91c4b17b735b02599bd699df594127b9a1ff"
+    "version": "1.8.0",
+    "url": "https://github.com/SamSchott/maestral/releases/download/v1.8.0/Maestral-1.8.0.dmg",
+    "sha256": "19e8a8c2985599dbfdf0eff2c1fa0cde2caf012ee5242a3bb3e8686b6d1873b6"
   },
   {
     "name": "magiccap",
@@ -8635,9 +8641,9 @@
   },
   {
     "name": "menubarx",
-    "version": "1.6.2",
-    "url": "https://menubarx-1251679148.file.myqcloud.com/download/MenubarX-1.6.2.dmg",
-    "sha256": "dc5a31fe76838d2fa5e3d6bb96d4c823ad910a407004133c2177976276e70617"
+    "version": "1.6.3",
+    "url": "https://menubarx-1251679148.file.myqcloud.com/download/MenubarX-1.6.3.dmg",
+    "sha256": "3608589b1b467aac70e7614bbe844421c2502fa3eb6797e26dad751c3417972a"
   },
   {
     "name": "menucalendarclock-ical",
@@ -10939,9 +10945,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.133.0,stable.5,5711178",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.133.0-stable.5-ci5711178.dmg",
-    "sha256": "7433d3847fb6f7e76f78d89b395153ec674681e6eae5393fdb172782d7279581"
+    "version": "1.134.0,stable.1,5714997",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.134.0-stable.1-ci5714997.dmg",
+    "sha256": "030857408428490b04aa9eecff8725351e090daeb9733a7f67122a26901b2d10"
   },
   {
     "name": "pixel-check",
@@ -11581,9 +11587,9 @@
   },
   {
     "name": "purei-play",
-    "version": "2023-07-23,df317c49",
-    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/df317c49/Play.dmg",
-    "sha256": "8e8ee7084b2234776488dbbc9fc9caffca3c8dc7e1e1530a3c7ec07c95afcb35"
+    "version": "2023-07-24,d0cad55e",
+    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/d0cad55e/Play.dmg",
+    "sha256": "f837acd2d84771d284a0126d1b87f0f9f3988db1130d604c1ba942d9ba62d597"
   },
   {
     "name": "pusher",
@@ -11779,9 +11785,9 @@
   },
   {
     "name": "qqlive",
-    "version": "2.74.1.53733",
-    "url": "https://dldir1.qq.com/qqtv/mac/TencentVideo2.74.1.53733.dmg",
-    "sha256": "52dba2ea6896caca407633220b55f3bebabba1b8bfe94199ad6ab5eb01bf1668"
+    "version": "2.74.3.53739",
+    "url": "https://dldir1.qq.com/qqtv/mac/TencentVideo2.74.3.53739.dmg",
+    "sha256": "6b3a6d8a7bae7d4ec8aafe16a6f160d772033cc924a08c16ad7031806182eb30"
   },
   {
     "name": "qqmacmgr",
@@ -12283,9 +12289,9 @@
   },
   {
     "name": "retro-virtual-machine",
-    "version": "2.1.6",
-    "url": "https://static.retrovm.org/release/2.1.6/RetroVirtualMachine.2.1.6.dmg",
-    "sha256": "cde283987001b00170e4b2238bda0ef961adc66578c14c7fc210cba6a74440c2"
+    "version": "2.1.7",
+    "url": "https://static.retrovm.org/release/2.1.7/RetroVirtualMachine.2.1.7.dmg",
+    "sha256": "e64fdd820dafaec92a61da960167101d911b005e66c1e76663fb3f3d698d227f"
   },
   {
     "name": "retroactive",
@@ -12331,9 +12337,9 @@
   },
   {
     "name": "rewind",
-    "version": "12505.1,096234d,20230722",
-    "url": "https://updates.rewind.ai/builds/main/b12505.1-main-096234d.zip",
-    "sha256": "ba47739be0f5f28745d877b11f5b86e14a9fa665d3e79baa11510978accbd5fc"
+    "version": "12540.1,383fa91,20230724",
+    "url": "https://updates.rewind.ai/builds/main/b12540.1-main-383fa91.zip",
+    "sha256": "3adc2c9c6ea6c3e383aadb9fd6687138fe972db0a735765e3e6e8f0252c835a1"
   },
   {
     "name": "rhino",
@@ -14563,9 +14569,9 @@
   },
   {
     "name": "telegram",
-    "version": "9.7,249978",
-    "url": "https://osx.telegram.org/updates/Telegram-9.7.249978.app.zip",
-    "sha256": "8d459541d997e4e2679a7c3c6e5ef7dd6de4aa9746c1ce74ac67ac54c18abd2c"
+    "version": "9.7.1,250062",
+    "url": "https://osx.telegram.org/updates/Telegram-9.7.1.250062.app.zip",
+    "sha256": "b822b7f7d8f1eab90f673bfcfae149fa994dac16283753decef3c2289636194c"
   },
   {
     "name": "teleport-connect",
@@ -15253,9 +15259,9 @@
   },
   {
     "name": "trainerroad",
-    "version": "2023.27.0.260",
-    "url": "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2023.27.0.260.dmg",
-    "sha256": "55d777b2b67a80370f8741d92ee0e0bbf8aa061620b8e42c29fc0146817b68ad"
+    "version": "2023.28.0.261",
+    "url": "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2023.28.0.261.dmg",
+    "sha256": "203259a01cd96031e536f3ea36ca07fd0e7480f86129e5c60a8a97df7b0b9cb1"
   },
   {
     "name": "transfer",
@@ -16135,9 +16141,9 @@
   },
   {
     "name": "vrew",
-    "version": "1.2.3",
-    "url": "https://vrew-files.voyagerx.com/Vrew-1.2.3.dmg",
-    "sha256": "41f0763ef8f44bdbd6564c269c2a0e3ab0cd1c08d4d4b6e234b7c7b934b78f51"
+    "version": "1.3.0",
+    "url": "https://vrew-files.voyagerx.com/Vrew-1.3.0.dmg",
+    "sha256": "c81fc0153acba0f5642da4d39535863962a3f8df4ecf05cc9a4c0c62771f1a91"
   },
   {
     "name": "vscodium",
@@ -16531,9 +16537,9 @@
   },
   {
     "name": "wondershare-uniconverter",
-    "version": "14.2.17",
-    "url": "https://download.wondershare.com/cbs_down/uniconverter14-mac_14.2.17_full14207.zip",
-    "sha256": "62a18d09a30e027daa2e4f4feca9cb5b1097d2f3df82bdfab7a37a58ffaae298"
+    "version": "15.0.0",
+    "url": "https://download.wondershare.com/cbs_down/uniconverter15-mac_15.0.0_full14207.zip",
+    "sha256": "a5d0322ac8be2b3d0be67a1c3ae3dabf2a3872d19ac9f355473be02bb726fbce"
   },
   {
     "name": "wordpresscom",
