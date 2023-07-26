@@ -20,11 +20,10 @@ and this project only provide a way to automate their (un)installation.
 
 - add this to your flake inputs
 - in outputs add ```nixcasks = inputs.nixcasks.legacyPackages."${system}"``` to your pkgs
-- in your config use packages like ```with pkgs.nixcasks [ mpv paintbrush tor-browser]``` and so on
+- in your config use packages like ```with pkgs.nixcasks; [ mpv paintbrush tor-browser ]``` and so on
 
 ## TODO
 
-- github action to update casks.json...
 - support more casks, installers and if possible .pkg's
 - support adding services/autologins
 - better docs
