@@ -5425,9 +5425,9 @@
   },
   {
     "name": "github",
-    "version": "3.2.6-de80a354",
-    "url": "https://desktop.githubusercontent.com/github-desktop/releases/3.2.6-de80a354/GitHubDesktop-x64.zip",
-    "sha256": "e24d72e524c96cb133d402914c9f6a7cfb757047384d3786618f67005a196a3d"
+    "version": "3.2.7-889bae6c",
+    "url": "https://desktop.githubusercontent.com/github-desktop/releases/3.2.7-889bae6c/GitHubDesktop-x64.zip",
+    "sha256": "2497ea75cb550b38d06e3f7cf95fc836d9dd0f667b4b3081785ae779e7a79741"
   },
   {
     "name": "gitify",
@@ -6487,15 +6487,15 @@
   },
   {
     "name": "intellij-idea",
-    "version": "2023.1.4,231.9225.16",
-    "url": "https://download.jetbrains.com/idea/ideaIU-2023.1.4.dmg",
-    "sha256": "d039c8789724962fa264d55d47ac2e5efc2779fd082dcb6615ae15b2ca66ce91"
+    "version": "2023.2,232.8660.185",
+    "url": "https://download.jetbrains.com/idea/ideaIU-2023.2.dmg",
+    "sha256": "5c60bbd9527b049777bf3ddd1de0f515688fff9e08d1eb09029082677f579151"
   },
   {
     "name": "intellij-idea-ce",
-    "version": "2023.1.4,231.9225.16",
-    "url": "https://download.jetbrains.com/idea/ideaIC-2023.1.4.dmg",
-    "sha256": "07dcc09078efea0a6c7d009ec79878d69534f2ca973f546ed469abbc4fec5088"
+    "version": "2023.2,232.8660.185",
+    "url": "https://download.jetbrains.com/idea/ideaIC-2023.2.dmg",
+    "sha256": "ad46a72491b50a5bf5f4a3066e7fb969576dd5b4f4dc322b31f14f638d564e2e"
   },
   {
     "name": "internxt-drive",
@@ -10165,9 +10165,9 @@
   },
   {
     "name": "opencore-patcher",
-    "version": "0.6.7",
-    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/0.6.7/OpenCore-Patcher-GUI.app.zip",
-    "sha256": "2b69b86ea8698491d279b4cd5e12f77b8b41166db3f8d522bb8449e03c818247"
+    "version": "0.6.8",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher/releases/download/0.6.8/OpenCore-Patcher-GUI.app.zip",
+    "sha256": "996cbf77d08a5ac6a13403ada89858ce9f5184a99e94788178e321d8fd49caab"
   },
   {
     "name": "openemu",
@@ -11395,9 +11395,9 @@
   },
   {
     "name": "prismlauncher",
-    "version": "7.1",
-    "url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/7.1/PrismLauncher-macOS-7.1.tar.gz",
-    "sha256": "676d0fa10a9a07df152f904bc8515e04c20e4b9d3efd419eed2c92afdd0f9b2c"
+    "version": "7.2",
+    "url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/7.2/PrismLauncher-macOS-7.2.tar.gz",
+    "sha256": "152ebe468edbf36340952213a7721241efcdf438c48b794005acef9fe79947f9"
   },
   {
     "name": "privileges",
@@ -12535,9 +12535,9 @@
   },
   {
     "name": "rubymine",
-    "version": "2023.1.4,231.9225.12",
-    "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1.4.dmg",
-    "sha256": "4ade59a9d04cc4b5e0a4ed62c2c60e8ddba9717ae91a3e8cf53363d8f0a41e29"
+    "version": "2023.1.5,231.9392.3",
+    "url": "https://download.jetbrains.com/ruby/RubyMine-2023.1.5.dmg",
+    "sha256": "1df2e961922d32f946f4295238abeff367a5ef0233298b6fbdbff4cc3eb0c8bd"
   },
   {
     "name": "runelite",
@@ -14575,9 +14575,9 @@
   },
   {
     "name": "telegram",
-    "version": "9.7.1,250062",
-    "url": "https://osx.telegram.org/updates/Telegram-9.7.1.250062.app.zip",
-    "sha256": "92cf04e424ed20f7494723c392d7b5935b05829103faba4a92bb7a7965718863"
+    "version": "9.7.1,250123",
+    "url": "https://osx.telegram.org/updates/Telegram-9.7.1.250123.app.zip",
+    "sha256": "30d953704fd7aa983d120eb22b10fa49783ea518bd478a6116c0f404f5521eda"
   },
   {
     "name": "teleport-connect",
