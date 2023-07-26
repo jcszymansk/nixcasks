@@ -1,0 +1,33 @@
+jobs:
+  updateVSCode:
+    name: Update Brew Casks
+    runs-on: ${{ matrix.os }}
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v3
+      - if: matrix.os == 'ubuntu-latest'
+        name: Config git for github-actions
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+      - name: Update extensions
+        run: |+
+          sh update.sh
+      - name: Commit and push changes.
+        run: >
+          if [ "$(git status --porcelain)" ]; then
+            git add .;
+            git commit -m "action: update casks";
+            git push;
+          fi
+    strategy:
+      matrix:
+        os:
+          - ubuntu-latest
+name: Update Brew Casks
+"on":
+  schedule:
+    - cron: 37 21 * * *
+  workflow_dispatch: {}
