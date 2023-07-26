@@ -31,9 +31,9 @@
   },
   {
     "name": "1password",
-    "version": "8.10.8",
-    "url": "https://downloads.1password.com/mac/1Password-8.10.8-x86_64.zip",
-    "sha256": "1f6b78b046e6d8ca7cf5afbeafca054b2be0d7dcdcf5d02cab7a615ff8755558"
+    "version": "8.10.9",
+    "url": "https://downloads.1password.com/mac/1Password-8.10.9-x86_64.zip",
+    "sha256": "2b0318c5ee96a4b157689de3c8439cd7c2183bfa7067b4623c5ffb44dd9ce718"
   },
   {
     "name": "360safe",
@@ -511,9 +511,9 @@
   },
   {
     "name": "android-studio",
-    "version": "2022.2.1.20",
-    "url": "https://redirector.gvt1.com/edgedl/android/studio/install/2022.2.1.20/android-studio-2022.2.1.20-mac.dmg",
-    "sha256": "eff730036d61deac9dafd956750f213692baf343c493a907791dfc7fdb894a2b"
+    "version": "2022.3.1.18",
+    "url": "https://redirector.gvt1.com/edgedl/android/studio/install/2022.3.1.18/android-studio-2022.3.1.18-mac.dmg",
+    "sha256": "c5ea0ee25e997844c578a919f7a1066273006ef3b628ec12844472e197399961"
   },
   {
     "name": "androidtool",
@@ -613,9 +613,9 @@
   },
   {
     "name": "apifox",
-    "version": "2.3.5",
-    "url": "https://cdn.apifox.cn/download/2.3.5/Apifox-2.3.5.dmg",
-    "sha256": "3f32ced935766b75f4dd858ad8a38f742fce30295ba11c63b0dcd4521871ff1f"
+    "version": "2.3.6",
+    "url": "https://cdn.apifox.cn/download/2.3.6/Apifox-2.3.6.dmg",
+    "sha256": "42a80ce777a62046d70f0c5a5a28924ed71109716cd87f26297e13dc05531ec4"
   },
   {
     "name": "apipost",
@@ -1147,9 +1147,9 @@
   },
   {
     "name": "banktivity",
-    "version": "8.8.2",
-    "url": "https://www.iggsoft.com/banktivity/Banktivity8.8.2.dmg",
-    "sha256": "48c3ea1ce06e9ef54f6864f80836c90a9752e9959a15a43f02c888abce60bd5c"
+    "version": "9.0.2-243",
+    "url": "https://www.iggsoft.com/banktivity/Banktivity9.0.2-243.dmg",
+    "sha256": "c13f318d8926dba021dff327601662d11f610632e05d571a705be4647e511b06"
   },
   {
     "name": "banshee",
@@ -1369,9 +1369,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.178,2396",
-    "url": "https://folivora.ai/releases/btt4.178-2396.zip",
-    "sha256": "9700bd89065ecb0ecca0160111fcc0ead4d38f7c169e344201a64f281fe4124f"
+    "version": "4.179,2397",
+    "url": "https://folivora.ai/releases/btt4.179-2397.zip",
+    "sha256": "9adba54e128328f22e365273d00941127dc1637d1301a9415c8a89ff9a42b3b4"
   },
   {
     "name": "betterzip",
@@ -1897,15 +1897,15 @@
   },
   {
     "name": "burp-suite",
-    "version": "2023.6.2",
-    "url": "https://portswigger.net/burp/releases/download?product=community&version=2023.6.2&type=MacOsx",
-    "sha256": "1b421e36985e69b1261b1a70b3ae3641b7ef4e610f188725043f01e2fd826260"
+    "version": "2023.7.1",
+    "url": "https://portswigger.net/burp/releases/download?product=community&version=2023.7.1&type=MacOsx",
+    "sha256": "dc345044033c1cba901853a23387a82c86d30accf18f459fbf5df962c9ffdc8e"
   },
   {
     "name": "burp-suite-professional",
-    "version": "2023.6.2",
-    "url": "https://portswigger.net/burp/releases/download?product=pro&version=2023.6.2&type=MacOsx",
-    "sha256": "ec067503e757ec479a6e65f58503e1c31721e264ec23f995276d014cbaaf166b"
+    "version": "2023.7.1",
+    "url": "https://portswigger.net/burp/releases/download?product=pro&version=2023.7.1&type=MacOsx",
+    "sha256": "6b49b641f508150b5c846b93b95e03245d06f6838a659cd7f479ac91e58a4023"
   },
   {
     "name": "butt",
@@ -4933,9 +4933,9 @@
   },
   {
     "name": "foxglove-studio",
-    "version": "1.62.0",
-    "url": "https://github.com/foxglove/studio/releases/download/v1.62.0/foxglove-studio-1.62.0-mac-universal.dmg",
-    "sha256": "36c1e5d8d82d2bc0adec2aa5ab9626d5428f0d834b61dcc6b87bb359c26b8b4b"
+    "version": "1.63.0",
+    "url": "https://github.com/foxglove/studio/releases/download/v1.63.0/foxglove-studio-1.63.0-mac-universal.dmg",
+    "sha256": "3db8a1024c86c65750dbdc81973dfcdd7b9bb8fd5d741b9eb38e6bc3b94383e7"
   },
   {
     "name": "foxmail",
@@ -5185,9 +5185,9 @@
   },
   {
     "name": "gather",
-    "version": "0.10.1",
-    "url": "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.10.1/Gather-0.10.1-mac.zip",
-    "sha256": "8a593c90eea329c67ec58b15856cb82cc9e9b69761a6f611fd84766b6a6f9d4e"
+    "version": "0.10.2",
+    "url": "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.10.2/Gather-0.10.2-mac.zip",
+    "sha256": "3e46a8a6b60e40a09c5fc261106bdd98319dd70effd270bcc302bfdc11a682b2"
   },
   {
     "name": "gb-studio",
@@ -5677,9 +5677,9 @@
   },
   {
     "name": "grandtotal",
-    "version": "8.1.2.7",
-    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.2.7.dmg",
-    "sha256": "f2035889cb041c1b4465133f27341842877f969d08d5220faa3a0b3f19cb8185"
+    "version": "8.1.2.9",
+    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.2.9.dmg",
+    "sha256": "d75f54b8604d1284549d8d2aec82cea23051e0e245f2e0aaafe51f657fe22c2f"
   },
   {
     "name": "graphicconverter",
@@ -5971,9 +5971,9 @@
   },
   {
     "name": "hepta",
-    "version": "0.349.2",
-    "url": "https://github.com/heptameta/project-meta/releases/download/v0.349.2/Hepta-0.349.2-mac.zip",
-    "sha256": "f5a53edc95dcd69c0c8b906a5559cdcc160ad8515e4990fa80927377d21deab0"
+    "version": "0.350.2",
+    "url": "https://github.com/heptameta/project-meta/releases/download/v0.350.2/Hepta-0.350.2-mac.zip",
+    "sha256": "f8b84849f8c286aa8876237075092a710b43f058a6e5636b2fb1df3d17ccf611"
   },
   {
     "name": "herd",
@@ -11029,9 +11029,9 @@
   },
   {
     "name": "plex-media-server",
-    "version": "1.32.5.7328,2632c9d3a",
-    "url": "https://downloads.plex.tv/plex-media-server-new/1.32.5.7328-2632c9d3a/macos/PlexMediaServer-1.32.5.7328-2632c9d3a-universal.zip",
-    "sha256": "f5e3c40c651e1ffd400144e45e185ab90e544b6febac6001082776257c944ea3"
+    "version": "1.32.5.7349,8f4248874",
+    "url": "https://downloads.plex.tv/plex-media-server-new/1.32.5.7349-8f4248874/macos/PlexMediaServer-1.32.5.7349-8f4248874-universal.zip",
+    "sha256": "d93b22cd1ec94c9bdf567eb601fc0393de19556b3caf8440d1b4fea81990261f"
   },
   {
     "name": "plexamp",
@@ -11865,7 +11865,7 @@
     "name": "querious",
     "version": "4.0.3",
     "url": "https://www.araelium.com/querious/downloads/versions/Querious4.0.3.zip",
-    "sha256": "665c57474e7e3250099bef3171811be5d9bc1f45e850f4493a7ed348558d86ad"
+    "sha256": "24780dd34c0f4080041fcba0b19619a161be819d5ff7263a495903409ce3bce1"
   },
   {
     "name": "querypie",
@@ -12391,9 +12391,9 @@
   },
   {
     "name": "rive",
-    "version": "0.8.481",
-    "url": "https://releases.rive.app/macos/0.8.481/Rive.dmg",
-    "sha256": "0255de8790ee5372b1605d0a891f2c5d424564e005844aa3a57aaa127ca3c0ea"
+    "version": "0.8.585",
+    "url": "https://releases.rive.app/macos/0.8.585/Rive.dmg",
+    "sha256": "59dfffd75510d9015d2c63c94cd1158da482e24fd82f49879dbd9cd2c90e23f7"
   },
   {
     "name": "roam-research",
@@ -12763,9 +12763,9 @@
   },
   {
     "name": "screens",
-    "version": "4.12.10,1689789098",
-    "url": "https://updates.edovia.com/com.edovia.screens4.mac/Screens_4.12.10b1689789098.zip",
-    "sha256": "edf188f25384d7c39857fec9ce491aedf7176bd6b52ea5b41c5e433285cdfe8c"
+    "version": "4.12.11,1690321183",
+    "url": "https://updates.edovia.com/com.edovia.screens4.mac/Screens_4.12.11b1690321183.zip",
+    "sha256": "fecb062a257a3dda8efeadfd45a1929d919ee92d4ab27cc4844fd9711fded86b"
   },
   {
     "name": "screens-connect",
@@ -12946,6 +12946,12 @@
     "version": "3.28.1,53,1689604348",
     "url": "https://dl.devmate.com/com.setapp.DesktopClient/53/1689604348/Setapp-53.zip",
     "sha256": "afd3c9e6bace8a37a396d01da46f91b50118e5a7adbe9408ecf3b07fc08f9fb1"
+  },
+  {
+    "name": "sfm",
+    "version": "1.3.4",
+    "url": "https://github.com/SagerNet/sing-box/releases/download/v1.3.4/SFM-1.3.4-universal.zip",
+    "sha256": "751456e146155f959568403ffd186524e6770e5e19f0780fc97ed664bcfc7122"
   },
   {
     "name": "shadow",
@@ -13279,9 +13285,9 @@
   },
   {
     "name": "siyuan",
-    "version": "2.9.6",
-    "url": "https://github.com/siyuan-note/siyuan/releases/download/v2.9.6/siyuan-2.9.6-mac.dmg",
-    "sha256": "69f07745c97e69a71d206b596ade0f0217160928b088280b3f42d912d05677db"
+    "version": "2.9.7",
+    "url": "https://github.com/siyuan-note/siyuan/releases/download/v2.9.7/siyuan-2.9.7-mac.dmg",
+    "sha256": "8e9cc79448467c8cf883ff1088164ba86f7137484859e4d119678c622beffee9"
   },
   {
     "name": "sizeup",
@@ -14571,7 +14577,7 @@
     "name": "telegram",
     "version": "9.7.1,250062",
     "url": "https://osx.telegram.org/updates/Telegram-9.7.1.250062.app.zip",
-    "sha256": "b822b7f7d8f1eab90f673bfcfae149fa994dac16283753decef3c2289636194c"
+    "sha256": "92cf04e424ed20f7494723c392d7b5935b05829103faba4a92bb7a7965718863"
   },
   {
     "name": "teleport-connect",
@@ -15151,9 +15157,9 @@
   },
   {
     "name": "topaz-video-ai",
-    "version": "3.1.5",
-    "url": "https://downloads.topazlabs.com/deploy/TopazVideoAI/3.1.5/TopazVideoAI-3.1.5.dmg",
-    "sha256": "aa70b1cc890528463e993bcc3fefdc6a0b611bc732b0e8c3893c0929b3e832a2"
+    "version": "3.3.6",
+    "url": "https://downloads.topazlabs.com/deploy/TopazVideoAI/3.3.6/TopazVideoAI-3.3.6.dmg",
+    "sha256": "6f5dac4319c3e6b797e425b0906325f08a44f176f8bc7669d68a2c8a8d0c333a"
   },
   {
     "name": "topnotch",
@@ -15259,9 +15265,9 @@
   },
   {
     "name": "trainerroad",
-    "version": "2023.28.0.261",
-    "url": "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2023.28.0.261.dmg",
-    "sha256": "203259a01cd96031e536f3ea36ca07fd0e7480f86129e5c60a8a97df7b0b9cb1"
+    "version": "2023.28.1.262",
+    "url": "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2023.28.1.262.dmg",
+    "sha256": "f7623f634e515fd46d4d5508718e5108318452964939c5bf457c435fdd3d2e8c"
   },
   {
     "name": "transfer",
@@ -16149,7 +16155,7 @@
     "name": "vscodium",
     "version": "1.80.1.23194",
     "url": "https://github.com/VSCodium/vscodium/releases/download/1.80.1.23194/VSCodium.x64.1.80.1.23194.dmg",
-    "sha256": "592e0b901e74ae345500d21df2fcf93782b15bba80171df4c32fe80d02def024"
+    "sha256": "e660a5153bf07f04fac0e4ea6d141190352fc685a6a87e6c6afa9a474e60714a"
   },
   {
     "name": "vsee",
@@ -16561,9 +16567,9 @@
   },
   {
     "name": "workflowy",
-    "version": "4.0.2307191815",
-    "url": "https://github.com/workflowy/desktop/releases/download/v4.0.2307191815/WorkFlowy.zip",
-    "sha256": "081cf64615aba51b7b9372d957284c70ad15e77bae3a3def800d418d06d4926e"
+    "version": "4.0.2307251047",
+    "url": "https://github.com/workflowy/desktop/releases/download/v4.0.2307251047/WorkFlowy.zip",
+    "sha256": "4c1bf863b28ff86e2c2a763e001246f93366b7d3485ec8f09892c5a430d9f87e"
   },
   {
     "name": "workspaces",
