@@ -613,9 +613,9 @@
   },
   {
     "name": "apifox",
-    "version": "2.3.7",
-    "url": "https://cdn.apifox.cn/download/2.3.7/Apifox-2.3.7.dmg",
-    "sha256": "ac31ccf602310c7884e1e0730892af072ad7194941cd6d7977f1966d1ef519d5"
+    "version": "2.3.8",
+    "url": "https://cdn.apifox.cn/download/2.3.8/Apifox-2.3.8.dmg",
+    "sha256": "d2c7f5591be8f4cfbb0e069cc17aa5fd8e420edfb2d93085a2d8b1976149aa56"
   },
   {
     "name": "apipost",
@@ -739,9 +739,9 @@
   },
   {
     "name": "arc",
-    "version": "1.1.0,40355",
-    "url": "https://releases.arc.net/release/Arc-1.1.0-40355.zip",
-    "sha256": "39c758184cfac5d1673a4cf34e6c041b5924ff37e22e56ba3c2f1ee112e513ae"
+    "version": "1.1.1,40415",
+    "url": "https://releases.arc.net/release/Arc-1.1.1-40415.zip",
+    "sha256": "7ca89878799add943cc827ab32371cb7921fc6b94c8a928339fedb008bf8524e"
   },
   {
     "name": "archipelago",
@@ -1399,9 +1399,9 @@
   },
   {
     "name": "bike",
-    "version": "1.13,142",
-    "url": "https://www.hogbaysoftware.com/bike/releases/142.dmg",
-    "sha256": "398931afbe4b7bb5baad6504521a3b342ee61d828ec51a633f8e482ef0251d2b"
+    "version": "1.13,143",
+    "url": "https://www.hogbaysoftware.com/bike/releases/143.dmg",
+    "sha256": "5003c89743812308ed0d03a171cbbb9f5125c5763fb1b76f139b5f1571b43336"
   },
   {
     "name": "bili-downloader",
@@ -2665,9 +2665,9 @@
   },
   {
     "name": "cog",
-    "version": "2794,38ad84e86",
-    "url": "https://cogcdn.cog.losno.co/Cog-38ad84e86.zip",
-    "sha256": "416277432e1a9752c3fe0524c9ab0c0170ef6b68d310ba8f8436184a94a17ba4"
+    "version": "2799,545a1e963",
+    "url": "https://cogcdn.cog.losno.co/Cog-545a1e963.zip",
+    "sha256": "8e6e9112e1b40cb27985b1260647192f1eadf7c2dec718e649484eb1bf75d786"
   },
   {
     "name": "coherence-x",
@@ -4915,9 +4915,9 @@
   },
   {
     "name": "fork",
-    "version": "2.30",
-    "url": "https://cdn.fork.dev/mac/Fork-2.30.dmg",
-    "sha256": "495490d216960d891ce250d0cf2651d7be5ef3e7bcd24ce036b2bb3d398333cb"
+    "version": "2.31",
+    "url": "https://cdn.fork.dev/mac/Fork-2.31.dmg",
+    "sha256": "c17164dd2f4aacd7e7e8773454facc1e3f758fb85d502c3bf625114b3f8747ab"
   },
   {
     "name": "forklift",
@@ -5023,9 +5023,9 @@
   },
   {
     "name": "freeplane",
-    "version": "1.11.4",
-    "url": "https://downloads.sourceforge.net/freeplane/Freeplane-1.11.4-intel.dmg",
-    "sha256": "b50f599e5eba56e6ad52a3aed6fb5a1abc572b32fb05303b3ec8b3040402c215"
+    "version": "1.11.5",
+    "url": "https://downloads.sourceforge.net/freeplane/Freeplane-1.11.5-intel.dmg",
+    "sha256": "ff28faea567b8fef490ff2527b31fe34e97ec1661296d2c59b0e4306b87a6fe4"
   },
   {
     "name": "freesmug-chromium",
@@ -5185,9 +5185,9 @@
   },
   {
     "name": "gather",
-    "version": "0.10.3",
-    "url": "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.10.3/Gather-0.10.3-mac.zip",
-    "sha256": "7d4e2afd8f254b0b90d956af4602b9c15b2f4af1344624fc78ecf06a192d3777"
+    "version": "0.11.0",
+    "url": "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.11.0/Gather-0.11.0-mac.zip",
+    "sha256": "d1fb2476e320f7c41c69839f934767b72052db42da6e43c9722c2e4565e327db"
   },
   {
     "name": "gb-studio",
@@ -5977,9 +5977,9 @@
   },
   {
     "name": "herd",
-    "version": "1.0.8",
-    "url": "https://download.herdphp.com/app_versions/Herd_1.0.8.dmg",
-    "sha256": "39a709014c361a1b63bb5fde2a43b9bd55c0256e2582f19851bb1fdae6ce8658"
+    "version": "1.1.1",
+    "url": "https://download.herdphp.com/app_versions/Herd_1.1.1.dmg",
+    "sha256": "b9b343759b0aab74207b083ea26bcca8933c82c5a2271ec70a0925169d9d5a05"
   },
   {
     "name": "hermes",
@@ -6955,9 +6955,9 @@
   },
   {
     "name": "jquake",
-    "version": "1.8.4",
-    "url": "https://fleneindre.github.io/downloads/JQuake_1.8.4_mac_intel.dmg",
-    "sha256": "6e357ba4ce46e35e628118fbaa530d26e1bb8a8a0f1a19aa160a788facaeeed4"
+    "version": "1.8.5",
+    "url": "https://fleneindre.github.io/downloads/JQuake_1.8.5_mac_intel.dmg",
+    "sha256": "d503a113791ea5f731bcb0de4c57d3e4544982263296a3c14b99c21e5105db9f"
   },
   {
     "name": "jt-bridge",
@@ -7369,9 +7369,9 @@
   },
   {
     "name": "koodo-reader",
-    "version": "1.5.6",
-    "url": "https://github.com/troyeguo/koodo-reader/releases/download/v1.5.6/Koodo-Reader-1.5.6-x64.dmg",
-    "sha256": "c90489f0c8e43dc4e07b4324e6020f309e0af043f3ae7a26b4c74f10026fd1b8"
+    "version": "1.5.7",
+    "url": "https://github.com/troyeguo/koodo-reader/releases/download/v1.5.7/Koodo-Reader-1.5.7-x64.dmg",
+    "sha256": "9811be8575c01785dc3a3a3a32b87a6b735c6e6a5cdb9d54d33bf574195d7b68"
   },
   {
     "name": "kopiaui",
@@ -7567,9 +7567,9 @@
   },
   {
     "name": "leapp",
-    "version": "0.18.1",
-    "url": "https://asset.noovolari.com/0.18.1/Leapp-0.18.1.dmg",
-    "sha256": "2ca7464e62e2b9444334e474c2dfa8d490b28233f7bedb44071edf22a480972c"
+    "version": "0.18.3",
+    "url": "https://asset.noovolari.com/0.18.3/Leapp-0.18.3.dmg",
+    "sha256": "f47777be8b96b9f63139106cadef6f40509df7c66cb3fba003b226871db61707"
   },
   {
     "name": "lectrote",
@@ -9649,9 +9649,9 @@
   },
   {
     "name": "netron",
-    "version": "7.0.8",
-    "url": "https://github.com/lutzroeder/netron/releases/download/v7.0.8/Netron-7.0.8-mac.zip",
-    "sha256": "0752866bd1edf85db773b799c0eb1f6f629f5a12dbb3b6a73b5b4287443d3884"
+    "version": "7.0.9",
+    "url": "https://github.com/lutzroeder/netron/releases/download/v7.0.9/Netron-7.0.9-mac.zip",
+    "sha256": "748106738260d4189d28f059586e00625f6f6ae87ff21dc94875e5f751c33320"
   },
   {
     "name": "netxms-console",
@@ -9919,9 +9919,9 @@
   },
   {
     "name": "nuage",
-    "version": "0.0.5",
-    "url": "https://github.com/lbrndnr/nuage-macos/releases/download/v0.0.5/Nuage.app.zip",
-    "sha256": "5e39799770ad618f7625da0ee7a9727644061b80c2e19725fd6d07d67d72c010"
+    "version": "0.0.6",
+    "url": "https://github.com/lbrndnr/nuage-macos/releases/download/v0.0.6/Nuage.app.zip",
+    "sha256": "21c3607ee6e04ca4b17892a02f07c5d8a15278db4851bf8a138d5abe92b43511"
   },
   {
     "name": "nuclear",
@@ -10663,9 +10663,9 @@
   },
   {
     "name": "pcoipclient",
-    "version": "23.06.0",
-    "url": "https://dl.teradici.com/DeAdBCiUYInHcSTy/pcoip-client/raw/names/pcoip-client-dmg/versions/23.06.0/pcoip-client_23.06.0.dmg",
-    "sha256": "08b03ffe4962db57a9d2040cfcb692199cc713ad7da5b9746b49e7ce89bce2f0"
+    "version": "23.06.2",
+    "url": "https://dl.teradici.com/DeAdBCiUYInHcSTy/pcoip-client/raw/names/pcoip-client-dmg/versions/23.06.2/pcoip-client_23.06.2.dmg",
+    "sha256": "8044dd1667cad93eddaac5698fc2ebc42136f42cbab39e7efef34305835aba2a"
   },
   {
     "name": "pd",
@@ -12733,9 +12733,9 @@
   },
   {
     "name": "screen-studio",
-    "version": "2.16.1",
-    "url": "https://screenstudioassets.com/Screen%20Studio-2.16.1-mac.zip",
-    "sha256": "4228c9fbacf1a4ecd2d549d45b8c1712b9201539d6d07052eb91c66b6b8ced29"
+    "version": "2.16.2",
+    "url": "https://screenstudioassets.com/Screen%20Studio-2.16.2-mac.zip",
+    "sha256": "2b71c4cce6e9316fb66f090287063c193bcae7746376d5a29e4df73f3f2fef0f"
   },
   {
     "name": "screencast",
@@ -13165,9 +13165,9 @@
   },
   {
     "name": "sigmaos",
-    "version": "1.9.1.3",
-    "url": "https://releases.sigmaos.com/SigmaOS-1.9.1.3.dmg",
-    "sha256": "9de9d64b40588c4be4fa1ed7e2006253a6e3bebc6fc8281f3b5be6aead67c739"
+    "version": "1.10.0.2",
+    "url": "https://releases.sigmaos.com/SigmaOS-1.10.0.2.dmg",
+    "sha256": "e992d90de0faa4b94c0b3bd6b2e671fbf0b020e2bc905b5c8d3bfa4edf40515a"
   },
   {
     "name": "signal",
@@ -14653,9 +14653,9 @@
   },
   {
     "name": "texstudio",
-    "version": "4.5.2",
-    "url": "https://github.com/texstudio-org/texstudio/releases/download/4.5.2/texstudio-4.5.2-osx.dmg",
-    "sha256": "944ea236e493e77a55cc0b970ee1001849353c8f1da9cb635c7243efca3ca882"
+    "version": "4.6.0",
+    "url": "https://github.com/texstudio-org/texstudio/releases/download/4.6.0/texstudio-4.6.0-osx.dmg",
+    "sha256": "5f61e4b684fa5e07749f091874df42082bd0accd7721dca0b718d08b43eb2a2b"
   },
   {
     "name": "textadept",
@@ -16987,9 +16987,9 @@
   },
   {
     "name": "zed",
-    "version": "0.96.3",
-    "url": "https://zed.dev/api/releases/stable/0.96.3/Zed.dmg",
-    "sha256": "a3f1a36fb973bd67a11e488d9f07cca54a67404da3b8ca8371499d34d705ca93"
+    "version": "0.96.4",
+    "url": "https://zed.dev/api/releases/stable/0.96.4/Zed.dmg",
+    "sha256": "44ff647b64905334f74e1b243cf0aa34047de6309828187c2f68ae34ba14ca26"
   },
   {
     "name": "zeebe-modeler",
