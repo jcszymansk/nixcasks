@@ -1363,9 +1363,9 @@
   },
   {
     "name": "bettermouse",
-    "version": "1.5.3780",
-    "url": "https://better-mouse.com/wp-content/uploads/BetterMouse.1.5.3780.zip",
-    "sha256": "1a44e14b647f3272280498e7b76c7b7aaf796081cdaa24eb25bf82c1e303fb3c"
+    "version": "1.5.3792",
+    "url": "https://better-mouse.com/wp-content/uploads/BetterMouse.1.5.3792.zip",
+    "sha256": "236469d660f359d521ef80784b9f852945febc25504ed813f9d82ed7a61a23e8"
   },
   {
     "name": "bettertouchtool",
@@ -2121,7 +2121,7 @@
     "name": "cardhop",
     "version": "2.2.9",
     "url": "https://cdn.flexibits.com/Cardhop_2.2.9.zip",
-    "sha256": "20264e25bb04ae099189ab6d762017a7ee53d75499cc0d1557991953600eb15f"
+    "sha256": "29be9cf08605adb0fbb889e1255dc1d22c8a91c3e3de19601b92c9bb97a0eb17"
   },
   {
     "name": "cardpresso",
@@ -7609,9 +7609,9 @@
   },
   {
     "name": "librecad",
-    "version": "2.2.0.1",
-    "url": "https://github.com/LibreCAD/LibreCAD/releases/download/2.2.0.1/LibreCAD-2.2.0.1.dmg",
-    "sha256": "23b47914440c99d6d0371e67d31f5bb328ad8f6966d7ed564820cb7a71a3b350"
+    "version": "2.2.0.2",
+    "url": "https://github.com/LibreCAD/LibreCAD/releases/download/2.2.0.2/LibreCAD-2.2.0.2.dmg",
+    "sha256": "552e2ac63fca297c617511c3983be7477bc050e8f774841abb7db5ce81ce935b"
   },
   {
     "name": "libreoffice",
@@ -7927,9 +7927,9 @@
   },
   {
     "name": "lunar",
-    "version": "6.2.1",
-    "url": "https://static.lunar.fyi/releases/Lunar-6.2.1.dmg",
-    "sha256": "659c34c56738ea01ba6bbf7b84269b86fcfcaec300c481dedc0f1411dccd3b71"
+    "version": "6.2.2",
+    "url": "https://static.lunar.fyi/releases/Lunar-6.2.2.dmg",
+    "sha256": "f040c09bb31f295a9f79a9012ab711f24a1bc03f51ff422cd8cc9bffa7a74d01"
   },
   {
     "name": "lunar-client",
@@ -10363,9 +10363,9 @@
   },
   {
     "name": "orbstack",
-    "version": "0.15.0_2207",
-    "url": "https://cdn-updates.orbstack.dev/amd64/OrbStack_v0.15.0_2207_amd64.dmg",
-    "sha256": "d48666d083e2ed7b4c8a27ba3bd079d525ef235754a6222d2da7b779efe5ae73"
+    "version": "0.15.1_2284",
+    "url": "https://cdn-updates.orbstack.dev/amd64/OrbStack_v0.15.1_2284_amd64.dmg",
+    "sha256": "3419ba4b248f9d5273d0fcd9c361b91d443236cd36bea0a64fe34d152adbb313"
   },
   {
     "name": "orca",
@@ -12337,9 +12337,9 @@
   },
   {
     "name": "rewind",
-    "version": "12631.1,4cc6188,20230727",
-    "url": "https://updates.rewind.ai/builds/main/b12631.1-main-4cc6188.zip",
-    "sha256": "2d50681dd6cf2133b44daf595dbafbbd957439509e78caefbd4898b1d74cd49b"
+    "version": "12722.1,5c283ae,20230729",
+    "url": "https://updates.rewind.ai/builds/main/b12722.1-main-5c283ae.zip",
+    "sha256": "09cb3c5ac029086e83a04d3671f738964ee0e91cb567d57d2b33eba7dae4007e"
   },
   {
     "name": "rhino",
@@ -13165,9 +13165,9 @@
   },
   {
     "name": "sigmaos",
-    "version": "1.10.0.2",
-    "url": "https://releases.sigmaos.com/SigmaOS-1.10.0.2.dmg",
-    "sha256": "e992d90de0faa4b94c0b3bd6b2e671fbf0b020e2bc905b5c8d3bfa4edf40515a"
+    "version": "1.10.0.3",
+    "url": "https://releases.sigmaos.com/SigmaOS-1.10.0.3.dmg",
+    "sha256": "2a04655fb071ba763070a8c9c4c4f2cc3117191c4e953dd56a33e40472a1b21e"
   },
   {
     "name": "signal",
@@ -14653,9 +14653,9 @@
   },
   {
     "name": "texstudio",
-    "version": "4.6.0",
-    "url": "https://github.com/texstudio-org/texstudio/releases/download/4.6.0/texstudio-4.6.0-osx.dmg",
-    "sha256": "5f61e4b684fa5e07749f091874df42082bd0accd7721dca0b718d08b43eb2a2b"
+    "version": "4.6.1",
+    "url": "https://github.com/texstudio-org/texstudio/releases/download/4.6.1/texstudio-4.6.1-osx.dmg",
+    "sha256": "12c952ed0d4f6328ad76413d37f40f79b98a35482c3c096b8021812f92ab51fd"
   },
   {
     "name": "textadept",
@@ -15025,9 +15025,9 @@
   },
   {
     "name": "tinkerwell",
-    "version": "3.28.0",
-    "url": "https://download.tinkerwell.app/tinkerwell/Tinkerwell-3.28.0.dmg",
-    "sha256": "316662708f66c5dc56c5011b7746890aa8e0b36573c91af6525aa3e74bd676e8"
+    "version": "3.29.0",
+    "url": "https://download.tinkerwell.app/tinkerwell/Tinkerwell-3.29.0.dmg",
+    "sha256": "d03d72e925442fa25c67c8d89a35c6822704f520a6ed54802de102078c091eff"
   },
   {
     "name": "tint",
@@ -16495,9 +16495,9 @@
   },
   {
     "name": "winzip",
-    "version": "10.0.6200",
+    "version": "10.5.6553",
     "url": "https://download.winzip.com/winzipmacedition10.dmg",
-    "sha256": "ad8055062495d73516f204172163dcb3cb197a825c06da0be28eb8e2fc669b05"
+    "sha256": "4df2e1906e93f00cfbb23c0335c2e70d439d4355550b7d37289b2c0280dd3fca"
   },
   {
     "name": "wirecast",
@@ -16723,9 +16723,9 @@
   },
   {
     "name": "xemu",
-    "version": "0.7.106",
-    "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.106/xemu-macos-universal-release.zip",
-    "sha256": "558a7981c289e977115dd71c57aa79d9dd2983d696625b8dd9daf9b2f42ed242"
+    "version": "0.7.109",
+    "url": "https://github.com/xemu-project/xemu/releases/download/v0.7.109/xemu-macos-universal-release.zip",
+    "sha256": "27436aa93c428fcd0b380f3fe1391466fb73fec7a166a886154d8fcd88d8a64a"
   },
   {
     "name": "xiami",
