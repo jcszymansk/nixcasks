@@ -349,9 +349,9 @@
   },
   {
     "name": "aldente",
-    "version": "1.22",
-    "url": "https://github.com/davidwernhart/AlDente/releases/download/1.22/AlDente.dmg",
-    "sha256": "cbc4bd4820dbbe8286b4da8642f2434a96cb861ec6a97528ee92dc333b829e3a"
+    "version": "1.22.2",
+    "url": "https://github.com/davidwernhart/AlDente/releases/download/1.22.2/AlDente.dmg",
+    "sha256": "6d1108d114b8c6f11c732c37c9e779683f281b9c260f98721bcdaa5b6b6a9440"
   },
   {
     "name": "aleph-one",
@@ -2065,9 +2065,9 @@
   },
   {
     "name": "canva",
-    "version": "1.70.0",
-    "url": "https://desktop-release.canva-deploy.com/Canva-1.70.0-universal.dmg",
-    "sha256": "86e0ee46499d93336768a403859849cb6320349f5aa06a439d3abef4fa89d6be"
+    "version": "1.71.0",
+    "url": "https://desktop-release.canva-deploy.com/Canva-1.71.0-universal.dmg",
+    "sha256": "3fd814c58bb5d230cb9d6f465c8dd976a3f16ed02bc8ca304f09c0c74c3a4879"
   },
   {
     "name": "capacities",
@@ -2233,9 +2233,9 @@
   },
   {
     "name": "chatbox",
-    "version": "0.6.3",
-    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v0.6.3/Chatbox-0.6.3.dmg",
-    "sha256": "8a4a678e1cdb9751e666dc4ca1fd5d7a28d0d47c99c984c779fabaa110dbca74"
+    "version": "0.6.5",
+    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v0.6.5/Chatbox-0.6.5.dmg",
+    "sha256": "e47b423ecdb255b4ef5cd09efb00b24792841abf96752f276f24caa3d54112da"
   },
   {
     "name": "chatmate-for-facebook",
@@ -2332,6 +2332,12 @@
     "version": "1.6.1",
     "url": "https://github.com/ciderapp/Cider/releases/download/v1.6.1/Cider-1.6.1.dmg",
     "sha256": "16d84f5b5a649dfe4c442fca9f8eaa126cfcc665ceab4509ef82f33e3c202365"
+  },
+  {
+    "name": "cilicon",
+    "version": "2.1.0",
+    "url": "https://github.com/traderepublic/Cilicon/releases/download/v2.1.0/Cilicon.zip",
+    "sha256": "af39cff356afb5c22f006349a72f0bf1db02ad55bb2401eeb6bd360308fd9c01"
   },
   {
     "name": "cinch",
@@ -4219,9 +4225,9 @@
   },
   {
     "name": "emacs",
-    "version": "28.2",
-    "url": "https://emacsformacosx.com/emacs-builds/Emacs-28.2-universal.dmg",
-    "sha256": "b2bd1f0dcdc8e5be37f613310572b23e022cc42b950cb3860a9f4aaad1fd426a"
+    "version": "29.1",
+    "url": "https://emacsformacosx.com/emacs-builds/Emacs-29.1-universal.dmg",
+    "sha256": "a2e9e1c4b11c326434535762d1523c56d7c8d509a005069cc94e20e6d4c86353"
   },
   {
     "name": "emby-server",
@@ -4915,9 +4921,9 @@
   },
   {
     "name": "fork",
-    "version": "2.31",
-    "url": "https://cdn.fork.dev/mac/Fork-2.31.dmg",
-    "sha256": "c17164dd2f4aacd7e7e8773454facc1e3f758fb85d502c3bf625114b3f8747ab"
+    "version": "2.31.2",
+    "url": "https://cdn.fork.dev/mac/Fork-2.31.2.dmg",
+    "sha256": "20fe7af3e1ba3182d2c80bfc63f274045c0d28f411d68a20bb642ec4e2ac7895"
   },
   {
     "name": "forklift",
@@ -5091,7 +5097,7 @@
     "name": "fsnotes",
     "version": "6.4.1",
     "url": "https://github.com/glushchenko/fsnotes/releases/download/6.4.1/FSNotes_6.4.1.zip",
-    "sha256": "c0f1bd0f9fa5802500d259f401f0a4019aacae5dd97683c713e7f67059fb7958"
+    "sha256": "0a2864b5b5ab3c39e77e8d34994dc92b4ae528d872b532c377e29b4ce8dbaa68"
   },
   {
     "name": "fspy",
@@ -5971,9 +5977,9 @@
   },
   {
     "name": "hepta",
-    "version": "0.352.0",
-    "url": "https://github.com/heptameta/project-meta/releases/download/v0.352.0/Hepta-0.352.0-mac.zip",
-    "sha256": "44c4c4077dd0bce73e954c2d4140be62ab27bfe097e7acd44c286228fa396c72"
+    "version": "0.354.0",
+    "url": "https://github.com/heptameta/project-meta/releases/download/v0.354.0/Hepta-0.354.0-mac.zip",
+    "sha256": "3cc28c3066f301439cc8053936e88031c7922dd35b0f0ab3c79cc4ddd99248ca"
   },
   {
     "name": "herd",
@@ -6978,6 +6984,12 @@
     "sha256": "ee308adbd3ee827c2735931844a10f0f779f8953204aeaacb0eb64705244b310"
   },
   {
+    "name": "jukebox",
+    "version": "0.9.5",
+    "url": "https://github.com/Jaysce/Jukebox/releases/download/v0.9.5/Jukebox.0.9.5.dmg",
+    "sha256": "51b939faee653015932fbe8cb32b9ac6d06482c3b3fdc73d9fb46ed67857ace7"
+  },
+  {
     "name": "julia",
     "version": "1.9.2",
     "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.9/julia-1.9.2-mac64.dmg",
@@ -7459,9 +7471,9 @@
   },
   {
     "name": "lagrange",
-    "version": "1.16.5",
-    "url": "https://github.com/skyjake/lagrange/releases/download/v1.16.5/lagrange_v1.16.5_macos10.13-x86_64.tbz",
-    "sha256": "feb5eaffc6a3d90b52499c2e0e6e18fd704da39006265f965de09a344b7fad75"
+    "version": "1.16.6",
+    "url": "https://github.com/skyjake/lagrange/releases/download/v1.16.6/lagrange_v1.16.6_macos10.13-x86_64.tbz",
+    "sha256": "a95e4af093e2e047c14bb540d05b6c1bec87782d6eae847dead099ea1d960a39"
   },
   {
     "name": "landrop",
@@ -8257,9 +8269,9 @@
   },
   {
     "name": "mailspring",
-    "version": "1.10.8",
-    "url": "https://github.com/Foundry376/Mailspring/releases/download/1.10.8/Mailspring.zip",
-    "sha256": "7288aa505301f4f767b692b94dc5aaf65ba9d1e686e0a69f3300489f2577c30d"
+    "version": "1.11.0",
+    "url": "https://github.com/Foundry376/Mailspring/releases/download/1.11.0/Mailspring.zip",
+    "sha256": "871aacc202c4198c80cedb99d39e8e6261b59ca64ee8867d95b3f9a900e80ae7"
   },
   {
     "name": "majsoul-plus",
@@ -8749,9 +8761,9 @@
   },
   {
     "name": "miaoyan",
-    "version": "1.11.0",
-    "url": "https://github.com/tw93/MiaoYan/releases/download/V1.11.0/MiaoYan.dmg",
-    "sha256": "e148b491de5100d7babc3347c592c7e39825e3869b77f6ca28f7c5a0dd520d62"
+    "version": "1.12.1",
+    "url": "https://github.com/tw93/MiaoYan/releases/download/V1.12.1/MiaoYan.dmg",
+    "sha256": "f529d9d1d7d3f51956a5adc2e8e8978b763af28cd93908542f46bcdb067a11e3"
   },
   {
     "name": "mic-drop",
@@ -9355,9 +9367,9 @@
   },
   {
     "name": "multi",
-    "version": "2.2.3",
-    "url": "https://github.com/hkgumbs/multi/releases/download/v2.2.3/Multi.2.2.3.dmg",
-    "sha256": "fe8a407f2beba76fa695d37c9c05a41fa2db4a9fe2198383093e2e330f9333d8"
+    "version": "3.0.0",
+    "url": "https://github.com/hkgumbs/multi/releases/download/v3.0.0/Multi.3.0.0.dmg",
+    "sha256": "f3f118ea3616638166095d28502a84fde3449d897d064e6c0a801f65c0f3f536"
   },
   {
     "name": "multibit-hd",
@@ -10003,9 +10015,9 @@
   },
   {
     "name": "obsidian",
-    "version": "1.3.5",
-    "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.5/Obsidian-1.3.5-universal.dmg",
-    "sha256": "6d3209c10aae7f3c6ad7f67147cad560447cdad974a4f3292b00cfafd1b3d50e"
+    "version": "1.3.7",
+    "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.3.7/Obsidian-1.3.7-universal.dmg",
+    "sha256": "8c7b2b4980472413320a11ac8171f11ff4bbc1d23508ca27ce277c59e9cd4a62"
   },
   {
     "name": "octomouse",
@@ -10303,9 +10315,9 @@
   },
   {
     "name": "openttd",
-    "version": "13.3",
-    "url": "https://proxy.binaries.openttd.org/openttd-releases/13.3/openttd-13.3-macos-universal.zip",
-    "sha256": "8e61fbcbd8b6ca8fc5a2840c5683ff0ee7d75949a8d6df7596cd5f6578d5635a"
+    "version": "13.4",
+    "url": "https://cdn.openttd.org/openttd-releases/13.4/openttd-13.4-macos-universal.zip",
+    "sha256": "085cdb35867dca1dcfb8a1748417e7ba6431551ebc33df290a4e48b244d8d376"
   },
   {
     "name": "openvisualtraceroute",
@@ -10843,9 +10855,9 @@
   },
   {
     "name": "photosrevive",
-    "version": "2.1.0,aa3d20be-fb7a-4714-ad4c-0a447838e067",
-    "url": "https://neededapps.nyc3.digitaloceanspaces.com/media/public/aa3d20be-fb7a-4714-ad4c-0a447838e067.zip",
-    "sha256": "1ca8f66e25702dbf5fd4fbe75b9d8964cd77705d3a57d01d193051139caae02d"
+    "version": "2.1.1,7161d778-0a4b-4b1e-8289-67d1a8d7f23d",
+    "url": "https://neededapps.nyc3.digitaloceanspaces.com/media/public/7161d778-0a4b-4b1e-8289-67d1a8d7f23d.zip",
+    "sha256": "58aa951624b5d83f6c1cfd46df439c69f187a9401399df288b97ef39d550b253"
   },
   {
     "name": "photosync",
@@ -11551,9 +11563,9 @@
   },
   {
     "name": "psychopy",
-    "version": "2023.1.3",
-    "url": "https://github.com/psychopy/psychopy/releases/download/2023.1.3/StandalonePsychoPy-2023.1.3-macOS.dmg",
-    "sha256": "d7a29dea1dfa5e781a5457edb68c1bdf4e4d5026b08b300599570872425ba26d"
+    "version": "2023.2.0",
+    "url": "https://github.com/psychopy/psychopy/releases/download/2023.2.0/StandalonePsychoPy-2023.2.0-macOS.dmg",
+    "sha256": "4a2273af2f778338787f1da74f37f17e3229e77bc3f689c6a1da0de040bbd245"
   },
   {
     "name": "publii",
@@ -11779,9 +11791,9 @@
   },
   {
     "name": "qq",
-    "version": "6.9.18-15293,d12eb6eb",
-    "url": "https://dldir1.qq.com/qqfile/qq/QQNT/d12eb6eb/QQ_v6.9.18-15293.dmg",
-    "sha256": "1854e1e5beb95d0510ea664c79ea174682cb554681801b965291402c8144aeb6"
+    "version": "6.9.18-15489,de1cad36",
+    "url": "https://dldir1.qq.com/qqfile/qq/QQNT/de1cad36/QQ_v6.9.18-15489.dmg",
+    "sha256": "507fc386058b60ddf157cb820613c09942c4c6dba20d35c61965f2574c5bdc7c"
   },
   {
     "name": "qqlive",
@@ -12073,9 +12085,9 @@
   },
   {
     "name": "react-native-debugger",
-    "version": "0.13.0",
-    "url": "https://github.com/jhen0409/react-native-debugger/releases/download/v0.13.0/rn-debugger-macos-universal.zip",
-    "sha256": "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4"
+    "version": "0.14.0",
+    "url": "https://github.com/jhen0409/react-native-debugger/releases/download/v0.14.0/rn-debugger-macos-universal.zip",
+    "sha256": "3be2e2b0d0fdac91f77905bbdcb835316ef8995aec1de91f55838cf0a8da6625"
   },
   {
     "name": "react-proto",
@@ -12127,9 +12139,9 @@
   },
   {
     "name": "rectangle-pro",
-    "version": "3.0.5",
-    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.5.dmg",
-    "sha256": "42e1607de968ce288166d8bb2035fbf4261e80d3b75337ce9f4429096e4dd103"
+    "version": "3.0.6",
+    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.6.dmg",
+    "sha256": "42ca807bb416ae2c16ffcd28b8650d0ece0faa7da51078e9b8a14b71e5a895c8"
   },
   {
     "name": "recut",
@@ -13075,15 +13087,15 @@
   },
   {
     "name": "shotcut",
-    "version": "23.06.14",
-    "url": "https://github.com/mltframework/shotcut/releases/download/v23.06.14/shotcut-macos-230614.dmg",
-    "sha256": "ab51865c57e8e79321dd1f6d384a53f230c046315a02be05039a381620c79b7e"
+    "version": "23.07.29",
+    "url": "https://github.com/mltframework/shotcut/releases/download/v23.07.29/shotcut-macos-230729.dmg",
+    "sha256": "5146ccdc638fc82756c0ccc67e988c74d15755e22946d088b9207dc0128c2cb9"
   },
   {
     "name": "shottr",
     "version": "1.7.1",
     "url": "https://shottr.cc/dl/Shottr-1.7.1.dmg",
-    "sha256": "bb6e31ba80a3bd0dfee5ca9b3d98a3409abe9c450cec6ee37b2f558b344a19b1"
+    "sha256": "99ee3c3683185e690e665cbdda89a4059e89ec6bf2e21415f9adfe3bb43606bf"
   },
   {
     "name": "showmeyourhotkeys",
@@ -13591,9 +13603,9 @@
   },
   {
     "name": "sonos",
-    "version": "15.5,73.0.42060",
-    "url": "https://update-software.sonos.com/software/eqsrsbpq/Sonos_73.0-42060.dmg",
-    "sha256": "5ac0feeeb40b4241aaafacf76a343f359342b4cd3725532e6518c00a5fdcf653"
+    "version": "15.6,74.0.43110",
+    "url": "https://update-software.sonos.com/software/srahdpcj/Sonos_74.0-43110.dmg",
+    "sha256": "797310d0e604c395dc50061e1375e0f1921bdc811c43311473b0b3320840ddf9"
   },
   {
     "name": "soqlxplorer",
@@ -13987,9 +13999,9 @@
   },
   {
     "name": "stats",
-    "version": "2.9.2",
-    "url": "https://github.com/exelban/stats/releases/download/v2.9.2/Stats.dmg",
-    "sha256": "d6b5c2e1bd0df6e81ad1f5f9bd9404771a07efbaee357b56a1a0c2356560b450"
+    "version": "2.9.3",
+    "url": "https://github.com/exelban/stats/releases/download/v2.9.3/Stats.dmg",
+    "sha256": "b70d0b9caa09c7fe8eeadfe8022a40af87f32eec662401f002af14ecc979f8d0"
   },
   {
     "name": "statusfy",
@@ -16011,7 +16023,7 @@
     "name": "visualboyadvance-m",
     "version": "2.1.6",
     "url": "https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.6/visualboyadvance-m-Mac-x86_64.zip",
-    "sha256": "ab45eb8a3ed9b263c44e1f05dcef794c676b5fce0adbf693587a1f7fc2004c70"
+    "sha256": "d9d13debc6f19eeba7cb729de75389e4e2f45bdf56bd68035c05fe3eb75abf2e"
   },
   {
     "name": "visualvm",
@@ -16777,9 +16789,9 @@
   },
   {
     "name": "xournal-plus-plus",
-    "version": "1.1.3",
-    "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.1.3/xournalpp-1.1.3-macos.zip",
-    "sha256": "4393fa726cb1d0afb93318701ed6e4abaa0add683e4122fdaebca3c5567c346f"
+    "version": "1.2.0",
+    "url": "https://github.com/xournalpp/xournalpp/releases/download/v1.2.0/xournalpp-1.2.0-macos.zip",
+    "sha256": "1a88dc38e4a66f5b2df184442a1510a5e6068e6a7b1e7bb770e9579bd1684127"
   },
   {
     "name": "xprocheck",
@@ -16915,9 +16927,9 @@
   },
   {
     "name": "youtube-downloader",
-    "version": "0.11",
-    "url": "https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases/download/v0.11/Youtube.Downloader.zip",
-    "sha256": "a02ca8989a50e4cf90d13107236224409b355d37266e1d04de7b97c0362a26ca"
+    "version": "0.12",
+    "url": "https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases/download/v0.12/Youtube.Downloader.zip",
+    "sha256": "85f5ca5df1060ee32a0db6ccb9671fa8082b1e139ebb5793cc03f18c1ac24471"
   },
   {
     "name": "yt-music",
