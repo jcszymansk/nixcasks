@@ -1369,9 +1369,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.183,2402",
-    "url": "https://folivora.ai/releases/btt4.183-2402.zip",
-    "sha256": "54def1112a7f10b9baf66a46fe37a45247c3f8e6bb0718ca35b38755833f1cfb"
+    "version": "4.184,2403",
+    "url": "https://folivora.ai/releases/btt4.184-2403.zip",
+    "sha256": "ac9639a792c3aafe06714c542662f199f946442b82e7d026d27a93eb53631cab"
   },
   {
     "name": "betterzip",
@@ -1399,9 +1399,9 @@
   },
   {
     "name": "bike",
-    "version": "1.13,144",
-    "url": "https://www.hogbaysoftware.com/bike/releases/144.dmg",
-    "sha256": "3f65069452906665bd9d6a7f31d3a12b2183c37afb256e12ab2e0d01d76bc888"
+    "version": "1.13,145",
+    "url": "https://www.hogbaysoftware.com/bike/releases/145.dmg",
+    "sha256": "5cf58a0425f9295516287303e56e13b401a68503bd52d2838572d9dab3275f7e"
   },
   {
     "name": "bili-downloader",
@@ -5563,9 +5563,9 @@
   },
   {
     "name": "goldencheetah",
-    "version": "3.5",
-    "url": "https://github.com/GoldenCheetah/GoldenCheetah/releases/download/V3.5/GoldenCheetah_v3.5_64bit_MacOS.dmg",
-    "sha256": "02518bee5427ec126aa2fdb3d3c6d236c03dd25a78623c36e8f3d27080028f2a"
+    "version": "3.6",
+    "url": "https://github.com/GoldenCheetah/GoldenCheetah/releases/download/v3.6/GoldenCheetah_v3.6_x64.dmg",
+    "sha256": "7d3d8f5682f664b030af61b6988b94a333526dbc686cc7d1f94b6f37889cdb50"
   },
   {
     "name": "goldendict",
@@ -6112,6 +6112,12 @@
     "version": "6.3",
     "url": "https://dl.houdah.com/houdahSpot/updates/cast6_assets/HoudahSpot6.3.zip",
     "sha256": "4c63a0b01b93f8c9b2ec3d906274bf609857f7e391d979cf0ae10132529ff042"
+  },
+  {
+    "name": "hovrly",
+    "version": "2.4.5",
+    "url": "https://github.com/tarutin/hovrly/releases/download/v2.4.5/Hovrly-2.4.5-universal.dmg",
+    "sha256": "2cd4d3fc696a7a59446fea3c0a1d9f77b23cfed8bcd53c6992ffb5dc78711b88"
   },
   {
     "name": "hp-prime",
@@ -15421,9 +15427,9 @@
   },
   {
     "name": "tunnelblick",
-    "version": "3.8.8c,5778",
-    "url": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.8.8c/Tunnelblick_3.8.8c_build_5778.dmg",
-    "sha256": "f6c91a3dca4fd8a87db1cbee507db8ddbadef3dd3cf991a4207cacad5e8e34ff"
+    "version": "3.8.8d,5779",
+    "url": "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.8.8d/Tunnelblick_3.8.8d_build_5779.dmg",
+    "sha256": "416b5be07a11d125ea5399d1ab95d7de0c5cbb667b01139a9091303464ac0e2d"
   },
   {
     "name": "tuple",
