@@ -6,10 +6,11 @@ with pkgs;
 let 
   inherit (pkgs) lib;
   data = with builtins; fromJSON (readFile ./casks.json);
+  sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
 in
   builtins.listToAttrs (lib.lists.forEach data (cask: rec {
     inherit (cask) name;
-    value = pkgs.stdenv.mkDerivation ({
+    value = pkgs.stdenv.mkDerivation {
       inherit (cask) version;
       pname = name;
       src = fetchurl {
@@ -17,6 +18,7 @@ in
       };
 
       nativeBuildInputs = [ pkgs.makeWrapper ] ++
+        lib.optionals (lib.strings.hasSuffix ".dmg" cask.url) [ sevenzip ] ++
         lib.optionals (lib.strings.hasSuffix ".zip" cask.url) [ pkgs.unzip ];
 
       sourceRoot = ".";
@@ -35,7 +37,5 @@ in
         runHook postInstall
       '';
 
-   } // (if (lib.strings.hasSuffix ".dmg" cask.url) then {
-     unpackCmd = ./unpackdmg.sh;
-   } else { }));
+   };
   }))
