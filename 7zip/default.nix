@@ -21,8 +21,6 @@ stdenv.mkDerivation rec {
 
   sourceRoot = ".";
 
-  patches = [ ./01-unused-warning.patch ];
-
   nativeBuildInputs = [ gnumake ];
 
   setupHook = ./setup-hook.sh;
@@ -32,7 +30,7 @@ stdenv.mkDerivation rec {
   buildPhase = ''
     export MACOSX_DEPLOYMENT_TARGET=11.0
     cd CPP/7zip/Bundles/Alone2
-    make -f ../../cmpl_mac_${arch}.mak
+    make -f ../../cmpl_mac_${arch}.mak LOCAL_FLAGS_ST=-Wno-extra-semi-stmt
   '';
 
   installPhase = ''
