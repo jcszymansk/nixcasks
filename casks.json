@@ -612,10 +612,16 @@
     "sha256": "1f024ed122256ec69cc148ff628ed3103f47e95d3cdd0b66ed806afcc68d29ec"
   },
   {
+    "name": "apidog",
+    "version": "2.3.3",
+    "url": "https://assets.apidog.com/download/2.3.3/Apidog-2.3.3.dmg",
+    "sha256": "fb8f1615ce3230d4bf1eb295f660e5f9d076f9637aaf8398d9a7b044df17d9af"
+  },
+  {
     "name": "apifox",
-    "version": "2.3.9",
-    "url": "https://cdn.apifox.cn/download/2.3.9/Apifox-2.3.9.dmg",
-    "sha256": "0b70bbd01156b1f86f07ae83f6c239a06b0a4dfe56e052ee55cc021cce0c53bf"
+    "version": "2.3.10",
+    "url": "https://cdn.apifox.cn/download/2.3.10/Apifox-2.3.10.dmg",
+    "sha256": "5587dcfae202291bbdfd54532b1b045e48eef18fb0af26dd24c7d81cf0532c4c"
   },
   {
     "name": "apipost",
@@ -949,9 +955,9 @@
   },
   {
     "name": "audius",
-    "version": "1.5.35",
-    "url": "https://download.audius.co/Audius-1.5.35.dmg",
-    "sha256": "a36e7038795cbe8e421dc5c0d855933cf302567578cbbb74c6ab427ccde101a6"
+    "version": "1.5.36",
+    "url": "https://download.audius.co/Audius-1.5.36.dmg",
+    "sha256": "8c5d25ac34c5070bb1883e7538640f26c83d638f2b205276444c659792f6d0ff"
   },
   {
     "name": "augur",
@@ -1153,9 +1159,9 @@
   },
   {
     "name": "banktivity",
-    "version": "9.0.2-243",
-    "url": "https://www.iggsoft.com/banktivity/Banktivity9.0.2-243.dmg",
-    "sha256": "c13f318d8926dba021dff327601662d11f610632e05d571a705be4647e511b06"
+    "version": "9.0.3-244",
+    "url": "https://www.iggsoft.com/banktivity/Banktivity9.0.3-244.dmg",
+    "sha256": "9f4f3eb196ef0cd613f51eb3992808c52362746f62930b7663aaf41fa1b6e591"
   },
   {
     "name": "banshee",
@@ -1405,9 +1411,9 @@
   },
   {
     "name": "bike",
-    "version": "1.13,145",
-    "url": "https://www.hogbaysoftware.com/bike/releases/145.dmg",
-    "sha256": "5cf58a0425f9295516287303e56e13b401a68503bd52d2838572d9dab3275f7e"
+    "version": "1.14,146",
+    "url": "https://www.hogbaysoftware.com/bike/releases/146.dmg",
+    "sha256": "f319b91baeabe3d053257798dc71199f4cf74b1d436fa531ae009f97e72ebca0"
   },
   {
     "name": "bili-downloader",
@@ -1585,9 +1591,9 @@
   },
   {
     "name": "bloop",
-    "version": "0.4.12",
-    "url": "https://github.com/BloopAI/bloop/releases/download/v0.4.12/bloop_0.4.12_x64.dmg",
-    "sha256": "bfd39e3448e0b44932b5ff10d9ab639d1d7ede980b1336780e30b3ddf5dc003f"
+    "version": "0.4.13",
+    "url": "https://github.com/BloopAI/bloop/releases/download/v0.4.13/bloop_0.4.13_x64.dmg",
+    "sha256": "1d626d08b01689042fe28a936882708da92c9c487f36bfc063acadd164869b41"
   },
   {
     "name": "blu-ray-player",
@@ -1987,9 +1993,9 @@
   },
   {
     "name": "calendar-366",
-    "version": "2.14.4",
-    "url": "https://nspektor.com/downloads/Calendar366_v2.14.4.dmg",
-    "sha256": "df47c6d6aa8def2ff8ea8d52dcb2eee78a7f5d2edc86d37ee2af0fac4c418e89"
+    "version": "2.14.5",
+    "url": "https://nspektor.com/downloads/Calendar366_v2.14.5.dmg",
+    "sha256": "e3b8646574d8a7f09b1a3fb6d875eaf690439e994b78119ecc313bc449773494"
   },
   {
     "name": "calhash",
@@ -2809,9 +2815,9 @@
   },
   {
     "name": "copilot",
-    "version": "3.2.1,112-15c17ceb",
-    "url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-3.2.1-112-15c17ceb.dmg",
-    "sha256": "15c17ceb9dffb4540338dd0adea974c6cbd1251e2290bf9605e8b1aecaa1572d"
+    "version": "3.2.2,114-7c9f0578",
+    "url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-3.2.2-114-7c9f0578.dmg",
+    "sha256": "7c9f0578d359b36f078c537ea75cd2e91ea94c681f49bbac15a6723ea467c2d5"
   },
   {
     "name": "copilot-for-xcode",
@@ -3001,9 +3007,9 @@
   },
   {
     "name": "cryptomator",
-    "version": "1.9.3",
-    "url": "https://github.com/cryptomator/cryptomator/releases/download/1.9.3/Cryptomator-1.9.3-x64.dmg",
-    "sha256": "399bbbe914e66b745b839d19da6523c74310ac76cc22096b90f44deb85c2f644"
+    "version": "1.9.4",
+    "url": "https://github.com/cryptomator/cryptomator/releases/download/1.9.4/Cryptomator-1.9.4-x64.dmg",
+    "sha256": "453dc1e240de35018cd2edb7fa44b55f6d24f0a1027959a7799db133428fa9f7"
   },
   {
     "name": "cryptr",
@@ -3865,9 +3871,9 @@
   },
   {
     "name": "duckduckgo",
-    "version": "1.51.0",
-    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.51.0.dmg",
-    "sha256": "6d176d90e3899e7e83d3b1cbe85140fe16f08fac892394e2697c4c11a0580fed"
+    "version": "1.51.1",
+    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.51.1.dmg",
+    "sha256": "a0bf69e60b5a258b67df508b88e52eef624526049d47e7f16b9b96d74710a4d2"
   },
   {
     "name": "duefocus",
@@ -4177,9 +4183,9 @@
   },
   {
     "name": "elephicon",
-    "version": "2.5.6",
-    "url": "https://github.com/sprout2000/elephicon/releases/download/v2.5.6/Elephicon-2.5.6-darwin-x64.dmg",
-    "sha256": "b8e1110fb7f2ee1625fa8dbac1972728c101c1365b19f174e0636bc205ed2b37"
+    "version": "2.5.7",
+    "url": "https://github.com/sprout2000/elephicon/releases/download/v2.5.7/Elephicon-2.5.7-darwin-x64.dmg",
+    "sha256": "61dc22ea82fbb26b024eb1dabd65535fb31ca9d2f3d890e56bde06bef4e88671"
   },
   {
     "name": "elgato-control-center",
@@ -4513,9 +4519,9 @@
   },
   {
     "name": "feed-the-beast",
-    "version": "202307221435,df4347b682",
-    "url": "https://apps.modpacks.ch/FTBApp/release/202307221435-df4347b682/FTBA_macos_202307221435-df4347b682.dmg",
-    "sha256": "f1552d68f0a3dc57efdd2b7f6e371fd730fbb724a0d7782dd234031ba1a64a15"
+    "version": "202308121236,a5e68715ce",
+    "url": "https://apps.modpacks.ch/FTBApp/release/202308121236-a5e68715ce/FTBA_macos_202308121236-a5e68715ce.dmg",
+    "sha256": "03a4fe4b65ff1aa5a6cb9750226cf0069fb85dd202ed6d666659ddd0973441d9"
   },
   {
     "name": "fellow",
@@ -6895,9 +6901,9 @@
   },
   {
     "name": "jetbrains-toolbox",
-    "version": "2.0.1,2.0.1.16621",
-    "url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.0.1.16621.dmg",
-    "sha256": "ee6ebbd99fa2003cb2ee650ce5cdc7645c11c940ddb8b5bd7500bf50183480f0"
+    "version": "2.0.2,2.0.2.16660",
+    "url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.0.2.16660.dmg",
+    "sha256": "e8abff4a952fd2d34cc10c8e3de9187a2c005138464e9d98a9e3e0827346b294"
   },
   {
     "name": "jettison",
@@ -8809,15 +8815,15 @@
   },
   {
     "name": "microblog",
-    "version": "3.0.2",
-    "url": "https://s3.amazonaws.com/micro.blog/mac/Micro.blog_3.0.2.zip",
-    "sha256": "287bda0b18131ee02cf39a4b53e8979c700cf4cbe41529e946ea67b2f6ce5e0b"
+    "version": "3.0.3",
+    "url": "https://s3.amazonaws.com/micro.blog/mac/Micro.blog_3.0.3.zip",
+    "sha256": "432a058afa031377691375185ddeb92065671cb777bd50a909a179d6064e6d72"
   },
   {
     "name": "microsoft-azure-storage-explorer",
-    "version": "1.30.2",
-    "url": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.30.2/StorageExplorer-darwin-x64.zip",
-    "sha256": "d018a21240ef4ce26367be5a17db977fdca9597ac2ff5f0ce378008d13b29a60"
+    "version": "1.31.0",
+    "url": "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.31.0/StorageExplorer-darwin-x64.zip",
+    "sha256": "34a7b1f2cbd32faebfbac4b9b14f37674c00187eda4f52d6f537fabe1c0c795e"
   },
   {
     "name": "middle",
@@ -9265,9 +9271,9 @@
   },
   {
     "name": "mountain-duck",
-    "version": "4.14.2,21429",
-    "url": "https://dist.mountainduck.io/Mountain%20Duck-4.14.2.21429.zip",
-    "sha256": "89e95874a7b576e1907c1638136274b670033dcfba3a95ca27b6b43147f01dfd"
+    "version": "4.14.3,21432",
+    "url": "https://dist.mountainduck.io/Mountain%20Duck-4.14.3.21432.zip",
+    "sha256": "3474c41120a1715bbdb53b2644dc1b96c5860327ddf09e32327e666f4c211053"
   },
   {
     "name": "mounty",
@@ -10447,9 +10453,9 @@
   },
   {
     "name": "osu",
-    "version": "2023.811.0",
-    "url": "https://github.com/ppy/osu/releases/download/2023.811.0/osu.app.Intel.zip",
-    "sha256": "f60a4448f8e9c977b08c718235e00bc968f692c683de08c7d671dedabc872860"
+    "version": "2023.812.0",
+    "url": "https://github.com/ppy/osu/releases/download/2023.812.0/osu.app.Intel.zip",
+    "sha256": "a96686b730a1b49825b383edf7f52c94bc105e6a5a2f0af4d1c9f963088e6f6c"
   },
   {
     "name": "otto-matic",
@@ -10993,9 +10999,9 @@
   },
   {
     "name": "pixelorama",
-    "version": "0.11",
-    "url": "https://github.com/Orama-Interactive/Pixelorama/releases/download/v0.11/Pixelorama.Mac.dmg",
-    "sha256": "53120a7c6b233312cce55cb9a789ff1d25b412fa5c21d863e2de063cdf1fa98f"
+    "version": "0.11.1",
+    "url": "https://github.com/Orama-Interactive/Pixelorama/releases/download/v0.11.1/Pixelorama.Mac.dmg",
+    "sha256": "ad521da849556af2fb023f262ec4dbe87f4af2e35f1eb3ed233cc178d3dc1a3b"
   },
   {
     "name": "pixelsnap",
@@ -11551,9 +11557,9 @@
   },
   {
     "name": "proxyman",
-    "version": "4.9.0,49000",
-    "url": "https://download.proxyman.io/49000/Proxyman_4.9.0.dmg",
-    "sha256": "a70a64cbb5501a99238f199896505d7d73473f95fdcea710e863693ed1d9b258"
+    "version": "4.9.1,49001",
+    "url": "https://download.proxyman.io/49001/Proxyman_4.9.1.dmg",
+    "sha256": "4b092f272e23a9dfae1d25b45bfffc5ee859846dd83f011c8c5519f2a8421f41"
   },
   {
     "name": "prudent",
@@ -12367,9 +12373,9 @@
   },
   {
     "name": "rewind",
-    "version": "12987.1,100fe48,20230809",
-    "url": "https://updates.rewind.ai/builds/main/b12987.1-main-100fe48.zip",
-    "sha256": "1ebbc75411c2a3691b5f9d47c70cfed0b9b52f6e12cceab8f7a7d384cb0c3240"
+    "version": "13120.1,51a2fc3,20230811",
+    "url": "https://updates.rewind.ai/builds/main/b13120.1-main-51a2fc3.zip",
+    "sha256": "de6160d151f2c53db36a1411a0b9824597cf4615d75a5757ec12e1068da34d08"
   },
   {
     "name": "rhino",
@@ -12421,9 +12427,9 @@
   },
   {
     "name": "rive",
-    "version": "0.8.629",
-    "url": "https://releases.rive.app/macos/0.8.629/Rive.dmg",
-    "sha256": "ee14f8c4372aff0467ffd2875bc2079f538d20583a430fbf18f39bd78d85196e"
+    "version": "0.8.665",
+    "url": "https://releases.rive.app/macos/0.8.665/Rive.dmg",
+    "sha256": "691e84fdd2bb704202cd3ff79d7e685c6c1649031c0367399b5d059727bb6886"
   },
   {
     "name": "roam-research",
@@ -12493,9 +12499,9 @@
   },
   {
     "name": "rotato",
-    "version": "140.37",
-    "url": "https://rotato.app/api/releases/download/140.37",
-    "sha256": "39d08cad386e766183dc78a02a47d65b2d618c8b28469972494035fa4ed56b5c"
+    "version": "142.377",
+    "url": "https://rotato.app/api/releases/download/142.377",
+    "sha256": "2f60c4ea5b645687508bc4cea87a009b8aa00869e95b306728ee17bda083c3fd"
   },
   {
     "name": "rotki",
@@ -12763,9 +12769,9 @@
   },
   {
     "name": "screen-studio",
-    "version": "2.17.1",
-    "url": "https://screenstudioassets.com/Screen%20Studio-2.17.1-mac.zip",
-    "sha256": "e3670486a4bddc0445ef46e9fefb46502fc5bd4205601db49f777e6fc5327729"
+    "version": "2.17.7",
+    "url": "https://screenstudioassets.com/Screen%20Studio-2.17.7-mac.zip",
+    "sha256": "99d55d5060e220df232eb26fb75a04ceb635fe7521b09582ddb955b6e499c072"
   },
   {
     "name": "screencast",
@@ -13024,6 +13030,12 @@
     "version": "4.3.2",
     "url": "https://assets.macroplant.com/download/32/Sharepod-4.3.2.dmg",
     "sha256": "1e6799be8764fb6f57ff87fef79de86d0391d63d349f68999f02729a72529211"
+  },
+  {
+    "name": "shattered-pixel-dungeon",
+    "version": "2.1.4",
+    "url": "https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v2.1.4/ShatteredPD-v2.1.4-macOS.zip",
+    "sha256": "1c4611f2804eefe80e9f8a6a69ea03b67e462a848c3504146379c313b3635b4d"
   },
   {
     "name": "shearwater-cloud",
@@ -14683,9 +14695,9 @@
   },
   {
     "name": "texstudio",
-    "version": "4.6.2",
-    "url": "https://github.com/texstudio-org/texstudio/releases/download/4.6.2/texstudio-4.6.2-osx.dmg",
-    "sha256": "22b9c1feeb5c8c9008389a545214e5d7ca36f66063c3fbed72596bcd727c9ee7"
+    "version": "4.6.3",
+    "url": "https://github.com/texstudio-org/texstudio/releases/download/4.6.3/texstudio-4.6.3-osx.dmg",
+    "sha256": "f05d7d752dea12d26703863ae1ab1a71deed1999a233cf749e37ac0578dcfeb7"
   },
   {
     "name": "textadept",
@@ -15217,9 +15229,9 @@
   },
   {
     "name": "tortoisehg",
-    "version": "6.4.5",
-    "url": "https://www.mercurial-scm.org/release/tortoisehg/macos/TortoiseHg-6.4.5-mac-x64-qt5.dmg",
-    "sha256": "27d4194663af0561a55a05ca43ba87f5f97fd2c229586f51fd64932349ed7e39"
+    "version": "6.5.1",
+    "url": "https://www.mercurial-scm.org/release/tortoisehg/macos/TortoiseHg-6.5.1-mac-x64-qt5.dmg",
+    "sha256": "eadc6f3b3e55af5d229b362aa973f1d7710a06df2f600ed6f6a2f86692933e79"
   },
   {
     "name": "touch-bar-simulator",
@@ -16447,9 +16459,9 @@
   },
   {
     "name": "whatsapp",
-    "version": "2.2332.15",
-    "url": "https://web.whatsapp.com/desktop/mac/files/release-2.2332.15.zip",
-    "sha256": "5d96504b5cfba22546fd489212974e82ecdf554ee2ac7d302a22690740d36633"
+    "version": "2.2333.11",
+    "url": "https://web.whatsapp.com/desktop/mac/files/release-2.2333.11.zip",
+    "sha256": "3eb424d6eded41e593dd57dbe9498beaaec9ff3ffa7d4ac0833a25fb6ef5da73"
   },
   {
     "name": "whichspace",
