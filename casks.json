@@ -799,9 +799,9 @@
   },
   {
     "name": "aria2d",
-    "version": "1.3.6",
-    "url": "https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.6.dmg",
-    "sha256": "1840ce5b25571925cfec67635e3e48ce38306b856b509861f2ecfdfd0470cd7b"
+    "version": "1.3.8",
+    "url": "https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.8.dmg",
+    "sha256": "f541b792ed813fa38ec72a87f42e8283383c781d0c9deac421bbc1cdababbb65"
   },
   {
     "name": "aria2gui",
@@ -1411,9 +1411,9 @@
   },
   {
     "name": "bike",
-    "version": "1.14,146",
-    "url": "https://www.hogbaysoftware.com/bike/releases/146.dmg",
-    "sha256": "f319b91baeabe3d053257798dc71199f4cf74b1d436fa531ae009f97e72ebca0"
+    "version": "1.14,147",
+    "url": "https://www.hogbaysoftware.com/bike/releases/147.dmg",
+    "sha256": "bfc36b67d41da0fbebbe4bdb0a6b2f5ce0e265b47c7a15021668e47d16903193"
   },
   {
     "name": "bili-downloader",
@@ -1777,9 +1777,9 @@
   },
   {
     "name": "brave-browser",
-    "version": "1.56.20.0,156.20",
-    "url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/156.20/Brave-Browser-x64.dmg",
-    "sha256": "fbf6bd72de351e7ed673cf67f1b1360de4bdde3efef0ba870509560ed84820af"
+    "version": "1.57.47.0,157.47",
+    "url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/157.47/Brave-Browser-x64.dmg",
+    "sha256": "e6daae8aaa7c5087dbeecf7803d948fa5c3a4d4840c442ad97920e83f9fa95a3"
   },
   {
     "name": "breaktimer",
@@ -2191,9 +2191,9 @@
   },
   {
     "name": "cellprofiler",
-    "version": "4.2.5",
-    "url": "https://github.com/CellProfiler/CellProfiler/releases/download/v4.2.5/CellProfiler-macOS-4.2.5.zip",
-    "sha256": "f2d123c3f2f6c8171c05ad67f2e5d80db0267f9e1235b667950c5a218354306d"
+    "version": "4.2.6",
+    "url": "https://github.com/CellProfiler/CellProfiler/releases/download/v4.2.6/CellProfiler-macOS-4.2.6.zip",
+    "sha256": "da25ab0999459f892e31c809593f34d24ffc9cf6deb096bc8059f76688448e0d"
   },
   {
     "name": "cemu",
@@ -2683,9 +2683,9 @@
   },
   {
     "name": "coin-wallet",
-    "version": "5.10.2",
-    "url": "https://github.com/CoinSpace/CoinSpace/releases/download/v5.10.2/Coin.Wallet.dmg",
-    "sha256": "315e762ac9e72886d45370cc98551e54ce9ad8be5759fcbd560214542cc1f463"
+    "version": "5.10.3",
+    "url": "https://github.com/CoinSpace/CoinSpace/releases/download/v5.10.3/Coin.Wallet.dmg",
+    "sha256": "b5ac9e06718029c813c15559a53cbabe56b8c5d7185a8eee7f0f30319ac57d8a"
   },
   {
     "name": "coinomi-wallet",
@@ -3283,57 +3283,57 @@
   },
   {
     "name": "dcp-o-matic",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.60",
-    "sha256": "02b23d3ec9a020c3ca4f1732060f7d036b7ace762b6ccb4a1141c6ecde0b9af3"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.61",
+    "sha256": "571d2866930f495c370ee802f784a91afa4c4ac749313be5e726ec079a2eed2a"
   },
   {
     "name": "dcp-o-matic-batch-converter",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.60",
-    "sha256": "c8ce4328fc272a73ef96e2f6009f51182eec0c7a48df1fe29cb92e9e14f29d22"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.61",
+    "sha256": "193b188cde20e2fce08ec197a5856b32ee5ab74ccb4f8d6229382e8f31e36235"
   },
   {
     "name": "dcp-o-matic-combiner",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-combiner&version=2.16.60",
-    "sha256": "12c784039e154284fcd185fdbe666bc11f35ec7c37b063d94af8fa47b4cd938a"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-combiner&version=2.16.61",
+    "sha256": "71f7fdeb39b90d902e8b6d6e9f3b4eef1bf32d0bdfc71137ce97f98b0771ffdb"
   },
   {
     "name": "dcp-o-matic-disk-writer",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-disk&version=2.16.60",
-    "sha256": "d0824af3357d64afdd06b4f18582f2a8bf48e4873123c3fa4a626075bbbd1726"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-disk&version=2.16.61",
+    "sha256": "fdb3130ee8be9670b5cf3945e9e2141b67a749dec25e956a3c8c419925fe6e67"
   },
   {
     "name": "dcp-o-matic-editor",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-editor&version=2.16.60",
-    "sha256": "4571bb67380c18af56c0a6152e778b589326dca1e3e356e03f4a72edfcbe5ec2"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-editor&version=2.16.61",
+    "sha256": "f2bd4fe79774b79686a23771a3797a9c506ca0d4e9f392ec8f457f36f7d41e52"
   },
   {
     "name": "dcp-o-matic-encode-server",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.60",
-    "sha256": "7dd7b4cb2a336857780379c7a6a6cb6b8610f4e2ca1c75655679c52350e606d9"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.61",
+    "sha256": "4096d2053d5af41cc90c2072741cdec27df96fa9968113e59cd68dc86bb4f037"
   },
   {
     "name": "dcp-o-matic-kdm-creator",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.60",
-    "sha256": "49fb9f7126991c3c567382aea328ef9651ef77fea1489850ba6644ef825af7a9"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.61",
+    "sha256": "1fab6f7f768559d112c2a7b626bd264675b90ca91d5019fd176df77b2d5bda5e"
   },
   {
     "name": "dcp-o-matic-player",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.60",
-    "sha256": "c2075e44049a6d92c1afadf6c27f7d90a8b9a5d3b99f9c6f015b3be85b144798"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.61",
+    "sha256": "8a381ecbc15889e5cb7fff27b0130dc073062e918b348ba31406f2515218215b"
   },
   {
     "name": "dcp-o-matic-playlist-editor",
-    "version": "2.16.60",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-playlist&version=2.16.60",
-    "sha256": "eedbfb8c58cbf2d1956a75452ae67600b49ef31aff1753979d71c408d882b5ab"
+    "version": "2.16.61",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-playlist&version=2.16.61",
+    "sha256": "a3401474e14b48a04fbac1748ea062ac88a49492c5c938db71ebbeb81c8b82a5"
   },
   {
     "name": "dcv-viewer",
@@ -3877,9 +3877,9 @@
   },
   {
     "name": "duckduckgo",
-    "version": "1.52.0",
-    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.52.0.dmg",
-    "sha256": "7be34869b3cd1615b4fe3593fd016a610c00060e618ae48277799edfaf6a74cd"
+    "version": "1.52.1",
+    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.52.1.dmg",
+    "sha256": "0b6d0d1499cb715a40420db6c1c5a8d3901cd0343fab31f87adfd695b0bb93fa"
   },
   {
     "name": "duefocus",
@@ -4123,9 +4123,9 @@
   },
   {
     "name": "electron",
-    "version": "25.5.0",
-    "url": "https://github.com/electron/electron/releases/download/v25.5.0/electron-v25.5.0-darwin-x64.zip",
-    "sha256": "a5c5c0b621daf8242258c89edb2387fbdf1c69125c984f8564d89b87927373e3"
+    "version": "26.0.0",
+    "url": "https://github.com/electron/electron/releases/download/v26.0.0/electron-v26.0.0-darwin-x64.zip",
+    "sha256": "47c7dbed165da647ee9f8c6225d2b255f4432b3720179dd0ec0620457c2c0d45"
   },
   {
     "name": "electron-api-demos",
@@ -4189,9 +4189,9 @@
   },
   {
     "name": "elephicon",
-    "version": "2.5.7",
-    "url": "https://github.com/sprout2000/elephicon/releases/download/v2.5.7/Elephicon-2.5.7-darwin-x64.dmg",
-    "sha256": "61dc22ea82fbb26b024eb1dabd65535fb31ca9d2f3d890e56bde06bef4e88671"
+    "version": "2.6.0",
+    "url": "https://github.com/sprout2000/elephicon/releases/download/v2.6.0/Elephicon-2.6.0-darwin-x64.dmg",
+    "sha256": "cb802664320e6a9995cd9bc491f8892a4bd782344ecc085475b75e1440d503ab"
   },
   {
     "name": "elgato-control-center",
@@ -4687,9 +4687,9 @@
   },
   {
     "name": "firestorm",
-    "version": "6.6.8.68380",
-    "url": "https://downloads.firestormviewer.org/mac/Phoenix-Firestorm-Releasex64-6-6-8-68380.dmg",
-    "sha256": "d6baf8ca0759e01feb6ce57f1f237d05c26e5ec6f289da598aced2f8d10cc432"
+    "version": "6.6.14.69596",
+    "url": "https://downloads.firestormviewer.org/mac/Phoenix-Firestorm-Releasex64-6-6-14-69596.dmg",
+    "sha256": "b514a953364651c3aa9162d9c51127a64bfc163bde6d88b9f1dbd7f17132d1fe"
   },
   {
     "name": "fiscript",
@@ -4699,9 +4699,9 @@
   },
   {
     "name": "fishing-funds",
-    "version": "8.0.1",
-    "url": "https://github.com/1zilc/fishing-funds/releases/download/v8.0.1/Fishing-Funds-8.0.1.dmg",
-    "sha256": "9770c8030a4a247350488f7b37a3087bcbe8e23e8ebf5664664430db7e8f2c39"
+    "version": "8.1.0",
+    "url": "https://github.com/1zilc/fishing-funds/releases/download/v8.1.0/Fishing-Funds-8.1.0.dmg",
+    "sha256": "58b98c46a3001522b4f56ce687345b62ec56667ae4df7f3b480078425f33279c"
   },
   {
     "name": "fitbit-os-simulator",
@@ -5707,9 +5707,9 @@
   },
   {
     "name": "grandtotal",
-    "version": "8.1.2.13",
-    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.2.13.dmg",
-    "sha256": "5ff5282cce0b12e5386bfeaa66f9d66a493a245038ca0b5f96b41a59b22cb1bc"
+    "version": "8.1.2.14",
+    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.2.14.dmg",
+    "sha256": "89dee9fecc6fc5220ce33f2f1c2396d98791ea98ec3f75a8c8429e1575cad4c6"
   },
   {
     "name": "graphicconverter",
@@ -6493,9 +6493,9 @@
   },
   {
     "name": "insomnia",
-    "version": "2023.4.0",
-    "url": "https://github.com/Kong/insomnia/releases/download/core%402023.4.0/Insomnia.Core-2023.4.0.dmg",
-    "sha256": "6900f2595e98f2df6a938d85af4c2d463ea91e17b288a44bbfeaa0172455d285"
+    "version": "2023.5.2",
+    "url": "https://github.com/Kong/insomnia/releases/download/core%402023.5.2/Insomnia.Core-2023.5.2.dmg",
+    "sha256": "7b9a2346ae4f222275ba8d13b8397053795d12ea946e3c4678b5b29b6d29d613"
   },
   {
     "name": "inssider",
@@ -6596,14 +6596,14 @@
   {
     "name": "ipe",
     "version": "7.2.28",
-    "url": "https://github.com/otfried/ipe/releases/download/v7.2.28/ipe-7.2.28-mac.dmg",
-    "sha256": "de2caffc8c4b6c91b8403071c252fbeb1044f3779bac938af4b6251e5f59ec66"
+    "url": "https://github.com/otfried/ipe/releases/download/v7.2.28/ipe-7.2.28-mac-intel.dmg",
+    "sha256": "2de5402c14cc8bbfcc3f6ea45a3712c5cfac928aeabf506d0673aecbb6884ff7"
   },
   {
     "name": "ipepresenter",
     "version": "7.2.28",
-    "url": "https://github.com/otfried/ipe/releases/download/v7.2.28/ipepresenter-7.2.28-mac.dmg",
-    "sha256": "08068414c6455e85a85b9467c7773849a4987761cfab7dd0594b7183992348e8"
+    "url": "https://github.com/otfried/ipe/releases/download/v7.2.28/ipepresenter-7.2.28-mac-intel.dmg",
+    "sha256": "de4317a02ea6a2b93a5f49aa0e61876de647160cfe3286ae573f89828353e697"
   },
   {
     "name": "ipfs",
@@ -9013,9 +9013,9 @@
   },
   {
     "name": "mixxx",
-    "version": "2.3.5",
-    "url": "https://downloads.mixxx.org/releases/2.3.5/mixxx-2.3.5-macosintel.dmg",
-    "sha256": "eaabbec39c44e30aaa86840eae5f47ad503b0e87007c5005e6e12a175bc20ccb"
+    "version": "2.3.6",
+    "url": "https://downloads.mixxx.org/releases/2.3.6/mixxx-2.3.6-macosintel.dmg",
+    "sha256": "f7b2bacb7fefd617b126d8ffa9feb7d26d445f7347cc9a24701e86c17cb174b6"
   },
   {
     "name": "mjml",
@@ -9619,9 +9619,9 @@
   },
   {
     "name": "nault",
-    "version": "1.18.0",
-    "url": "https://github.com/Nault/Nault/releases/download/v1.18.0/Nault-1.18.0-Mac.dmg",
-    "sha256": "a06293ba37fd6a74715d055280117c84313ac5fc0e7206110a0897bc156f78c6"
+    "version": "1.18.1",
+    "url": "https://github.com/Nault/Nault/releases/download/v1.18.1/Nault-1.18.1-Mac.dmg",
+    "sha256": "5a9198b9cb0e929a80044b24277ae7cef8a760093335351cad233e920ba13874"
   },
   {
     "name": "ndm",
@@ -10459,9 +10459,9 @@
   },
   {
     "name": "osu",
-    "version": "2023.812.0",
-    "url": "https://github.com/ppy/osu/releases/download/2023.812.0/osu.app.Intel.zip",
-    "sha256": "a96686b730a1b49825b383edf7f52c94bc105e6a5a2f0af4d1c9f963088e6f6c"
+    "version": "2023.815.0",
+    "url": "https://github.com/ppy/osu/releases/download/2023.815.0/osu.app.Intel.zip",
+    "sha256": "353afae8727b36226079e0c2a25b3fdaa101ba19d1d6c1375aff4554dc8fa968"
   },
   {
     "name": "otto-matic",
@@ -10987,9 +10987,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.136.2,stable.3,5783116",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.136.2-stable.3-ci5783116.dmg",
-    "sha256": "c99bffb913f54e793424a9cbbcad9cd52b6317f7a8127334cb9b65475acf9dd8"
+    "version": "1.137.0,stable.1,5785699",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.137.0-stable.1-ci5785699.dmg",
+    "sha256": "cce5d492f48930e696f7469124d86a8f86dfb4e81e249d2698933b818bec08b9"
   },
   {
     "name": "pixel-check",
@@ -11053,9 +11053,9 @@
   },
   {
     "name": "plex",
-    "version": "1.75.0.3920,8b50876d",
-    "url": "https://downloads.plex.tv/plex-desktop/1.75.0.3920-8b50876d/macos/Plex-1.75.0.3920-8b50876d-universal.zip",
-    "sha256": "4a90c4c9fa0867fd6b0b4813470c55061e459e0c295f19d4c514ebb5d1e8dc2b"
+    "version": "1.76.2.3951,15712eae",
+    "url": "https://downloads.plex.tv/plex-desktop/1.76.2.3951-15712eae/macos/Plex-1.76.2.3951-15712eae-universal.zip",
+    "sha256": "062eef2727a40064a1115e85e914388ff141ffab69653f4b5ae1e81369d13267"
   },
   {
     "name": "plex-htpc",
@@ -11269,9 +11269,9 @@
   },
   {
     "name": "portfolioperformance",
-    "version": "0.65.0",
-    "url": "https://github.com/buchen/portfolio/releases/download/0.65.0/PortfolioPerformance-0.65.0-x86_64.dmg",
-    "sha256": "0f06f72e913f55464971ba7b141df21cd2e74b6119dc159d355c1c35849ec13f"
+    "version": "0.65.1",
+    "url": "https://github.com/buchen/portfolio/releases/download/0.65.1/PortfolioPerformance-0.65.1-x86_64.dmg",
+    "sha256": "e59a8bf18a0685a986ccbb2e53a3b47aab40f1bf89e631bf7af35b70a7ee0419"
   },
   {
     "name": "porting-kit",
@@ -12985,9 +12985,9 @@
   },
   {
     "name": "setapp",
-    "version": "3.29.1,55,1691018086",
-    "url": "https://dl.devmate.com/com.setapp.DesktopClient/55/1691018086/Setapp-55.zip",
-    "sha256": "55827a738912509a60dacbd635e1dbfca87f12dcbcfd1231aadc7e82ee2e5843"
+    "version": "3.30.0,56,1691834972",
+    "url": "https://dl.devmate.com/com.setapp.DesktopClient/56/1691834972/Setapp-56.zip",
+    "sha256": "7ac7ab0c26cd75e4a68cb17929cd3375fd008904d5e556a19f970c3bdbb3aaeb"
   },
   {
     "name": "sfm",
@@ -14287,9 +14287,9 @@
   },
   {
     "name": "surge",
-    "version": "5.2.3,2354,ce8606235be8df196c0e9619a9c8cbbd",
-    "url": "https://dl.nssurge.com/mac/v5/Surge-5.2.3-2354-ce8606235be8df196c0e9619a9c8cbbd.zip",
-    "sha256": "3953de95572218d6b2ca2dad696b37f63d692d30105ae1810f179ba24b70a898"
+    "version": "5.3.0,2375,bc1b4791973df9aba493c3190a7b0050",
+    "url": "https://dl.nssurge.com/mac/v5/Surge-5.3.0-2375-bc1b4791973df9aba493c3190a7b0050.zip",
+    "sha256": "f8676e6522281dd0bbc628e1964e1674d8d53a8d02b8db039ced2ed932051af6"
   },
   {
     "name": "svgcleaner",
@@ -15615,7 +15615,7 @@
     "name": "ultimate-vocal-remover",
     "version": "5.5.0",
     "url": "https://github.com/Anjok07/ultimatevocalremovergui/releases/download/v5.5.0/Ultimate_Vocal_Remover_v5_5_MacOS_x86_64.dmg",
-    "sha256": "375c79e58cb1f7d8def6749b8f7a0ec3648e15c8743f0456a4523ed92f202682"
+    "sha256": "2804769a3a5976bdf1e9d3c32e8c9c056e17f83f17623275f4996f20623e9cb4"
   },
   {
     "name": "ultracopier",
@@ -16093,9 +16093,9 @@
   },
   {
     "name": "vivaldi",
-    "version": "6.1.3035.257",
-    "url": "https://downloads.vivaldi.com/stable-auto/Vivaldi.6.1.3035.257.universal.tar.xz",
-    "sha256": "e6977edf7f514d2faa8913bbf84ee8ce8e72a68f821c807fe3c0dd4b6ac18af6"
+    "version": "6.1.3035.302",
+    "url": "https://downloads.vivaldi.com/stable-auto/Vivaldi.6.1.3035.302.universal.tar.xz",
+    "sha256": "0d6921d4cc29478e7b49893015fd3d15e948001a888a4d0fc42196b476363db1"
   },
   {
     "name": "vivid",
@@ -16405,9 +16405,9 @@
   },
   {
     "name": "wechatwork",
-    "version": "4.1.8.90737",
-    "url": "https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.1.8.90737.dmg",
-    "sha256": "80a48275bb0a399d08bac85a9633d00a81c808a72a23a2f685c810567d8951d4"
+    "version": "4.1.9.90740",
+    "url": "https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.1.9.90740.dmg",
+    "sha256": "e7f1b90cea1688885851ba4233987449a18ff4bcf5fbed005a973a041ba25d1f"
   },
   {
     "name": "weektodo",
@@ -16465,9 +16465,9 @@
   },
   {
     "name": "whatroute",
-    "version": "2.6.4",
-    "url": "https://downloads.whatroute.net/software/whatroute-2.6.4.zip",
-    "sha256": "b80cbe14bf073fb0b96cded88906fb3b291f9ec1e7f7b8e90fbd7c968f4dafa4"
+    "version": "2.6.5",
+    "url": "https://downloads.whatroute.net/software/whatroute-2.6.5.zip",
+    "sha256": "797c31e655ff7656645ef5476243d8014be75af00d505d266acdd6e8d6bef8d5"
   },
   {
     "name": "whatsapp",
@@ -16825,9 +16825,9 @@
   },
   {
     "name": "xmind",
-    "version": "23.07.180256-202307191914",
-    "url": "https://dl3.xmind.net/Xmind-for-macOS-23.07.180256-202307191914.dmg",
-    "sha256": "26115bc2650fec69a96ba9f246c60221fb431b792a7b536f540fcb292c9f0b31"
+    "version": "23.07.201366-202308140201",
+    "url": "https://dl3.xmind.net/Xmind-for-macOS-23.07.201366-202308140201.dmg",
+    "sha256": "fd41c47dcd95d74429c4cc0ac276ba5d145de6ce15f84ff80dcf3758698f6f86"
   },
   {
     "name": "xmplify",
