@@ -523,9 +523,9 @@
   },
   {
     "name": "angband",
-    "version": "4.2.4",
-    "url": "https://github.com/angband/angband/releases/download/4.2.4/Angband-4.2.4-osx.dmg",
-    "sha256": "a0260cbd00807f0d495a3743dca9cc94938978cd90bd6872394ac4bb11cce880"
+    "version": "4.2.5",
+    "url": "https://github.com/angband/angband/releases/download/4.2.5/Angband-4.2.5-osx.dmg",
+    "sha256": "ea04557f8ad46d7e446fd4e76324774743bb6b073f6fe9b803256776707bbc66"
   },
   {
     "name": "angry-ip-scanner",
@@ -1933,9 +1933,9 @@
   },
   {
     "name": "buzz",
-    "version": "0.8.3",
-    "url": "https://github.com/chidiwilliams/buzz/releases/download/v0.8.3/Buzz-0.8.3-mac.dmg",
-    "sha256": "fcc7eb06df2749b5757b748e77f206e130b3751181f67ec24ae0624b63c06438"
+    "version": "0.8.4",
+    "url": "https://github.com/chidiwilliams/buzz/releases/download/v0.8.4/Buzz-0.8.4-mac.dmg",
+    "sha256": "272c9010e23b7b1c47e6bf7db376238e7d2ab897efc1cb2ccfa4ea5ecd733feb"
   },
   {
     "name": "bzflag",
@@ -2281,9 +2281,9 @@
   },
   {
     "name": "chiaki",
-    "version": "2.1.1",
-    "url": "https://git.sr.ht/~thestr4ng3r/chiaki/refs/download/v2.1.1/Chiaki-v2.1.1-macOS-x86_64.dmg",
-    "sha256": "d90aa5c7b0d5602165be845fa648474f084968109554d644544b64cd1399c6af"
+    "version": "2.2.0",
+    "url": "https://git.sr.ht/~thestr4ng3r/chiaki/refs/download/v2.2.0/Chiaki-v2.2.0-macOS-x86_64.dmg",
+    "sha256": "bf0315f26f196ece67181f7f88adc28c7eb17c0fdda10315d7b7b3606ba370a7"
   },
   {
     "name": "chipmunk",
@@ -9043,9 +9043,9 @@
   },
   {
     "name": "mkvtoolnix",
-    "version": "78.0",
-    "url": "https://mkvtoolnix.download/macos/MKVToolNix-78.0.dmg",
-    "sha256": "6be03a526bbf4673575b0639bce28ec9a02c122195e2134596da26cd31922b8e"
+    "version": "79.0",
+    "url": "https://mkvtoolnix.download/macos/MKVToolNix-79.0.dmg",
+    "sha256": "93f69fb341f5384475b2c4ded26f2dc990f273a4e95cbca5729a9b87d967be18"
   },
   {
     "name": "mkvtools",
@@ -14431,9 +14431,9 @@
   },
   {
     "name": "syncthing",
-    "version": "1.23.6-1",
-    "url": "https://github.com/syncthing/syncthing-macos/releases/download/v1.23.6-1/Syncthing-1.23.6-1.dmg",
-    "sha256": "a2350694383a65590b4ae80a00f453c92fcc69dedcb720dd8a46df191e72059c"
+    "version": "1.23.7-1",
+    "url": "https://github.com/syncthing/syncthing-macos/releases/download/v1.23.7-1/Syncthing-1.23.7-1.dmg",
+    "sha256": "948f019009717205c8ab9f5577235ef848fc5acc98610cd75d6fdd8c2139f2d6"
   },
   {
     "name": "synfigstudio",
@@ -16351,9 +16351,9 @@
   },
   {
     "name": "webcatalog",
-    "version": "51.0.1",
-    "url": "https://cdn-2.webcatalog.io/webcatalog/WebCatalog-51.0.1-universal.dmg",
-    "sha256": "9a7ad5e30036de600b401d66211b4de44b8e4df82438ade17791896a5cb31964"
+    "version": "52.1.0",
+    "url": "https://cdn-2.webcatalog.io/webcatalog/WebCatalog-52.1.0-universal.dmg",
+    "sha256": "353d3753b7c55431cdbc3eb37fbd39fee17638ed760e30e53245b74f7d845d0b"
   },
   {
     "name": "webots",
