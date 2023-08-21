@@ -721,9 +721,9 @@
   },
   {
     "name": "aptakube",
-    "version": "1.5.3",
-    "url": "https://releases.aptakube.com/Aptakube_1.5.3_universal.dmg",
-    "sha256": "553edaa07bca7e1d0e38840d111764c45426cd45e4b99299aeb06c1210edbc2d"
+    "version": "1.5.4",
+    "url": "https://releases.aptakube.com/Aptakube_1.5.4_universal.dmg",
+    "sha256": "6f446235ae0a8821b72c6472b4f14235ea2e968bb67a5c7181c6153515977443"
   },
   {
     "name": "aptanastudio",
@@ -1219,9 +1219,9 @@
   },
   {
     "name": "battery",
-    "version": "1.1.5",
-    "url": "https://github.com/actuallymentor/battery/releases/download/v1.1.5/battery-1.1.5-mac-arm64.dmg",
-    "sha256": "4e25e13816ff20faabcbb0b29fe03be853428c608eec2bb730e6edd0724f0c60"
+    "version": "1.1.6",
+    "url": "https://github.com/actuallymentor/battery/releases/download/v1.1.6/battery-1.1.6-mac-arm64.dmg",
+    "sha256": "2cf4c34d7054d77802a0ce4ea8b1b44f8387dba3f14e5c61238c9ddd599e7a32"
   },
   {
     "name": "battery-report",
@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.186,2405",
-    "url": "https://folivora.ai/releases/btt4.186-2405.zip",
-    "sha256": "e056fd5b87095923bb90ff812f028da53dc7a9c7fc2b5e3a1265576ef3f03a1e"
+    "version": "4.187,2406",
+    "url": "https://folivora.ai/releases/btt4.187-2406.zip",
+    "sha256": "654a6b57f29abae66d14f815086dffda5f3985ab4b1f04c4e858749d46e9b388"
   },
   {
     "name": "betterzip",
@@ -1561,9 +1561,9 @@
   },
   {
     "name": "blobsaver",
-    "version": "3.5.1",
-    "url": "https://github.com/airsquared/blobsaver/releases/download/v3.5.1/blobsaver-intel-3.5.1.dmg",
-    "sha256": "8ceb2536b73d0c36af84b0a1eb61131a5263c142517566a651e69b0abbea1071"
+    "version": "3.5.2",
+    "url": "https://github.com/airsquared/blobsaver/releases/download/v3.5.2/blobsaver-intel-3.5.2.dmg",
+    "sha256": "06bf93418d68da77cfb77ef87381f1cfc175c3dfe3338fe16819b6cf8e90903a"
   },
   {
     "name": "blockbench",
@@ -2227,15 +2227,15 @@
   },
   {
     "name": "chatall",
-    "version": "1.37.61",
-    "url": "https://github.com/sunner/ChatALL/releases/download/v1.37.61/ChatALL-1.37.61-mac-x64.dmg",
-    "sha256": "d44be21d26b1d8a788a2507363736e42b720c770d8c39f267704a019f54c753c"
+    "version": "1.39.62",
+    "url": "https://github.com/sunner/ChatALL/releases/download/v1.39.62/ChatALL-1.39.62-mac-x64.dmg",
+    "sha256": "e2fb14451b42b7aa276b810da17cbae6f4d8f37db4fafc5980a6e3e34afa0241"
   },
   {
     "name": "chatbox",
-    "version": "0.6.7",
-    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v0.6.7/Chatbox-0.6.7.dmg",
-    "sha256": "cd6b4d2ed38a13aff47dc09ac989a3b7c3cbb7acd997194a47212dca06273374"
+    "version": "0.6.8",
+    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v0.6.8/Chatbox-0.6.8.dmg",
+    "sha256": "648040029a90c785ff40a188bc7a088477d14acb04ab57131368805ef22fb343"
   },
   {
     "name": "chatmate-for-facebook",
@@ -2659,9 +2659,9 @@
   },
   {
     "name": "codux",
-    "version": "15.8.0",
-    "url": "https://github.com/wixplosives/codux-versions/releases/download/15.8.0/Codux-15.8.0.x64.dmg",
-    "sha256": "914442ad3011ba6eecc5a9d37a25528bf6a34deb9e248780d6e3016dd67b7373"
+    "version": "15.9.0",
+    "url": "https://github.com/wixplosives/codux-versions/releases/download/15.9.0/Codux-15.9.0.x64.dmg",
+    "sha256": "bb33bc54913972c44d3877596f35768c5f15cfe2290abcb8760527be60ce9fa4"
   },
   {
     "name": "coffitivity-offline",
@@ -3235,9 +3235,9 @@
   },
   {
     "name": "dbeaver-community",
-    "version": "23.1.4",
-    "url": "https://dbeaver.io/files/23.1.4/dbeaver-ce-23.1.4-macos-x86_64.dmg",
-    "sha256": "4c10ee65f96688084ca0ae0302948b209879d8edade6a273b31d9e28f16c59fd"
+    "version": "23.1.5",
+    "url": "https://dbeaver.io/files/23.1.5/dbeaver-ce-23.1.5-macos-x86_64.dmg",
+    "sha256": "c84d1fea5ec7532874ccd3899b2c46ebcf5b84f337ec5f2aeebe08858021e09c"
   },
   {
     "name": "dbeaver-enterprise",
@@ -3853,9 +3853,9 @@
   },
   {
     "name": "dropshare",
-    "version": "5.34.1,5440",
-    "url": "https://d2wvuuix8c9e48.cloudfront.net/Dropshare5-5440.app.zip",
-    "sha256": "22c6e450569f86cccbc5610579df24b57c247f9b5ad23b2fb4a6780f09813e1b"
+    "version": "5.35,5464",
+    "url": "https://d2wvuuix8c9e48.cloudfront.net/Dropshare5-5464.app.zip",
+    "sha256": "0c7ac10a5e41c9f23a22faf42244f7784eab1b62ed2fe886db742b44ba93b782"
   },
   {
     "name": "dropzone",
@@ -5059,9 +5059,9 @@
   },
   {
     "name": "freetube",
-    "version": "0.18.0",
-    "url": "https://github.com/FreeTubeApp/FreeTube/releases/download/v0.18.0-beta/freetube-0.18.0-mac-x64.dmg",
-    "sha256": "28ff5b17fd5e69184e7ab198fb0b196f78a427f52153b3a6164b4d7a9e9a785a"
+    "version": "0.19.0",
+    "url": "https://github.com/FreeTubeApp/FreeTube/releases/download/v0.19.0-beta/freetube-0.19.0-mac-x64.dmg",
+    "sha256": "85f9ea8db43b89082957f77821b3c7cdc48bb371b6f55f95158efc4c64fc9edc"
   },
   {
     "name": "freeyourmusic",
@@ -5707,9 +5707,9 @@
   },
   {
     "name": "grandtotal",
-    "version": "8.1.2.15",
-    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.2.15.dmg",
-    "sha256": "1f0262354631ce5ea5947e2753dc70dea152016f655faa21794fad46fa2b11b4"
+    "version": "8.1.2.16",
+    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.2.16.dmg",
+    "sha256": "f83509384e1014d0adb9d6fff00166e0d5faa6256388105af42c38c0f7dd4ca2"
   },
   {
     "name": "graphicconverter",
@@ -6211,9 +6211,9 @@
   },
   {
     "name": "hyperkey",
-    "version": "0.22",
-    "url": "https://hyperkey.app/downloads/Hyperkey0.22.dmg",
-    "sha256": "b4b78d923bb38424ceb302d595713b4541e0dd119e40aadb1e42d04d53d731b6"
+    "version": "0.23",
+    "url": "https://hyperkey.app/downloads/Hyperkey0.23.dmg",
+    "sha256": "8e8435b734737e0f08dc1278a2221e9f1a20ee75422a253b25503669a47fe9a1"
   },
   {
     "name": "ibackup",
@@ -6775,9 +6775,9 @@
   },
   {
     "name": "jamf-migrator",
-    "version": "7.1.1",
-    "url": "https://github.com/jamf/JamfMigrator/releases/download/v7.1.1/jamf-migrator.zip",
-    "sha256": "de8738fe6449ad51bf71001180ac9156b26d636df71a5365ffe5b2beda95f8a3"
+    "version": "7.2.0",
+    "url": "https://github.com/jamf/JamfMigrator/releases/download/v7.2.0/jamf-migrator.zip",
+    "sha256": "8f2f03423ea33520a720f88811a761082e6c4bbaa4b0bd65a3a8f4f55c8ec275"
   },
   {
     "name": "jami",
@@ -7561,9 +7561,9 @@
   },
   {
     "name": "launchbar",
-    "version": "6.17",
-    "url": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.17.dmg",
-    "sha256": "146c2bcaabb0924f1a69bfb73bb313a5cf7012647ded97eb38e7e7373d3e41f8"
+    "version": "6.18",
+    "url": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.18.dmg",
+    "sha256": "83dfa2ae6b80081ed844f76bfeefbb258b8c2b75cbf3e68479db3501f976d6dc"
   },
   {
     "name": "launchcontrol",
@@ -7657,9 +7657,9 @@
   },
   {
     "name": "libreoffice",
-    "version": "7.5.5",
-    "url": "https://download.documentfoundation.org/libreoffice/stable/7.5.5/mac/x86_64/LibreOffice_7.5.5_MacOS_x86-64.dmg",
-    "sha256": "4aad9f08ef7a4524b85fc46b3301fdf4f5ab8ab63dd01d01c297f96ff474804a"
+    "version": "7.6.0",
+    "url": "https://download.documentfoundation.org/libreoffice/stable/7.6.0/mac/x86_64/LibreOffice_7.6.0_MacOS_x86-64.dmg",
+    "sha256": "ede541af151487f60eb518e310d20dad1a973f3dbe9ff78d782dd29b14ba2946"
   },
   {
     "name": "librepcb",
@@ -7681,9 +7681,9 @@
   },
   {
     "name": "lidarr",
-    "version": "1.2.6.3313",
-    "url": "https://github.com/lidarr/Lidarr/releases/download/v1.2.6.3313/Lidarr.master.1.2.6.3313.osx-app-core-x64.zip",
-    "sha256": "d608f733a98e5400ba7bebe2b945316a44751cb1e79fed39f2e39be646495a6b"
+    "version": "1.3.5.3530",
+    "url": "https://github.com/lidarr/Lidarr/releases/download/v1.3.5.3530/Lidarr.master.1.3.5.3530.osx-app-core-x64.zip",
+    "sha256": "8844c295364f02f60c3c01c7f6983f7768b4a19d53ec520e6fa4386c658892b9"
   },
   {
     "name": "lifesize",
@@ -7789,9 +7789,9 @@
   },
   {
     "name": "little-snitch",
-    "version": "5.6",
-    "url": "https://www.obdev.at/downloads/littlesnitch/LittleSnitch-5.6.dmg",
-    "sha256": "c424847fd9ec3eedca81a846f1944acbee492a7e8775cb1f5ad540658f81eda7"
+    "version": "5.7",
+    "url": "https://www.obdev.at/downloads/littlesnitch/LittleSnitch-5.7.dmg",
+    "sha256": "ff3bd16895a9160113bdd4d9ef0ee436df4b0885991d07fb8ee059fd02ad9f05"
   },
   {
     "name": "livebook",
@@ -7969,9 +7969,9 @@
   },
   {
     "name": "lunar",
-    "version": "6.2.2",
-    "url": "https://static.lunar.fyi/releases/Lunar-6.2.2.dmg",
-    "sha256": "f040c09bb31f295a9f79a9012ab711f24a1bc03f51ff422cd8cc9bffa7a74d01"
+    "version": "6.2.3",
+    "url": "https://static.lunar.fyi/releases/Lunar-6.2.3.dmg",
+    "sha256": "3c61e98b4a6c9d6187288434cc3f426cd0e23878926644a43d6bc459cba38ac4"
   },
   {
     "name": "lunar-client",
@@ -8017,9 +8017,9 @@
   },
   {
     "name": "lynkeos",
-    "version": "3.5",
-    "url": "https://downloads.sourceforge.net/lynkeos/lynkeos/3.5/Lynkeos-App-3-5.zip",
-    "sha256": "b41f286e4adb8db578e975e65d842a79cd50bcf91dffb4a8885364d7f3fe7a45"
+    "version": "3.6",
+    "url": "https://downloads.sourceforge.net/lynkeos/lynkeos/3.6/Lynkeos-App-3-6.zip",
+    "sha256": "f86fa706d5ec58e58184ae69e69bb2c7db7a705876c39f4023e3dc9e8e8ae0b2"
   },
   {
     "name": "lynxlet",
@@ -10537,9 +10537,9 @@
   },
   {
     "name": "packetsender",
-    "version": "8.3.5",
-    "url": "https://github.com/dannagle/PacketSender/releases/download/v8.3.5/PacketSender_v8.3.5.dmg",
-    "sha256": "113d125fef3fa0a79f85479eaa69096eab0ed37703ffc0c537507176802708d8"
+    "version": "8.4.3",
+    "url": "https://github.com/dannagle/PacketSender/releases/download/v8.4.3/PacketSender_v8.4.3.dmg",
+    "sha256": "4a1ad4a323a8763105f60f4e208634b36b558b8a08f29dda6607806e00029249"
   },
   {
     "name": "padloc",
@@ -11167,9 +11167,9 @@
   },
   {
     "name": "poker-copilot",
-    "version": "7.40,9157",
-    "url": "https://static.pokercopilot.com/pokercopilot_macos_7_40_build_9157.dmg",
-    "sha256": "122613adbde17123487e858e6869a65cdcdd197b552580f0ddb054fc38f2118c"
+    "version": "7.41,9161",
+    "url": "https://static.pokercopilot.com/pokercopilot_macos_7_41_build_9161.dmg",
+    "sha256": "ebf895a2cd38eef200dbb55449005fcf2ef193f61960ec6a2eae8efa10d56d9e"
   },
   {
     "name": "pokerth",
@@ -11761,9 +11761,9 @@
   },
   {
     "name": "qgis",
-    "version": "3.32.1,20230721_142054",
-    "url": "https://qgis.org/downloads/macos/pr/qgis_pr_final-3_32_1_20230721_142054.dmg",
-    "sha256": "17522a884f06f767bf44503c20e00dc7b486afbd74835fc9ac12f96c3cb5f023"
+    "version": "3.32.2,20230819_135339",
+    "url": "https://qgis.org/downloads/macos/pr/qgis_pr_final-3_32_2_20230819_135339.dmg",
+    "sha256": "240f557b0be1abb34f5ab09a0b51678f7a5b435fc7c7cb59bbde3cfd8700174a"
   },
   {
     "name": "qlab",
@@ -13405,9 +13405,9 @@
   },
   {
     "name": "slicer",
-    "version": "5.2.2,63f5ef7e8939577d9867d6a1",
-    "url": "https://slicer-packages.kitware.com/api/v1/item/63f5ef7e8939577d9867d6a1/download",
-    "sha256": "8261c7bf14e6e77f37573dac88aa838113d7f0bf533a6adeed66750b89c672e4"
+    "version": "5.4.0,64e0c56306a93d6cff363e32",
+    "url": "https://slicer-packages.kitware.com/api/v1/item/64e0c56306a93d6cff363e32/download",
+    "sha256": "0255b1170a2563b1c6f8ce80989c8f8d2b86d20fbf585b8289d583503af11c31"
   },
   {
     "name": "slidepilot",
@@ -13567,9 +13567,9 @@
   },
   {
     "name": "sol",
-    "version": "2.0.31",
-    "url": "https://raw.githubusercontent.com/ospfranco/sol/main/releases/2.0.31.zip",
-    "sha256": "ccc5ea8a6c3dafa6413f211081fe3c3b54a61b238d49673cb339694857c7cb6c"
+    "version": "2.0.35",
+    "url": "https://raw.githubusercontent.com/ospfranco/sol/main/releases/2.0.35.zip",
+    "sha256": "f7f1c69d06a9f010c10abef419a020933af3abea98f552c520a8121dd623e6d0"
   },
   {
     "name": "solvespace",
@@ -13645,9 +13645,9 @@
   },
   {
     "name": "soqlxplorer",
-    "version": "4.5",
-    "url": "https://www.pocketsoap.com/osx/soqlx/SoqlXplorer_v4.5.zip",
-    "sha256": "a442970c257cb40e244730816d436c4944b43bb8bbee9806728e1a217ffec0e2"
+    "version": "4.6",
+    "url": "https://www.pocketsoap.com/osx/soqlx/SoqlXplorer_v4.6.zip",
+    "sha256": "49e55f93a56a6e0cbe17164f73b8e7ad08539e0488864c4730916b820efb7ec7"
   },
   {
     "name": "soulseek",
@@ -14041,9 +14041,9 @@
   },
   {
     "name": "stats",
-    "version": "2.9.4",
-    "url": "https://github.com/exelban/stats/releases/download/v2.9.4/Stats.dmg",
-    "sha256": "4df566eb959ad1f359a353f0776d74bc7238b7fc727c1763d7f2d7ab1b714606"
+    "version": "2.9.5",
+    "url": "https://github.com/exelban/stats/releases/download/v2.9.5/Stats.dmg",
+    "sha256": "a2e577a02eec3ee620e27fb2377c1db5f1c21dc5e01524312b2c03fc608182c8"
   },
   {
     "name": "statusfy",
