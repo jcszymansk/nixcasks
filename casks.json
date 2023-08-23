@@ -661,9 +661,9 @@
   },
   {
     "name": "appflowy",
-    "version": "0.2.9",
-    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.2.9/Appflowy_0.2.9_macos-x86_64.zip",
-    "sha256": "33e2abf2af32ee6ee425e1cf6ab7828c494b11873ba564cc2eb81761626a47b0"
+    "version": "0.3.0",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.3.0/Appflowy_0.3.0_macos-x86_64.zip",
+    "sha256": "9d709cce47f7060112b3cc5243543122a97dbbec0b5e07a7671f39336ef515e0"
   },
   {
     "name": "appgrid",
@@ -1411,9 +1411,9 @@
   },
   {
     "name": "bike",
-    "version": "1.14,147",
-    "url": "https://www.hogbaysoftware.com/bike/releases/147.dmg",
-    "sha256": "bfc36b67d41da0fbebbe4bdb0a6b2f5ce0e265b47c7a15021668e47d16903193"
+    "version": "1.14,148",
+    "url": "https://www.hogbaysoftware.com/bike/releases/148.dmg",
+    "sha256": "4ee7b3c5f853785df250c87176ac4cefdb9a0e1d75726f023352becb2200e9f8"
   },
   {
     "name": "bili-downloader",
@@ -2227,9 +2227,9 @@
   },
   {
     "name": "chatall",
-    "version": "1.39.62",
-    "url": "https://github.com/sunner/ChatALL/releases/download/v1.39.62/ChatALL-1.39.62-mac-x64.dmg",
-    "sha256": "e2fb14451b42b7aa276b810da17cbae6f4d8f37db4fafc5980a6e3e34afa0241"
+    "version": "1.39.63",
+    "url": "https://github.com/sunner/ChatALL/releases/download/v1.39.63/ChatALL-1.39.63-mac-x64.dmg",
+    "sha256": "8d75080556b67e3b2949165691760636fca68bc9ce2667b0a06300f51460e37c"
   },
   {
     "name": "chatbox",
@@ -2293,9 +2293,9 @@
   },
   {
     "name": "chirp",
-    "version": "20230818",
-    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230818/chirp-next-20230818.app.zip",
-    "sha256": "729767483371950919982522cf1c20e52300436429c3a66f6d19acc69704485e"
+    "version": "20230823",
+    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230823/chirp-next-20230823.app.zip",
+    "sha256": "a9566e1a445efb52d4e6d567ece39e64913fa7f5ea5997d8f271d47deba9b712"
   },
   {
     "name": "chrome-devtools",
@@ -3439,9 +3439,9 @@
   },
   {
     "name": "descript",
-    "version": "70.1.3-release.20230817.22980",
-    "url": "https://electron.descript.com/Descript-70.1.3-release.20230817.22980.dmg",
-    "sha256": "54518dd583e906a36740f27fc676e83d9eaa94c4d0c5bbcfac8f5a0321482a1a"
+    "version": "71.1.0-release.20230822.23295",
+    "url": "https://electron.descript.com/Descript-71.1.0-release.20230822.23295.dmg",
+    "sha256": "cddcd8bf717f0787bed266123906244c174b3bebe436dc6157f595556f61f0d8"
   },
   {
     "name": "deskreen",
@@ -6481,8 +6481,8 @@
   },
   {
     "name": "inkscape",
-    "version": "1.3.0",
-    "url": "https://media.inkscape.org/dl/resources/file/Inkscape-1.3.0_x86_64.dmg",
+    "version": "1.3.0,42338",
+    "url": "https://inkscape.org/gallery/item/42338/Inkscape-1.3.0_x86_64.dmg",
     "sha256": "e97de6804d8811dd2f1bc45d709d87fb6fe45963aae710c24a4ed655ecd8eb8a"
   },
   {
@@ -6499,9 +6499,9 @@
   },
   {
     "name": "insomnia",
-    "version": "2023.5.5",
-    "url": "https://github.com/Kong/insomnia/releases/download/core%402023.5.5/Insomnia.Core-2023.5.5.dmg",
-    "sha256": "deb048fe568dc0f36c8be2359244147ae8371c60dd92ba84d78dcaf9c1189681"
+    "version": "2023.5.6",
+    "url": "https://github.com/Kong/insomnia/releases/download/core%402023.5.6/Insomnia.Core-2023.5.6.dmg",
+    "sha256": "d9c39007843e9b852f12487b62c6ec2aa6326df251098bfc191d3f428a3ebf25"
   },
   {
     "name": "inssider",
@@ -6613,9 +6613,9 @@
   },
   {
     "name": "ipfs",
-    "version": "0.30.0",
-    "url": "https://github.com/ipfs/ipfs-desktop/releases/download/v0.30.0/ipfs-desktop-0.30.0-mac.dmg",
-    "sha256": "80f6eb8222511daa6215c06741eac589124275a8c1762aa131932782d2842015"
+    "version": "0.30.1",
+    "url": "https://github.com/ipfs/ipfs-desktop/releases/download/v0.30.1/ipfs-desktop-0.30.1-mac.dmg",
+    "sha256": "2278582ca0a22a9c0ad4bbca60b81b91b457e972de352e5ab484ee5124ff21f9"
   },
   {
     "name": "ipremoteutility",
@@ -7057,9 +7057,9 @@
   },
   {
     "name": "jupyterlab",
-    "version": "4.0.2-1",
-    "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.0.2-1/JupyterLab-Setup-macOS-x64.dmg",
-    "sha256": "58f0a8e3fc8118fd19225d32c278e6d4d5f3da6a8ee93e0d8ecb9529a56e71fc"
+    "version": "4.0.5-1",
+    "url": "https://github.com/jupyterlab/jupyterlab-desktop/releases/download/v4.0.5-1/JupyterLab-Setup-macOS-x64.dmg",
+    "sha256": "4af67926454d197be45cac8593ae7886783409bd07e56f320c8c1f2a167986b4"
   },
   {
     "name": "kactus",
@@ -9187,21 +9187,21 @@
   },
   {
     "name": "mongodb-compass",
-    "version": "1.39.1",
-    "url": "https://downloads.mongodb.com/compass/mongodb-compass-1.39.1-darwin-x64.dmg",
-    "sha256": "8d43402b0007af5274610c71491b091cb3ac062a63c9b8936fc154ac8db5595b"
+    "version": "1.39.2",
+    "url": "https://downloads.mongodb.com/compass/mongodb-compass-1.39.2-darwin-x64.dmg",
+    "sha256": "a4b7d4f77ec63eea77c7bb25764d846354465cfe9f399b4f3c05a89a7d59ecf9"
   },
   {
     "name": "mongodb-compass-isolated-edition",
-    "version": "1.39.1",
-    "url": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.39.1-darwin-x64.dmg",
-    "sha256": "1abbe031ae4f884886ffce53c9d7d518bed6a474eedc9b3c81432b29a0d4477e"
+    "version": "1.39.2",
+    "url": "https://downloads.mongodb.com/compass/mongodb-compass-isolated-1.39.2-darwin-x64.dmg",
+    "sha256": "e36c2059482264789fcc9f2edc6130cdc718b9df01d4f7ae3ea7c5a72ed9ae75"
   },
   {
     "name": "mongodb-compass-readonly",
-    "version": "1.39.1",
-    "url": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.39.1-darwin-x64.dmg",
-    "sha256": "a9d2e3f901c8ac6b1ede636003420cb5cfb1b4759ade3b27b50c558ef6d2dbba"
+    "version": "1.39.2",
+    "url": "https://downloads.mongodb.com/compass/mongodb-compass-readonly-1.39.2-darwin-x64.dmg",
+    "sha256": "c0bf515a516e0685f898aba6ad7d18a85c2b552cbc511d0c53c4c3228ef80312"
   },
   {
     "name": "mongodb-realm-studio",
@@ -9895,9 +9895,9 @@
   },
   {
     "name": "notion",
-    "version": "2.1.19",
-    "url": "https://desktop-release.notion-static.com/Notion-2.1.19.dmg",
-    "sha256": "fa6d61308873254b6817f09888f24e170a4697341eb23f912653ca229a3501c1"
+    "version": "2.1.23",
+    "url": "https://desktop-release.notion-static.com/Notion-2.1.23.dmg",
+    "sha256": "f4afc11f6b15a9a3ab94f454cf31a06fd6625d63237aecf27fc1c90273828227"
   },
   {
     "name": "notion-enhanced",
@@ -10423,9 +10423,9 @@
   },
   {
     "name": "orcaslicer",
-    "version": "1.6.3",
-    "url": "https://github.com/SoftFever/OrcaSlicer/releases/download/v1.6.3/OrcaSlicer_V1.6.3_Mac_Intel_signed.zip",
-    "sha256": "33fc669025acbaf8ad4fe7a10d80c8af396d2c56315f607f59910e1a6515eb59"
+    "version": "1.6.4",
+    "url": "https://github.com/SoftFever/OrcaSlicer/releases/download/v1.6.4/OrcaSlicer_Mac_x86_64_V1.6.4.dmg",
+    "sha256": "21ed4869a5f628aacfce48403cca00b028498292c8679d356f963e23a04aac00"
   },
   {
     "name": "orion",
@@ -10933,9 +10933,9 @@
   },
   {
     "name": "piclist",
-    "version": "1.9.9",
-    "url": "https://release.piclist.cn/latest/PicList-1.9.9-x64.dmg",
-    "sha256": "20892f466b722c73bb5ed37e08f81e739401364bc129143622f8c176b594c896"
+    "version": "2.5.0",
+    "url": "https://release.piclist.cn/latest/PicList-2.5.0-x64.dmg",
+    "sha256": "c06a018cafdd0ab5de8d06df5d966650ca7176a903cc23d3f07a386b282b8c5b"
   },
   {
     "name": "pictogram",
@@ -10993,9 +10993,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.138.0,stable.1,5810852",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.138.0-stable.1-ci5810852.dmg",
-    "sha256": "7ace022663c893564f9babf9e934a34bc7e15e2c3cca827eb59defb5ee3728f8"
+    "version": "1.138.0,stable.2,5817000",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.138.0-stable.2-ci5817000.dmg",
+    "sha256": "4d20f7dc47d407c5be8b23867ddffd0f6be9378dc75a3338432e565b5fb3a375"
   },
   {
     "name": "pixel-check",
@@ -11065,9 +11065,9 @@
   },
   {
     "name": "plex-htpc",
-    "version": "1.45.1.3942,6fc4ceab",
-    "url": "https://downloads.plex.tv/htpc/1.45.1.3942-6fc4ceab/macos/PlexHTPC-1.45.1.3942-6fc4ceab-universal.zip",
-    "sha256": "e64b91bc7878683948da1e8f064d0a261d25e36a4f28f28217ea762756cf6550"
+    "version": "1.46.1.3959,97cbd9c4",
+    "url": "https://downloads.plex.tv/htpc/1.46.1.3959-97cbd9c4/macos/PlexHTPC-1.46.1.3959-97cbd9c4-universal.zip",
+    "sha256": "8bc5c4e37fe8f1f6f4f7ecc6efbd7983d01f3189de550e76e7523c9a83e31d51"
   },
   {
     "name": "plex-media-player",
@@ -11635,9 +11635,9 @@
   },
   {
     "name": "purei-play",
-    "version": "2023-08-21,26597722",
-    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/26597722/Play.dmg",
-    "sha256": "f92ddd5558c93fb19c3bbf5ac78451dad7948c9ed640fac74af80d2598008528"
+    "version": "2023-08-22,c93889eb",
+    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/c93889eb/Play.dmg",
+    "sha256": "09f32343d751166b944770b495e390036e7a3f7aae1e596c1d1b6d54835da2e9"
   },
   {
     "name": "pusher",
@@ -11833,9 +11833,9 @@
   },
   {
     "name": "qqlive",
-    "version": "2.76.1.53771",
-    "url": "https://dldir1.qq.com/qqtv/mac/TencentVideo2.76.1.53771.dmg",
-    "sha256": "1b3cba3f37e24fdddbcef2676f72fc0a51b770c4c7564b920550ffba3d7d0c32"
+    "version": "2.76.2.53777",
+    "url": "https://dldir1.qq.com/qqtv/mac/TencentVideo2.76.2.53777.dmg",
+    "sha256": "60b8e5fa11cedd8903bde1d3b1e457149da6a90d9d6c49e74944542d1468b1d5"
   },
   {
     "name": "qqmacmgr",
@@ -14173,9 +14173,9 @@
   },
   {
     "name": "sublime-merge",
-    "version": "2083",
-    "url": "https://download.sublimetext.com/sublime_merge_build_2083_mac.zip",
-    "sha256": "99c47e3314ca9cad80810ad56eea803ae303e37d9140b5851cd4d7c39863c872"
+    "version": "2091",
+    "url": "https://download.sublimetext.com/sublime_merge_build_2091_mac.zip",
+    "sha256": "9d65877c74196f213d0e84c64f2a2b91476be786faf54a4c1cef76b15e67a873"
   },
   {
     "name": "sublime-text",
@@ -14641,9 +14641,9 @@
   },
   {
     "name": "teleport-connect",
-    "version": "13.3.4",
-    "url": "https://cdn.teleport.dev/Teleport%20Connect-13.3.4.dmg",
-    "sha256": "4afebb0398e6f440039d8213c08b0d11d55c8acfd9227572e02f19e67ae2dacf"
+    "version": "13.3.5",
+    "url": "https://cdn.teleport.dev/Teleport%20Connect-13.3.5.dmg",
+    "sha256": "c867c690842ab6e70ad26ae0c8d8122cf1b438bf373c01e37eb6da298c0dd53f"
   },
   {
     "name": "tempbox",
@@ -16333,9 +16333,9 @@
   },
   {
     "name": "wavebox",
-    "version": "10.115.27.2",
-    "url": "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.115.27.2.dmg",
-    "sha256": "4cdc465d120daa7eeb69f15ee57f9f5b51982975003c5a3d85a89107f6c20c27"
+    "version": "10.116.8.2",
+    "url": "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.116.8.2.dmg",
+    "sha256": "c76cf1fa46188e19a1ded7219d1d71d34fc8fba846e24865395d46205ac8957f"
   },
   {
     "name": "wavesurfer",
@@ -16627,9 +16627,9 @@
   },
   {
     "name": "workflowy",
-    "version": "4.0.2308151116",
-    "url": "https://github.com/workflowy/desktop/releases/download/v4.0.2308151116/WorkFlowy.zip",
-    "sha256": "7c132bbe6852b5e87d8c9dab7c571f5fa4857a0a71b5098ae40fafd79bb45cf9"
+    "version": "4.0.2308221539",
+    "url": "https://github.com/workflowy/desktop/releases/download/v4.0.2308221539/WorkFlowy.zip",
+    "sha256": "4ac9a3c52637b588b808a4059c76791664f2e80abfb7b99170ab61b8d489fd52"
   },
   {
     "name": "workspaces",
