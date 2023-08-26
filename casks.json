@@ -541,9 +541,9 @@
   },
   {
     "name": "anki",
-    "version": "2.1.65",
-    "url": "https://github.com/ankitects/anki/releases/download/2.1.65/anki-2.1.65-mac-intel-qt6.dmg",
-    "sha256": "ce6088efbc8b768266ff39d4832fb167c25defb17708f973ab771e0737240385"
+    "version": "2.1.66",
+    "url": "https://github.com/ankitects/anki/releases/download/2.1.66/anki-2.1.66-mac-intel-qt6.dmg",
+    "sha256": "70562ec3e65241de51c3ec7b7882840f357d532beec57de267c76b9ad40d67bf"
   },
   {
     "name": "anonym",
@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.188,2407",
-    "url": "https://folivora.ai/releases/btt4.188-2407.zip",
-    "sha256": "afdd0c4662ed8275284de2d8d5394ceef0f8b2e1f805e9e91c7137a9267d928f"
+    "version": "4.191,2410",
+    "url": "https://folivora.ai/releases/btt4.191-2410.zip",
+    "sha256": "2b139ed3a7eea0cbc71e2df0812190d87ad9ce9f6b216d9c5179c4482e332571"
   },
   {
     "name": "betterzip",
@@ -1489,9 +1489,9 @@
   },
   {
     "name": "bitwarden",
-    "version": "2023.7.1",
-    "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.7.1/Bitwarden-2023.7.1-universal.dmg",
-    "sha256": "dc994336533c632f18a39ce7b36993caba7ff54841420689212edaffa5f81a77"
+    "version": "2023.8.2",
+    "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.8.2/Bitwarden-2023.8.2-universal.dmg",
+    "sha256": "347475a557c89775829a9dd2b13807c0e02d4b6523246c9f2adc5a082f4211ce"
   },
   {
     "name": "bitwig-studio",
@@ -2257,9 +2257,9 @@
   },
   {
     "name": "chatterino",
-    "version": "2.4.4",
-    "url": "https://chatterino.fra1.digitaloceanspaces.com/bin/2.4.4/Chatterino.dmg",
-    "sha256": "ba1460c90e94379ba22c765d4b380929a22e75fb5e548b95a6e3d6891c65a475"
+    "version": "2.4.5",
+    "url": "https://chatterino.fra1.digitaloceanspaces.com/bin/2.4.5/Chatterino.dmg",
+    "sha256": "4601294adfe3018971a7d937e05d629961ed6febd436e7a8a34c12a851aec455"
   },
   {
     "name": "cheatsheet",
@@ -3141,7 +3141,7 @@
     "name": "dash",
     "version": "7.0.1",
     "url": "https://kapeli.com/downloads/v7/Dash.zip",
-    "sha256": "d3dd09f2dff5f4b840ac823b03b15a35e9824343a6d05a73ec68492fdbaaa2aa"
+    "sha256": "df867edbf5aa7bf1452d389b8b6438c878c774dc38f2d93d153056d19dbd7b03"
   },
   {
     "name": "dash-dash",
@@ -4759,9 +4759,9 @@
   },
   {
     "name": "flipper",
-    "version": "0.212.0",
-    "url": "https://github.com/facebook/flipper/releases/download/v0.212.0/Flipper-mac.dmg",
-    "sha256": "8b9983e270ca9e03f72acf4a58a9252af29740545447d180e350eecd40fa838d"
+    "version": "0.213.0",
+    "url": "https://github.com/facebook/flipper/releases/download/v0.213.0/Flipper-mac.dmg",
+    "sha256": "6e3bd73309087b6f9d8f29a935e0151805e0c263947a5a80009edc486ada3787"
   },
   {
     "name": "flirc",
@@ -7981,9 +7981,9 @@
   },
   {
     "name": "lunar",
-    "version": "6.2.3",
-    "url": "https://static.lunar.fyi/releases/Lunar-6.2.3.dmg",
-    "sha256": "3c61e98b4a6c9d6187288434cc3f426cd0e23878926644a43d6bc459cba38ac4"
+    "version": "6.2.4",
+    "url": "https://static.lunar.fyi/releases/Lunar-6.2.4.dmg",
+    "sha256": "9aeb64be7fa500196bd822c41d5ca2508ea4a708c2c28ef220340e0d25a72d83"
   },
   {
     "name": "lunar-client",
@@ -10999,9 +10999,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.138.0,stable.3,5822975",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.138.0-stable.3-ci5822975.dmg",
-    "sha256": "92d2e781076559d429f014b9489a0d1187c7e5d1ea1be8bca94185397ce521f8"
+    "version": "1.138.0,stable.4,5829298",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.138.0-stable.4-ci5829298.dmg",
+    "sha256": "90e2c089623246abcbb40f8db79c66c6bc1987a71f76235828472f733095a2b5"
   },
   {
     "name": "pixel-check",
@@ -11575,9 +11575,9 @@
   },
   {
     "name": "proxyman",
-    "version": "4.9.1,49001",
-    "url": "https://download.proxyman.io/49001/Proxyman_4.9.1.dmg",
-    "sha256": "4b092f272e23a9dfae1d25b45bfffc5ee859846dd83f011c8c5519f2a8421f41"
+    "version": "4.10.0,49100",
+    "url": "https://download.proxyman.io/49100/Proxyman_4.10.0.dmg",
+    "sha256": "f824c2ac1b4479fc9038f18824cdf7776e593c5f6b926ad0ff154314ad851e03"
   },
   {
     "name": "prudent",
@@ -11641,9 +11641,9 @@
   },
   {
     "name": "purei-play",
-    "version": "2023-08-24,bcea613b",
-    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/bcea613b/Play.dmg",
-    "sha256": "249296352742d34b5c6767b8062dd7929a9087e6ba99e2d07db358827b8a4384"
+    "version": "2023-08-25,82f14a6f",
+    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/82f14a6f/Play.dmg",
+    "sha256": "b9545d7b4d3e5d46991e84dfac32ef472034d8d6ec16ca5199609f62fc3025a1"
   },
   {
     "name": "pusher",
@@ -12097,9 +12097,9 @@
   },
   {
     "name": "ray",
-    "version": "2.6.4",
-    "url": "https://ray-app.s3.eu-west-1.amazonaws.com/Ray-2.6.4.dmg",
-    "sha256": "8917ec540694ee08252c5b86d37c9fc4d3991211b7b33b5de011e0282eb5aa60"
+    "version": "2.6.5",
+    "url": "https://ray-app.s3.eu-west-1.amazonaws.com/Ray-2.6.5.dmg",
+    "sha256": "40d82edfccfa0e75430007873e07f708158cb5a614e6ea0b893b4c675f1ccc1d"
   },
   {
     "name": "raycast",
@@ -14641,15 +14641,15 @@
   },
   {
     "name": "telegram",
-    "version": "10.0.2,250846",
-    "url": "https://osx.telegram.org/updates/Telegram-10.0.2.250846.app.zip",
-    "sha256": "59b76204c7758da8243f2f7b205709f454235081eb11f4eafef6d51bcfc8b0ad"
+    "version": "10.0.2,250853",
+    "url": "https://osx.telegram.org/updates/Telegram-10.0.2.250853.app.zip",
+    "sha256": "5e7d5885c902a33874eb1eac5f6b62afb922e1cbe1dc22c431540a17dda25f5f"
   },
   {
     "name": "teleport-connect",
-    "version": "13.3.5",
-    "url": "https://cdn.teleport.dev/Teleport%20Connect-13.3.5.dmg",
-    "sha256": "c867c690842ab6e70ad26ae0c8d8122cf1b438bf373c01e37eb6da298c0dd53f"
+    "version": "13.3.6",
+    "url": "https://cdn.teleport.dev/Teleport%20Connect-13.3.6.dmg",
+    "sha256": "d5c4940d01ae8397f542e64a7582932a5cb56fa61e5f1fc17e9c075ff8b3d47e"
   },
   {
     "name": "tempbox",
@@ -16483,9 +16483,9 @@
   },
   {
     "name": "whatsapp",
-    "version": "2.2333.11",
-    "url": "https://web.whatsapp.com/desktop/mac/files/release-2.2333.11.zip",
-    "sha256": "3eb424d6eded41e593dd57dbe9498beaaec9ff3ffa7d4ac0833a25fb6ef5da73"
+    "version": "2.2335.9",
+    "url": "https://web.whatsapp.com/desktop/mac/files/release-2.2335.9.zip",
+    "sha256": "0ad4f59a11bb6e40156596833e7f7298f27566d402252013433ef4b0226adc23"
   },
   {
     "name": "whichspace",
