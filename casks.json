@@ -421,9 +421,9 @@
   },
   {
     "name": "altair-graphql-client",
-    "version": "5.2.1",
-    "url": "https://github.com/imolorhe/altair/releases/download/v5.2.1/altair_5.2.1_x64_mac.zip",
-    "sha256": "9819b54a33ecbe360324af88c67dba5a5d89bafe1ab3183b1e9f508500e58724"
+    "version": "5.2.2",
+    "url": "https://github.com/imolorhe/altair/releases/download/v5.2.2/altair_5.2.2_x64_mac.zip",
+    "sha256": "2a598074455cc000b282d7e57c4ddc45c1b0dde703bd278fb8e9d5d73b57d337"
   },
   {
     "name": "altdeploy",
@@ -613,9 +613,9 @@
   },
   {
     "name": "apidog",
-    "version": "2.3.8",
-    "url": "https://assets.apidog.com/download/2.3.8/Apidog-2.3.8.dmg",
-    "sha256": "b9b55e57e5040d80032740f96009e66712555755540134379b263607a70aa61a"
+    "version": "2.3.12",
+    "url": "https://assets.apidog.com/download/2.3.12/Apidog-2.3.12.dmg",
+    "sha256": "87aef302e53ebf2e0392d72fad710367d91f607df510e5e0e690302776ff60fc"
   },
   {
     "name": "apifox",
@@ -1105,9 +1105,9 @@
   },
   {
     "name": "baidunetdisk",
-    "version": "4.24.5",
-    "url": "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/4.24.5/BaiduNetdisk_mac_4.24.5_x64.dmg",
-    "sha256": "96b41d92a6cf13f8c38d01f3d32f3b67b49fc212b82d174c4ee83f6acef285b1"
+    "version": "4.25.4",
+    "url": "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/4.25.4/BaiduNetdisk_mac_4.25.4_x64.dmg",
+    "sha256": "6a633b0870db89764863530c8dc51cd53c2b43c1500abdfca66d3b0e8b1dfe8a"
   },
   {
     "name": "balance-lock",
@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.191,2410",
-    "url": "https://folivora.ai/releases/btt4.191-2410.zip",
-    "sha256": "2b139ed3a7eea0cbc71e2df0812190d87ad9ce9f6b216d9c5179c4482e332571"
+    "version": "4.195,2414",
+    "url": "https://folivora.ai/releases/btt4.195-2414.zip",
+    "sha256": "c50781d5b17ebb398a4679932f5e43f782f493fc98bcd191dddc8cada6db5ab4"
   },
   {
     "name": "betterzip",
@@ -3439,9 +3439,9 @@
   },
   {
     "name": "descript",
-    "version": "71.1.1-release.20230824.23451",
-    "url": "https://electron.descript.com/Descript-71.1.1-release.20230824.23451.dmg",
-    "sha256": "8c369c48a018069fb943c2fcd3867490a1849d4f4d672966383fc14b14f1e055"
+    "version": "71.1.2-release.20230827.23605",
+    "url": "https://electron.descript.com/Descript-71.1.2-release.20230827.23605.dmg",
+    "sha256": "3e9b51296ade9a7d3fdec90f3423482ffc53d22c0fcb2d3364c77cd09fa01334"
   },
   {
     "name": "deskreen",
@@ -4783,9 +4783,9 @@
   },
   {
     "name": "flrig",
-    "version": "2.0.02",
-    "url": "https://downloads.sourceforge.net/fldigi/fldigi/flrig-2.0.02_VN.dmg",
-    "sha256": "e0c215b6037c3c15a03454248b4d64251c14298eb48a33d3aee6f69133a2fcdf"
+    "version": "2.0.03",
+    "url": "https://downloads.sourceforge.net/fldigi/fldigi/flrig-2.0.03_VN.dmg",
+    "sha256": "b16d09f7dc4f6b8d7f357d6f34e96b9bcbb3e8b28b9880c16e6775986d3880ce"
   },
   {
     "name": "fluent-reader",
@@ -5533,9 +5533,9 @@
   },
   {
     "name": "glyphs",
-    "version": "3.2,3213",
-    "url": "https://updates.glyphsapp.com/Glyphs3.2-3213.zip",
-    "sha256": "98b5fdf8df7b0f62a9c3b00a1258904869dfb44dea7c66a56a4bd7c668ff32ea"
+    "version": "3.2,3214",
+    "url": "https://updates.glyphsapp.com/Glyphs3.2-3214.zip",
+    "sha256": "08727edc0dd28224170b68d3b9e9f4445e62a4ceee37a9d2fb84e36a07debe5c"
   },
   {
     "name": "gmail-notifier",
@@ -6163,9 +6163,9 @@
   },
   {
     "name": "httpie",
-    "version": "2023.3.4",
-    "url": "https://github.com/httpie/desktop/releases/download/v2023.3.4/HTTPie-2023.3.4.dmg",
-    "sha256": "466292b3d9dde2bd2b6acae36bcc80b15df4c602cc33690806fc49c7d502742f"
+    "version": "2023.3.5",
+    "url": "https://github.com/httpie/desktop/releases/download/v2023.3.5/HTTPie-2023.3.5.dmg",
+    "sha256": "a8144b84a56fcf67fc7f21f3c3bb902aa287ccb1b38491c316d44073dc323601"
   },
   {
     "name": "hubstaff",
@@ -6943,9 +6943,9 @@
   },
   {
     "name": "jitsi-meet",
-    "version": "2023.7.2",
-    "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.7.2/jitsi-meet.dmg",
-    "sha256": "5fd23c98de417b6fde6982af1b5a3a5409656c762143e3011731ba72b3db80f1"
+    "version": "2023.8.0",
+    "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.8.0/jitsi-meet.dmg",
+    "sha256": "add927dcf1f6507b591bbb0eb604374e0e2472ef154b4d2f16548a19a3339550"
   },
   {
     "name": "jmc",
@@ -7579,9 +7579,9 @@
   },
   {
     "name": "launchcontrol",
-    "version": "2.4",
-    "url": "https://www.soma-zone.com/download/files/LaunchControl-2.4.tar.xz",
-    "sha256": "873671be15a65a82bc1582410143661769d3a2cad2304d56594162859b0b8e34"
+    "version": "2.5",
+    "url": "https://www.soma-zone.com/download/files/LaunchControl-2.5.tar.xz",
+    "sha256": "3a26b250ffe7bd01e8ccbb349215e20158aa3d5590ed13f19881c04d56537cc5"
   },
   {
     "name": "launchy",
@@ -8791,9 +8791,9 @@
   },
   {
     "name": "mi",
-    "version": "3.7.5",
-    "url": "https://www.mimikaki.net/download/mi3.7.5.dmg",
-    "sha256": "12085323b38e9facffad676a0080344831cee58f88c602468e5a15ea647ec54b"
+    "version": "3.7.6",
+    "url": "https://www.mimikaki.net/download/mi3.7.6.dmg",
+    "sha256": "d7e712645502cde48ea90fcab74cee1e3f9eafcc19b1c027c9aa75f2a5f49c1d"
   },
   {
     "name": "mia-for-gmail",
@@ -8923,9 +8923,9 @@
   },
   {
     "name": "mimestream",
-    "version": "1.0.5",
-    "url": "https://download.mimestream.com/Mimestream_1.0.5.dmg",
-    "sha256": "8aaad0c11cb3bb29240a6b8a4d14d678ba18eb24383764a17bb89d46b5cb4540"
+    "version": "1.1.0",
+    "url": "https://download.mimestream.com/Mimestream_1.1.0.dmg",
+    "sha256": "5426641870946660fab360dbaed21346ddb17111feb6ee42a80d4a358ff92ac6"
   },
   {
     "name": "min",
@@ -8965,9 +8965,9 @@
   },
   {
     "name": "minisim",
-    "version": "0.6.2",
-    "url": "https://github.com/okwasniewski/MiniSim/releases/download/v0.6.2/MiniSim.app.zip",
-    "sha256": "aa346f738973c53feb8b1f4004d523b8e21e92de5a0fc3c4b90bb56a2c1f82d9"
+    "version": "0.7.0",
+    "url": "https://github.com/okwasniewski/MiniSim/releases/download/v0.7.0/MiniSim.app.zip",
+    "sha256": "d4902a7cb97b128e5d280888893590068e227c21d14ff60400b62e66bb266eaf"
   },
   {
     "name": "minitimer",
@@ -9284,7 +9284,7 @@
   {
     "name": "motrix",
     "version": "1.8.19",
-    "url": "https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg",
+    "url": "https://dl.moapp.me/https://github.com/agalwood/Motrix/releases/download/v1.8.19/Motrix-1.8.19.dmg",
     "sha256": "b644cc83aa98224147ef2942fd49ecfc8cdcebfce9616550fa35caa6850c4178"
   },
   {
@@ -11827,9 +11827,9 @@
   },
   {
     "name": "qownnotes",
-    "version": "23.8.1",
-    "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.8.1/QOwnNotes.dmg",
-    "sha256": "7c140a44501ad8da321b75011f498b48691a1d549d48e603dd7ae4c311e48f5a"
+    "version": "23.8.2",
+    "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.8.2/QOwnNotes.dmg",
+    "sha256": "e727f55cd6367fe19994090d1ae747370773e654941a590aeabe22d245e0c0c1"
   },
   {
     "name": "qq",
@@ -12589,9 +12589,9 @@
   },
   {
     "name": "rubymine",
-    "version": "2023.2,232.8660.186",
-    "url": "https://download.jetbrains.com/ruby/RubyMine-2023.2.dmg",
-    "sha256": "fc169ca55848e01ab6432babc358d93bf4e1dcc6f343e79fe27144912bed854c"
+    "version": "2023.2.1,232.9559.58",
+    "url": "https://download.jetbrains.com/ruby/RubyMine-2023.2.1.dmg",
+    "sha256": "1ae42d9f0af0e293406a7ab6042299cc29a3ae4f6d023656bebc0b1d78ad0a4b"
   },
   {
     "name": "runelite",
@@ -16393,9 +16393,9 @@
   },
   {
     "name": "webstorm",
-    "version": "2023.2,232.8660.143",
-    "url": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.dmg",
-    "sha256": "daf4d9c0b27f305e063d128ed7a8a63cbfbe8ddfaadb4cb0b1484b9742235137"
+    "version": "2023.2.1,232.9559.58",
+    "url": "https://download.jetbrains.com/webstorm/WebStorm-2023.2.1.dmg",
+    "sha256": "c42ba4e262a91bed368168ef8498058ccaef560bce3f72d86fc80e5492cad6f1"
   },
   {
     "name": "webtorrent",
