@@ -451,9 +451,9 @@
   },
   {
     "name": "amazon-chime",
-    "version": "5.21.22083",
-    "url": "https://clients.chime.aws/mac-nme/AmazonChime-5.21.22083.dmg",
-    "sha256": "41ea2ec515c6381c3a45418317a0867e85981d2f18bd16abffc4a83fce8f5cdf"
+    "version": "5.22.22085",
+    "url": "https://clients.chime.aws/mac-nme/AmazonChime-5.22.22085.dmg",
+    "sha256": "c588258665b01d0948e0fe641b177b6c9ec2999b704320c23c809910c1ffef38"
   },
   {
     "name": "amazon-workdocs",
@@ -889,9 +889,9 @@
   },
   {
     "name": "atlauncher",
-    "version": "3.4.33.0",
-    "url": "https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.33.0/ATLauncher-3.4.33.0.zip",
-    "sha256": "8b55fec60984b95cea320f1e75953ab0bf2fb334b9869480aceaa57339bf879b"
+    "version": "3.4.33.1",
+    "url": "https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.33.1/ATLauncher-3.4.33.1.zip",
+    "sha256": "8f04da472684f97755abb3b6511f0f9aaf3b45a01abd659c086687c1115cd070"
   },
   {
     "name": "atom",
@@ -1273,9 +1273,9 @@
   },
   {
     "name": "beamer",
-    "version": "3.5",
-    "url": "https://beamer-app.com/resources/downloads/Beamer-3.5.zip",
-    "sha256": "8f8d72ab99fd47c7b9df1acd51c6fcc8b6ebb8c574587e8e1fc6cdc5868ba21c"
+    "version": "4.1.17",
+    "url": "https://ushining.softorino.com/shine_uploads/beamermac_4.1.17.dmg",
+    "sha256": "3f1b9fec947cbc91ad8b46344e57fb39db8d06147e077f178db7f939703dc763"
   },
   {
     "name": "bean",
@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.204,2424",
-    "url": "https://folivora.ai/releases/btt4.204-2424.zip",
-    "sha256": "511edc3e40740f1161a94b62f155776fd17c7de236dd054e1cc67ff0a4e95e1a"
+    "version": "4.208,2428",
+    "url": "https://folivora.ai/releases/btt4.208-2428.zip",
+    "sha256": "8641cde5b4e711ae9e1a40cb7ff76557dd7764ac69ec0e2bef972aab43249376"
   },
   {
     "name": "betterzip",
@@ -1411,9 +1411,9 @@
   },
   {
     "name": "bike",
-    "version": "1.14,150",
-    "url": "https://www.hogbaysoftware.com/bike/releases/150.dmg",
-    "sha256": "d2ad72a34794498b5c47c31ae529145c97f8a09c2e4e14e1863edacc5f1c0a43"
+    "version": "1.14,151",
+    "url": "https://www.hogbaysoftware.com/bike/releases/151.dmg",
+    "sha256": "296e66a7f702b91fbe5b2aded4978af5d5a44eee425001938611b04714b67390"
   },
   {
     "name": "bili-downloader",
@@ -1567,9 +1567,9 @@
   },
   {
     "name": "blockbench",
-    "version": "4.8.2",
-    "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.2/Blockbench_x64_4.8.2.dmg",
-    "sha256": "953919f0de47e26165e3c1840be99b6668fd470c35508c95dc296d50da40fb6b"
+    "version": "4.8.3",
+    "url": "https://github.com/JannisX11/blockbench/releases/download/v4.8.3/Blockbench_x64_4.8.3.dmg",
+    "sha256": "f04e9171bdebb6431afadba4fd878584a4be5afd9788db6336e7f6dd413b90f5"
   },
   {
     "name": "blockstack",
@@ -2077,9 +2077,9 @@
   },
   {
     "name": "capacities",
-    "version": "1.26.41",
-    "url": "https://capacities-frontend-app.s3.eu-central-1.amazonaws.com/Capacities-1.26.41.dmg",
-    "sha256": "f950a67757eb008596b3c13bd8a2444b9a4076cc3a1b07c15d4d59cea8c68b23"
+    "version": "1.27.12",
+    "url": "https://capacities-frontend-app.s3.eu-central-1.amazonaws.com/Capacities-1.27.12.dmg",
+    "sha256": "0db1bf3ee6ac4fc1b9a3749a8cc0807b9e521074db38c1f45ea49c1f55058af8"
   },
   {
     "name": "caprine",
@@ -2227,9 +2227,9 @@
   },
   {
     "name": "chatall",
-    "version": "1.40.65",
-    "url": "https://github.com/sunner/ChatALL/releases/download/v1.40.65/ChatALL-1.40.65-mac-x64.dmg",
-    "sha256": "717f68c3deca8a03a535c06dfa663281008a84a1b310180f741b08ee917279f4"
+    "version": "1.41.66",
+    "url": "https://github.com/sunner/ChatALL/releases/download/v1.41.66/ChatALL-1.41.66-mac-x64.dmg",
+    "sha256": "f9aaf0eb23c6c4ad02217b17cb2381775e6533111702eaa7dd6d98766f3ef06a"
   },
   {
     "name": "chatbox",
@@ -2293,9 +2293,9 @@
   },
   {
     "name": "chirp",
-    "version": "20230829",
-    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230829/chirp-next-20230829.app.zip",
-    "sha256": "089ec03e98e5cc0dd6601f6549b71c328ccdf101f2409e48e94687a407fdc5f9"
+    "version": "20230830",
+    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230830/chirp-next-20230830.app.zip",
+    "sha256": "61fdc56812c20827a49d5920f49643519e9137236f4b0eed7f939848faa837d4"
   },
   {
     "name": "chrome-devtools",
@@ -2371,9 +2371,9 @@
   },
   {
     "name": "clamxav",
-    "version": "3.5.5,9759",
-    "url": "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.5.5_9759.zip",
-    "sha256": "cecbd118fadaa1605f8f6497e1ff15c87a2acca66b1812314c9ef5db8ede95d7"
+    "version": "3.6,10151",
+    "url": "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.6_10151.zip",
+    "sha256": "16420e7dcca8ecee94c69c1af7969e1b626847eacc2798c4bc10639ee555f3cf"
   },
   {
     "name": "clash-for-windows",
@@ -3571,9 +3571,9 @@
   },
   {
     "name": "dingtalk",
-    "version": "7.0.50.10_31514487",
-    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v7.0.50.10_31514487_x86.dmg",
-    "sha256": "155c9e0d0e5da773a1f3619d1d67b6520952ccb8633ba9f86edee49b6fbd6a47"
+    "version": "7.0.50.14_31816636",
+    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v7.0.50.14_31816636_x86.dmg",
+    "sha256": "8cb74ce51f105e2673d0f10814f0b6ca5ad44f531e7c2c132cdcd2c7ea6e1ccd"
   },
   {
     "name": "dingtalk-lite",
@@ -3589,9 +3589,9 @@
   },
   {
     "name": "discord",
-    "version": "0.0.276",
-    "url": "https://dl.discordapp.net/apps/osx/0.0.276/Discord.dmg",
-    "sha256": "2527f87310e48272f9d973b77aef45d9632973da9c5865b547ef6883f509ebf2"
+    "version": "0.0.277",
+    "url": "https://dl.discordapp.net/apps/osx/0.0.277/Discord.dmg",
+    "sha256": "d165dac4d67f4e31072345230181c00aac447142c84a5e36b777a57ed7525968"
   },
   {
     "name": "discretescroll",
@@ -3757,9 +3757,9 @@
   },
   {
     "name": "douyin",
-    "version": "2.7.0,7044145585217083655,10817787",
-    "url": "https://www.douyin.com/download/pc/obj/douyin-pc-client/7044145585217083655/releases/10817787/2.7.0/darwin-universal/douyin-v2.7.0-darwin-universal.dmg",
-    "sha256": "505a797f8c1f8240299a320a1519b4341e59caa652c084bb8ecbe0ce4c7cc057"
+    "version": "2.8.0,7044145585217083655,10904299",
+    "url": "https://www.douyin.com/download/pc/obj/douyin-pc-client/7044145585217083655/releases/10904299/2.8.0/darwin-universal/douyin-v2.8.0-darwin-universal.dmg",
+    "sha256": "a46deefb2ace616d293dc2813c7d97cd00a90d85807973b9023494df44af8aa5"
   },
   {
     "name": "downie",
@@ -3865,9 +3865,9 @@
   },
   {
     "name": "dropzone",
-    "version": "4.6.9",
-    "url": "https://aptonic.com/releases/Dropzone-4.6.9.zip",
-    "sha256": "574179be890be5d29610f8aa86b7ed05d705ffa6328e100efac775c358616cfe"
+    "version": "4.7.0",
+    "url": "https://aptonic.com/releases/Dropzone-4.7.0.zip",
+    "sha256": "99fa2105b60549a767ddf342a623e0b84d60b41f83a525f4e7358f27bb31eb06"
   },
   {
     "name": "drovio",
@@ -4105,9 +4105,9 @@
   },
   {
     "name": "electerm",
-    "version": "1.29.4",
-    "url": "https://github.com/electerm/electerm/releases/download/v1.29.4/electerm-1.29.4-mac-x64.dmg",
-    "sha256": "0dff67a639c5d1f32bf50bf032b3f3e96a540b14c61295468e402fc2d10e9625"
+    "version": "1.29.5",
+    "url": "https://github.com/electerm/electerm/releases/download/v1.29.5/electerm-1.29.5-mac-x64.dmg",
+    "sha256": "41bf82a53530d6910cd06fb274c19d8bb53a48778915947ef2accc42efcabe2b"
   },
   {
     "name": "electorrent",
@@ -4525,9 +4525,9 @@
   },
   {
     "name": "feed-the-beast",
-    "version": "202308162122,46a8a2536d",
-    "url": "https://apps.modpacks.ch/FTBApp/release/202308162122-46a8a2536d/FTBA_macos_202308162122-46a8a2536d.dmg",
-    "sha256": "777bfefdc4c0b7a29c0463446ce1367cf34581d10b71b69a3cd60ec8faf107b1"
+    "version": "202308291248,1903496f17",
+    "url": "https://apps.modpacks.ch/FTBApp/release/202308291248-1903496f17/FTBA_macos_202308291248-1903496f17.dmg",
+    "sha256": "90ab86cde5c9786030804583a8d4590ea823ba220bdc33e871e52ecc26efd5a8"
   },
   {
     "name": "fellow",
@@ -4591,9 +4591,9 @@
   },
   {
     "name": "filebot",
-    "version": "5.0.3",
-    "url": "https://get.filebot.net/filebot/FileBot_5.0.3/FileBot_5.0.3_x64.app.tar.xz",
-    "sha256": "9e1afac11a93a9c6f3e4274c12aeeda20c6e4427e3484f80f88cc67cb4c56b84"
+    "version": "5.1.0",
+    "url": "https://get.filebot.net/filebot/FileBot_5.1.0/FileBot_5.1.0_x64.app.tar.xz",
+    "sha256": "d53a855b135f052c571224db1210a870cb9ceb89ef8c23709fcb7e8c646ec58f"
   },
   {
     "name": "filemaker-pro",
@@ -4831,9 +4831,9 @@
   },
   {
     "name": "fmail2",
-    "version": "2.4.3",
-    "url": "https://arievanboxel.fr/fmail2/sparkle/FMail2_243.zip",
-    "sha256": "0264d558b376c6bfc91f40b74f0eab2299069fbd02e6f038124a206bf023da12"
+    "version": "2.4.4",
+    "url": "https://arievanboxel.fr/fmail2/sparkle/FMail2_244.zip",
+    "sha256": "f769fd63e9beb1aed0e268274caa0a889c0f5023f627e70370cd65c1acaed27a"
   },
   {
     "name": "fman",
@@ -4957,9 +4957,9 @@
   },
   {
     "name": "foxglove-studio",
-    "version": "1.67.0",
-    "url": "https://github.com/foxglove/studio/releases/download/v1.67.0/foxglove-studio-1.67.0-mac-universal.dmg",
-    "sha256": "cc13615246658292598db2daf9065cd9899436f32be952ebebc1fc5c1d6d8afb"
+    "version": "1.68.0",
+    "url": "https://github.com/foxglove/studio/releases/download/v1.68.0/foxglove-studio-1.68.0-mac-universal.dmg",
+    "sha256": "df967e5c19c4c221a7cd8d1ebb05e768c2e11d93ebd54ae3ecf07106fbc331d4"
   },
   {
     "name": "foxmail",
@@ -5455,9 +5455,9 @@
   },
   {
     "name": "github",
-    "version": "3.2.9-a98d46c0",
-    "url": "https://desktop.githubusercontent.com/github-desktop/releases/3.2.9-a98d46c0/GitHubDesktop-x64.zip",
-    "sha256": "0ff537ebc841d903ee12352d07d12f7f024c557a162af4e3cc9bd7b3fce3ce19"
+    "version": "3.3.0-c71dec41",
+    "url": "https://desktop.githubusercontent.com/github-desktop/releases/3.3.0-c71dec41/GitHubDesktop-x64.zip",
+    "sha256": "1976a836009cd2d110608cc3cd95a8a13b3926c339439317e1607a3c51a321bc"
   },
   {
     "name": "gitify",
@@ -6499,9 +6499,9 @@
   },
   {
     "name": "insomnia",
-    "version": "2023.5.6",
-    "url": "https://github.com/Kong/insomnia/releases/download/core%402023.5.6/Insomnia.Core-2023.5.6.dmg",
-    "sha256": "d9c39007843e9b852f12487b62c6ec2aa6326df251098bfc191d3f428a3ebf25"
+    "version": "2023.5.7",
+    "url": "https://github.com/Kong/insomnia/releases/download/core%402023.5.7/Insomnia.Core-2023.5.7.dmg",
+    "sha256": "ddf3045143c3489dd6cf227d2fcf553a0301d998cfffa140e3a4237ffc62a4c5"
   },
   {
     "name": "inssider",
@@ -6967,9 +6967,9 @@
   },
   {
     "name": "josm",
-    "version": "18789",
-    "url": "https://github.com/JOSM/josm/releases/download/18789-tested/JOSM-macOS-java17-18789.zip",
-    "sha256": "7fc5683cc17b711ea277369d9170bafe851fceae1d9ca6f750f6b6263b1136cc"
+    "version": "18822",
+    "url": "https://github.com/JOSM/josm/releases/download/18822-tested/JOSM-macOS-java17-18822.zip",
+    "sha256": "3058966c453c0ba26fabdc2420a00d41ea89876ff20b7cb8d00367184978205d"
   },
   {
     "name": "journey",
@@ -7543,9 +7543,9 @@
   },
   {
     "name": "lark",
-    "version": "6.10.10,0d9d1789",
-    "url": "https://sf16-va.larksuitecdn.com/obj/lark-artifact-storage/0d9d1789/Lark-darwin_x64-6.10.10-signed.dmg",
-    "sha256": "74de4a5f758b51c823ad6dc83ba9d566f990c1eeb63d148c517a811ccad3b299"
+    "version": "6.11.9,043cb8e5",
+    "url": "https://sf16-va.larksuitecdn.com/obj/lark-artifact-storage/043cb8e5/Lark-darwin_x64-6.11.9-signed.dmg",
+    "sha256": "2ab834c5dad1e819fc5549a12bb2a37012b5a04656e195813e52dbc212362d36"
   },
   {
     "name": "lastfm",
@@ -7681,9 +7681,9 @@
   },
   {
     "name": "librewolf",
-    "version": "116.0.3,1",
-    "url": "https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/116.0.3-1/librewolf-116.0.3-1-macos-x86_64-package.dmg",
-    "sha256": "fd52cfe300679a11f9b3c4254c3196d3f183181e85e20e466f0f60882c4f627b"
+    "version": "117.0,1",
+    "url": "https://gitlab.com/api/v4/projects/44042130/packages/generic/librewolf/117.0-1/librewolf-117.0-1-macos-x86_64-package.dmg",
+    "sha256": "b3aabb5528cc793d0394f9b074eb9b3e81a9492ee07b7133a5ec52af918fbd76"
   },
   {
     "name": "licecap",
@@ -7819,9 +7819,9 @@
   },
   {
     "name": "lm-studio",
-    "version": "0.2.2",
-    "url": "https://s3.amazonaws.com/releases.lmstudio.ai/0.2.2/LM+Studio-darwin-arm64-0.2.2.zip",
-    "sha256": "54819770234963680fc5a22b618cadf7ab81ccc4dfdc9ec8a29b350e4e6fae84"
+    "version": "0.2.3",
+    "url": "https://s3.amazonaws.com/releases.lmstudio.ai/0.2.3/LM+Studio-darwin-arm64-0.2.3.zip",
+    "sha256": "9baa0e3c0d3c5dbe6241087f7ea6e3785e1b5e475fefd5641f29fdb1b511e31f"
   },
   {
     "name": "lmms",
@@ -7987,9 +7987,9 @@
   },
   {
     "name": "lunar-client",
-    "version": "3.0.6",
-    "url": "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v3.0.6.dmg",
-    "sha256": "c16c8e2c1700778ed494bb9cca63658ea7c79ffde4492486a55631193f692adf"
+    "version": "3.0.7",
+    "url": "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v3.0.7.dmg",
+    "sha256": "937d52a6db3fdd2418ea3512f3cba54896b9693a63c04c0bce2b54e9ffad0931"
   },
   {
     "name": "lunasea",
@@ -8893,9 +8893,9 @@
   },
   {
     "name": "milanote",
-    "version": "3.4.12",
-    "url": "https://milanote-app-releases.s3.amazonaws.com/Milanote-3.4.12.dmg",
-    "sha256": "d7180395774b208b6008994f60f8123b46c07226bf5930a1ab8308b2bef93157"
+    "version": "3.4.13",
+    "url": "https://milanote-app-releases.s3.amazonaws.com/Milanote-3.4.13.dmg",
+    "sha256": "03ded4c08947bed349d748010270892bc13c2d1919e5872c605a32161cc9da95"
   },
   {
     "name": "milkman",
@@ -9403,9 +9403,9 @@
   },
   {
     "name": "mullvad-browser",
-    "version": "12.5.2",
-    "url": "https://cdn.mullvad.net/browser/12.5.2/MullvadBrowser-12.5.2-macos_ALL.dmg",
-    "sha256": "0e63781500e85f6aaaa1d11a5ab112b52106539d7c1f529671e3dd691c983ec3"
+    "version": "12.5.3",
+    "url": "https://cdn.mullvad.net/browser/12.5.3/MullvadBrowser-12.5.3-macos_ALL.dmg",
+    "sha256": "828d9728ff3c0253f147d58d43d1d2586561dcab3474ead3874aeee8778e0a30"
   },
   {
     "name": "multi",
@@ -10333,9 +10333,9 @@
   },
   {
     "name": "opensesame",
-    "version": "4.0.1",
-    "url": "https://github.com/open-cogsci/OpenSesame/releases/download/release%2F4.0.1/opensesame_4.0.1-py311-macos-x64-1.dmg",
-    "sha256": "8912e2f77d8fa58b2f91958aa7139d733334f7b16f96b75db88f9f5df8a05eec"
+    "version": "4.0.5",
+    "url": "https://github.com/open-cogsci/OpenSesame/releases/download/release%2F4.0.5/opensesame_4.0.5-py311-macos-x64-1.dmg",
+    "sha256": "6cdc494d68ccc158213c6789ecfa5884cee14e5341bbde195df9846e5faaa1df"
   },
   {
     "name": "openshot-video-editor",
@@ -10369,9 +10369,9 @@
   },
   {
     "name": "opera",
-    "version": "102.0.4880.16",
-    "url": "https://get.geo.opera.com/pub/opera/desktop/102.0.4880.16/mac/Opera_102.0.4880.16_Setup.dmg",
-    "sha256": "a78e01b8fa45001c8137add925cb860293666029044b164da7896974c3ec5937"
+    "version": "102.0.4880.29",
+    "url": "https://get.geo.opera.com/pub/opera/desktop/102.0.4880.29/mac/Opera_102.0.4880.29_Setup.dmg",
+    "sha256": "5fd8cebd0877c8ccc2ef29eb99ff51529e02dc6fb0ed9743409b9125aa18d06f"
   },
   {
     "name": "opera-gx",
@@ -10717,9 +10717,9 @@
   },
   {
     "name": "pcoipclient",
-    "version": "23.06.2",
-    "url": "https://dl.teradici.com/DeAdBCiUYInHcSTy/pcoip-client/raw/names/pcoip-client-dmg/versions/23.06.2/pcoip-client_23.06.2.dmg",
-    "sha256": "8044dd1667cad93eddaac5698fc2ebc42136f42cbab39e7efef34305835aba2a"
+    "version": "23.08.1",
+    "url": "https://dl.teradici.com/DeAdBCiUYInHcSTy/pcoip-client/raw/names/pcoip-client-dmg/versions/23.08.1/pcoip-client_23.08.1.dmg",
+    "sha256": "00542cc07c6a7917394f3ec9b6f865ae6aee637e25fcf2cd21e8c560f2020a9d"
   },
   {
     "name": "pd",
@@ -11005,9 +11005,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.139.0,stable.1,5840092",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.139.0-stable.1-ci5840092.dmg",
-    "sha256": "b5eb2f3fc9e591170ad9834da13cb28564fbaa529dd087b479f80856aaa8da35"
+    "version": "1.139.0,stable.2,5845192",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.139.0-stable.2-ci5845192.dmg",
+    "sha256": "b55fbcc1eee2d7f4e51bbbff579ca8ab003c7056092a9704123d679655adeb67"
   },
   {
     "name": "pixel-check",
@@ -11383,9 +11383,9 @@
   },
   {
     "name": "praat",
-    "version": "6.3.15,6315",
-    "url": "https://github.com/praat/praat/releases/download/v6.3.15/praat6315_mac.dmg",
-    "sha256": "d1b00b750dc089c8fafde489bbfc8d7965777161fc52d39c812067ee039bbad2"
+    "version": "6.3.16,6316",
+    "url": "https://github.com/praat/praat/releases/download/v6.3.16/praat6316_mac.dmg",
+    "sha256": "388a306fcc1cc5cd792ac328b06252fccd602cca122bddd665ec9446da2a4a97"
   },
   {
     "name": "preference-manager",
@@ -11407,9 +11407,9 @@
   },
   {
     "name": "prepros",
-    "version": "7.11.0",
-    "url": "https://downloads.prepros.io/v7/7.11.0/Prepros-7.11.0.zip",
-    "sha256": "d0b9d3182bff4319b27b8182ceeface80849c05da1da46ac6f54ce089c6ec15e"
+    "version": "7.15.0",
+    "url": "https://downloads.prepros.io/v7/7.15.0/Prepros-7.15.0.zip",
+    "sha256": "ecf8f373cae321cf0a3d373576fa4dd9877d8484091a5cada3296d57c31222e2"
   },
   {
     "name": "pretzel",
@@ -12265,9 +12265,9 @@
   },
   {
     "name": "remote-desktop-manager",
-    "version": "2023.2.8.1",
-    "url": "https://cdn.devolutions.net/download/Mac/Devolutions.RemoteDesktopManager.Mac.2023.2.8.1.dmg",
-    "sha256": "c6c01c9c6116c6cc562c7f88507975a1aa8bc763803b0c5fe6d044e111748d15"
+    "version": "2023.2.9.1",
+    "url": "https://cdn.devolutions.net/download/Mac/Devolutions.RemoteDesktopManager.Mac.2023.2.9.1.dmg",
+    "sha256": "38d619ae9a2fdaacb67331db000f0f31ff1eed7d88dade1033fc7d8cb01c3db2"
   },
   {
     "name": "remote-desktop-manager-free",
@@ -12433,9 +12433,9 @@
   },
   {
     "name": "rio",
-    "version": "0.0.17",
-    "url": "https://github.com/raphamorim/rio/releases/download/v0.0.17/Rio-v0.0.17.dmg",
-    "sha256": "80a21e80b94aa4a7957694cae2cec38592f7e3f2d609b5559ef2d351b29165e6"
+    "version": "0.0.18",
+    "url": "https://github.com/raphamorim/rio/releases/download/v0.0.18/Rio-v0.0.18.dmg",
+    "sha256": "9f5013aa1738913726498dfd4dedf2926940ce1cc7401c83ec3233c8145a68e5"
   },
   {
     "name": "ripcord",
@@ -13885,9 +13885,9 @@
   },
   {
     "name": "spyder",
-    "version": "5.4.4",
-    "url": "https://github.com/spyder-ide/spyder/releases/download/v5.4.4/Spyder.dmg",
-    "sha256": "d6dab8d30c6fa0eb05da5f3b9d845fad66c1d4ce28f90c81bc56ce5d68e61b3c"
+    "version": "5.4.5",
+    "url": "https://github.com/spyder-ide/spyder/releases/download/v5.4.5/Spyder.dmg",
+    "sha256": "1150fe3efa430b291b4306fdac35a53b8ed969f0635d609529e8a9baa40261f9"
   },
   {
     "name": "sql-tabs",
@@ -14281,9 +14281,9 @@
   },
   {
     "name": "supernotes",
-    "version": "2.4.3",
-    "url": "https://download.supernotes.app/Supernotes-2.4.3.dmg",
-    "sha256": "8fd95b2c550c295d300fe784bbeaed1e12f692112740c8de40bebf87f0b32a2a"
+    "version": "3.0.0",
+    "url": "https://download.supernotes.app/Supernotes-3.0.0.dmg",
+    "sha256": "a9ca4f77275135f2ce588a4c834b0ebd42c22d6d4a67b40021685266319340f8"
   },
   {
     "name": "superproductivity",
@@ -14509,9 +14509,9 @@
   },
   {
     "name": "tabby",
-    "version": "1.0.199",
-    "url": "https://github.com/Eugeny/tabby/releases/download/v1.0.199/tabby-1.0.199-macos-x86_64.zip",
-    "sha256": "45a1ef19bbec00698960b13867c3a62a2168a2ee087f62264c21eabd1c993414"
+    "version": "1.0.200",
+    "url": "https://github.com/Eugeny/tabby/releases/download/v1.0.200/tabby-1.0.200-macos-x86_64.zip",
+    "sha256": "eab2c556cf336b314aaad1efc63ea95ee825773009b42dd479b18f704f6d040c"
   },
   {
     "name": "table-tool",
@@ -14653,15 +14653,15 @@
   },
   {
     "name": "telegram",
-    "version": "10.0.2,250861",
-    "url": "https://osx.telegram.org/updates/Telegram-10.0.2.250861.app.zip",
-    "sha256": "4ace36741ac92fb7495090406a877220b1654acc425a7d750b38973bbd946599"
+    "version": "10.0.2,250866",
+    "url": "https://osx.telegram.org/updates/Telegram-10.0.2.250866.app.zip",
+    "sha256": "1affeece3ae4ad98a982b5d2520e19e1fe98238516d1c3b9dd3c11d8da9e4960"
   },
   {
     "name": "teleport-connect",
-    "version": "13.3.6",
-    "url": "https://cdn.teleport.dev/Teleport%20Connect-13.3.6.dmg",
-    "sha256": "d5c4940d01ae8397f542e64a7582932a5cb56fa61e5f1fc17e9c075ff8b3d47e"
+    "version": "13.3.7",
+    "url": "https://cdn.teleport.dev/Teleport%20Connect-13.3.7.dmg",
+    "sha256": "b6b01580cd0dfe3d3108fd15f4b4c65e7cf1454acf25462e83464f1519b26ab4"
   },
   {
     "name": "tempbox",
@@ -14677,9 +14677,9 @@
   },
   {
     "name": "tencent-meeting",
-    "version": "3.19.2.495,9c45177e9b766a8028382646cc05aa18",
-    "url": "https://updatecdn.meeting.qq.com/cos/9c45177e9b766a8028382646cc05aa18/TencentMeeting_0300000000_3.19.2.495.publish.x86_64.dmg",
-    "sha256": "ba6a43178932d401bae6c6894269b3a26f7da5f7a5532aa3379f913f7a3f83de"
+    "version": "3.19.22.429,751e92b7f001a77769938c3dd97d6e2f",
+    "url": "https://updatecdn.meeting.qq.com/cos/751e92b7f001a77769938c3dd97d6e2f/TencentMeeting_0300000000_3.19.22.429.publish.x86_64.dmg",
+    "sha256": "db5443de3371dace467d8c31ed198d8705121237951ed4a297a843073cae80b1"
   },
   {
     "name": "tentacle-sync-studio",
@@ -14905,9 +14905,9 @@
   },
   {
     "name": "ths",
-    "version": "4.1.2",
-    "url": "https://resource.thsi.cn/soft/ThsMac4.1.2.dmg",
-    "sha256": "35709de19d9d7d3559d5f8aacad242c87cb9702a4911fab18216324d0172dacb"
+    "version": "4.1.3",
+    "url": "https://resource.thsi.cn/soft/ThsMac4.1.3.dmg",
+    "sha256": "3ebf24838e92769a0efce48cb56ba0b6fcad4a7135b8e75b4437d4c6d4807ac0"
   },
   {
     "name": "thumbsup",
@@ -14923,9 +14923,9 @@
   },
   {
     "name": "thunderbird",
-    "version": "115.1.1",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.1.1/mac/en-US/Thunderbird%20115.1.1.dmg",
-    "sha256": "c38086896b8d2f91cc42b102049f007aa81701d9da74506bfc0bf1fd8479dd42"
+    "version": "115.2.0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.2.0/mac/en-US/Thunderbird%20115.2.0.dmg",
+    "sha256": "340c6d1fff72ef57f63f0e2d7d37e307696fae67f42cab260dd588eac36a3153"
   },
   {
     "name": "thyme",
@@ -14983,9 +14983,9 @@
   },
   {
     "name": "tiger-trade",
-    "version": "8.12.1,6DBC5A",
-    "url": "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_8.12.1_6DBC5A.dmg",
-    "sha256": "b12cf66b206289eb136f5769580d42c6ab4345701bb5a298781563275b04361f"
+    "version": "8.13.8,7DC379",
+    "url": "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_8.13.8_7DC379.dmg",
+    "sha256": "9cad93798e1cc7b9ed8eb123b1cfb259448fa548b57d5e7d9af84b873a5e4421"
   },
   {
     "name": "tigervnc-viewer",
@@ -15235,9 +15235,9 @@
   },
   {
     "name": "topaz-video-ai",
-    "version": "3.4.1",
-    "url": "https://downloads.topazlabs.com/deploy/TopazVideoAI/3.4.1/TopazVideoAI-3.4.1.dmg",
-    "sha256": "e32c7cb5d56a90ba4e73938ae785007c32c8f50cd696c91af7bb663d7fbfd4dc"
+    "version": "3.4.2",
+    "url": "https://downloads.topazlabs.com/deploy/TopazVideoAI/3.4.2/TopazVideoAI-3.4.2.dmg",
+    "sha256": "738ae05bf47bb0d11ff257e38fa6bde5abfdd8a9efefeb102950123ff639c3f6"
   },
   {
     "name": "topnotch",
@@ -15253,9 +15253,9 @@
   },
   {
     "name": "tor-browser",
-    "version": "12.5.2",
-    "url": "https://dist.torproject.org/torbrowser/12.5.2/TorBrowser-12.5.2-macos_ALL.dmg",
-    "sha256": "2564f45bda983d9c0f5718b1e464a3b6001fbc70eda285a2f838def480315529"
+    "version": "12.5.3",
+    "url": "https://dist.torproject.org/torbrowser/12.5.3/TorBrowser-12.5.3-macos_ALL.dmg",
+    "sha256": "51c0a47823b5ae6a786e97cca54a79134d69ba2362d6ea0e3fc302c91d416ca1"
   },
   {
     "name": "torrent-file-editor",
@@ -15337,9 +15337,9 @@
   },
   {
     "name": "trailer",
-    "version": "1.8.10",
-    "url": "https://github.com/ptsochantaris/trailer/releases/download/1.8.10/Trailer-1810.zip",
-    "sha256": "9415ef56ff73f136447cd96419627e139a579f96bfec21db12f3f9f7cf9f508b"
+    "version": "1.8.11",
+    "url": "https://github.com/ptsochantaris/trailer/releases/download/1.8.11/Trailer-1811.zip",
+    "sha256": "6b37ea88be391ba071200d45b1ba2cfde5acf351c84b0665fc9a38e2ecae94bc"
   },
   {
     "name": "trainerroad",
@@ -15673,9 +15673,9 @@
   },
   {
     "name": "understand",
-    "version": "6.4.1148",
-    "url": "https://latest.scitools.com/Understand/Understand-6.4.1148-macOS-Universal.dmg",
-    "sha256": "00f33b98bed9b15a458310ddf7ba326bb43c4aef40448b1712a474e96d002e06"
+    "version": "6.4.1149",
+    "url": "https://latest.scitools.com/Understand/Understand-6.4.1149-macOS-Universal.dmg",
+    "sha256": "4df1cbd12abdd7decf820d5ef641bef973ccbdfe561fb5406759bdfaabce89b6"
   },
   {
     "name": "unetbootin",
@@ -15733,9 +15733,9 @@
   },
   {
     "name": "universal-gcode-platform",
-    "version": "2.0.18",
-    "url": "https://github.com/winder/Universal-G-Code-Sender/releases/download/v2.0.18/ios-ugs-platform-app-2.0.18.dmg",
-    "sha256": "bf05d610cb3f19cc000c3be587787f39b408cc4ffa0722887c43b604a8c5b285"
+    "version": "2.0.20",
+    "url": "https://github.com/winder/Universal-G-Code-Sender/releases/download/v2.0.20/ios-ugs-platform-app-2.0.20.dmg",
+    "sha256": "b840f1ed7cf56e5c9a9509f0da281cf05676f895eabad8b730f2ef694bebb52a"
   },
   {
     "name": "universal-media-server",
@@ -15805,9 +15805,9 @@
   },
   {
     "name": "usmart-trade",
-    "version": "3.24.0,1f555bde-8bd4-4b4a-bded-10aab33978d6,2023-08-02",
-    "url": "https://jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com/admin/app-version-file/2023-08-02/1f555bde-8bd4-4b4a-bded-10aab33978d6/uSMART%20Trade-3.24.0.dmg",
-    "sha256": "c6fae9321cc8e406887df5ef5228828184fa5d16183959956c4467a7dee4d247"
+    "version": "3.25.0,37124a51-a2b1-4bf1-8cae-3771cb33d5a4,2023-08-25",
+    "url": "https://jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com/admin/app-version-file/2023-08-25/37124a51-a2b1-4bf1-8cae-3771cb33d5a4/uSMART%20Trade-3.25.0.dmg",
+    "sha256": "cf42a793b0fd6c2a1c1ef68d25d3584cfa896793d82564b43fc2524220127bd3"
   },
   {
     "name": "usr-sse2-rdm",
@@ -16117,9 +16117,9 @@
   },
   {
     "name": "vivaldi",
-    "version": "6.1.3035.302",
-    "url": "https://downloads.vivaldi.com/stable-auto/Vivaldi.6.1.3035.302.universal.tar.xz",
-    "sha256": "0d6921d4cc29478e7b49893015fd3d15e948001a888a4d0fc42196b476363db1"
+    "version": "6.2.3105.43",
+    "url": "https://downloads.vivaldi.com/stable-auto/Vivaldi.6.2.3105.43.universal.tar.xz",
+    "sha256": "99b21de163c78dcdc79a6292a720bbc17d3fbeea08478aff704f2a22f1288b56"
   },
   {
     "name": "vivid",
@@ -16171,15 +16171,15 @@
   },
   {
     "name": "vnote",
-    "version": "3.16.0",
-    "url": "https://github.com/vnotex/vnote/releases/download/v3.16.0/vnote-mac-x64-qt5.15.2_v3.16.0.zip",
-    "sha256": "1de98a0aa6b28a176280acd2c771b6d675102d971f5e66abc132496fecac3dd4"
+    "version": "3.17.0",
+    "url": "https://github.com/vnotex/vnote/releases/download/v3.17.0/vnote-mac-x64-qt5.15.2_v3.17.0.zip",
+    "sha256": "7adeaf277dba716a8b6eb300b803d55e84a5e93ba34dcf6497b2680b1834bef2"
   },
   {
     "name": "volanta",
-    "version": "1.6.0,54598694",
-    "url": "https://cdn.volanta.app/software/volanta-app/1.6.0-54598694/volanta-1.6.0.dmg",
-    "sha256": "e4ad1de34d86aff1199bbdd05d1a38a01c505685773bdd70775a8dea7d998043"
+    "version": "1.6.2,ab527285",
+    "url": "https://cdn.volanta.app/software/volanta-app/1.6.2-ab527285/volanta-1.6.2.dmg",
+    "sha256": "4752a2f97924edd83e13e82d7326e50e5245b452f6e4956d59a6d350aa2a2267"
   },
   {
     "name": "volley",
@@ -16195,9 +16195,9 @@
   },
   {
     "name": "volta",
-    "version": "1.18.0",
-    "url": "https://volta-build.s3.fr-par.scw.cloud/Volta-1.18.0.dmg",
-    "sha256": "4e0f510d77ee4a79d30374b094cbee9398342466239d9fad2fa5dc11f256217e"
+    "version": "1.18.1",
+    "url": "https://volta-build.s3.fr-par.scw.cloud/Volta-1.18.1.dmg",
+    "sha256": "334052571718e70426abcf4c291846765ace90b69c01f8c19938def8c68459db"
   },
   {
     "name": "voodoopad",
@@ -16225,9 +16225,9 @@
   },
   {
     "name": "vrew",
-    "version": "1.5.2",
-    "url": "https://vrew-files.voyagerx.com/Vrew-1.5.2.dmg",
-    "sha256": "f10ce8ff8bbaa6433b625783814515370af27a7ebc79b5f60d4cd7b005f022ed"
+    "version": "1.5.3",
+    "url": "https://vrew-files.voyagerx.com/Vrew-1.5.3.dmg",
+    "sha256": "b465a0be817c1a2808bfed805a54f2e0eb2abda6b35e1956626887c95e5e0a7b"
   },
   {
     "name": "vscodium",
@@ -16351,9 +16351,9 @@
   },
   {
     "name": "wavebox",
-    "version": "10.116.8.2",
-    "url": "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.116.8.2.dmg",
-    "sha256": "c76cf1fa46188e19a1ded7219d1d71d34fc8fba846e24865395d46205ac8957f"
+    "version": "10.116.10.2",
+    "url": "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.116.10.2.dmg",
+    "sha256": "13d131cfda3aa172654d13201d26cec31ffd2abae47d7d853bb06937d0793a13"
   },
   {
     "name": "wavesurfer",
@@ -16495,9 +16495,9 @@
   },
   {
     "name": "whatsapp",
-    "version": "2.2335.9",
-    "url": "https://web.whatsapp.com/desktop/mac/files/release-2.2335.9.zip",
-    "sha256": "0ad4f59a11bb6e40156596833e7f7298f27566d402252013433ef4b0226adc23"
+    "version": "2.23.17.79",
+    "url": "https://web.whatsapp.com/desktop/mac_native/release/?version=2.23.17.79&extension=zip&configuration=Release&branch=relbranch",
+    "sha256": "9f19eba79472e0ec43b5c60a624ed0e54860ab94e9becfc87956d06d57807df7"
   },
   {
     "name": "whichspace",
@@ -16849,9 +16849,9 @@
   },
   {
     "name": "xmind",
-    "version": "23.07.201366-202308140201",
-    "url": "https://dl3.xmind.net/Xmind-for-macOS-23.07.201366-202308140201.dmg",
-    "sha256": "fd41c47dcd95d74429c4cc0ac276ba5d145de6ce15f84ff80dcf3758698f6f86"
+    "version": "23.08.02122-202308281838",
+    "url": "https://dl3.xmind.net/Xmind-for-macOS-23.08.02122-202308281838.dmg",
+    "sha256": "ea4591692f8bfc553e32d45d7db5f517411c79310db2d906ff9e66510cd7e5d9"
   },
   {
     "name": "xmplify",
@@ -16981,9 +16981,9 @@
   },
   {
     "name": "youku",
-    "version": "9.2.30.1001",
-    "url": "https://pcclient.download.youku.com/iku_electron_client/youkuclient_setup_9.2.30.1001.dmg",
-    "sha256": "78ee667b52ef8f713ed6abacd773559155c5963b78f02afacb7cb52d9c0b7a0e"
+    "version": "9.2.32.1001",
+    "url": "https://pcclient.download.youku.com/iku_electron_client/youkuclient_setup_9.2.32.1001.dmg",
+    "sha256": "347b720944895008a230646ad4842fa1d36c9d567a7ca9996fcfd6aa050e287f"
   },
   {
     "name": "youll-never-take-me-alive",
