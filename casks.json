@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.209,2430",
-    "url": "https://folivora.ai/releases/btt4.209-2430.zip",
-    "sha256": "f1769b23bc2342e9417ddecb1a6f9485b556ac6015dec412c497b0140a850151"
+    "version": "4.212,2433",
+    "url": "https://folivora.ai/releases/btt4.212-2433.zip",
+    "sha256": "f75291be701d27e438b364dc57cae39b7c00a163ffbff84b870e99d509433823"
   },
   {
     "name": "betterzip",
@@ -4753,9 +4753,9 @@
   },
   {
     "name": "flipper",
-    "version": "0.215.0",
-    "url": "https://github.com/facebook/flipper/releases/download/v0.215.0/Flipper-mac.dmg",
-    "sha256": "50266c0081e658005c7755297b4607e9084978506eefad4b0fc58badfb430984"
+    "version": "0.215.1",
+    "url": "https://github.com/facebook/flipper/releases/download/v0.215.1/Flipper-mac.dmg",
+    "sha256": "109cc85d6942c2342ef510fa5aa9f356944de890b784621fe084e61167f4c5f2"
   },
   {
     "name": "flirc",
@@ -8070,6 +8070,12 @@
     "sha256": "ad2e93f3205625d63f5d2357d9d399a76dc439b4ee7dc4a4a5f1ac71a21d592e"
   },
   {
+    "name": "mac-mouse-fix",
+    "version": "2.2.3",
+    "url": "https://github.com/noah-nuebling/mac-mouse-fix/releases/download/2.2.3/MacMouseFixApp.zip",
+    "sha256": "6f2eea2403b97e7d045d364b28bdd3f6a85a8e3c70470e94ab4f22add2e4ce7d"
+  },
+  {
     "name": "mac2imgur",
     "version": "226",
     "url": "https://github.com/mileswd/mac2imgur/releases/download/b226/mac2imgur.zip",
@@ -9300,12 +9306,6 @@
     "sha256": "2aeeb012ebaf1d60767d268e48c8b90726e3f05b2e35945f4293c11fbad84381"
   },
   {
-    "name": "mouse-fix",
-    "version": "2.2.3",
-    "url": "https://github.com/noah-nuebling/mac-mouse-fix/releases/download/2.2.3/MacMouseFixApp.zip",
-    "sha256": "6f2eea2403b97e7d045d364b28bdd3f6a85a8e3c70470e94ab4f22add2e4ce7d"
-  },
-  {
     "name": "movist-pro",
     "version": "2.10.6",
     "url": "https://s3.ap-northeast-2.amazonaws.com/update.cocoable.com/MovistPro_2.10.6.dmg",
@@ -9709,9 +9709,9 @@
   },
   {
     "name": "netron",
-    "version": "7.1.5",
-    "url": "https://github.com/lutzroeder/netron/releases/download/v7.1.5/Netron-7.1.5-mac.zip",
-    "sha256": "a80081852180a2f440bceacad46f6e4eb11d6e44aa292cd722ef8dd9ba1fdf1c"
+    "version": "7.1.6",
+    "url": "https://github.com/lutzroeder/netron/releases/download/v7.1.6/Netron-7.1.6-mac.zip",
+    "sha256": "41150be078cf5396162898f5216b1722090a6b0434654b5872e625bd042097d7"
   },
   {
     "name": "netxms-console",
@@ -11653,9 +11653,9 @@
   },
   {
     "name": "purei-play",
-    "version": "2023-08-31,2196f44a",
-    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/2196f44a/Play.dmg",
-    "sha256": "1d94ea6a573be32a5c4e69394d2361e9162818e50af67d17cfe0c7d7558c3e65"
+    "version": "2023-09-01,9c3f918d",
+    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/9c3f918d/Play.dmg",
+    "sha256": "df188096689583361b91376c9d53bec759c535dc25cba58218ad6325ec96812f"
   },
   {
     "name": "pusher",
@@ -11845,9 +11845,9 @@
   },
   {
     "name": "qq",
-    "version": "6.9.19.16183,37f9b80f",
-    "url": "https://dldir1.qq.com/qqfile/qq/QQNT/37f9b80f/QQ_v6.9.19.16183.dmg",
-    "sha256": "f1e7eea887c644700db4ce90449e9750e3e181440f6e837f105a4d882a6f05dc"
+    "version": "6.9.19.16605,b1af6606",
+    "url": "https://dldir1.qq.com/qqfile/qq/QQNT/b1af6606/QQ_v6.9.19.16605.dmg",
+    "sha256": "26e775c4376463f4bb7256bef4a2d01058249f87dfa8b42c41fbe09aba95396a"
   },
   {
     "name": "qqlive",
@@ -12163,9 +12163,9 @@
   },
   {
     "name": "readdle-spark",
-    "version": "3.8.0.55608",
-    "url": "https://downloads.sparkmailapp.com/Spark3/mac/dist/3.8.0.55608/Spark.zip",
-    "sha256": "4177190906d3e376c6f236d33caf81e111265b5ef90932fc6a8e715bd51a9aa6"
+    "version": "3.8.1.55729",
+    "url": "https://downloads.sparkmailapp.com/Spark3/mac/dist/3.8.1.55729/Spark.zip",
+    "sha256": "304de9734d474b331bd7f0c2bacbbc2839f581422c55e808f239081300a06b98"
   },
   {
     "name": "readmoreading",
@@ -12450,10 +12450,16 @@
     "sha256": "008201e406f401b27248277a4188f26203bb9da0170872de900125f8a6c8b558"
   },
   {
+    "name": "rippling",
+    "version": "3.6.3",
+    "url": "https://hardware-cdn.rippling.com/device_release/electron-installer/3.6.3/macos/Rippling.dmg",
+    "sha256": "a6277f7c3a5c7c683f3cb836531f14117d322f2027a4af6e74b734b880f430c9"
+  },
+  {
     "name": "rive",
-    "version": "0.8.728",
-    "url": "https://releases.rive.app/macos/0.8.728/Rive.dmg",
-    "sha256": "bc53fb024b3dc72f76cd6750f7c7ed1940b980e818d45cf8a1b0699fd9e2cc23"
+    "version": "0.8.734",
+    "url": "https://releases.rive.app/macos/0.8.734/Rive.dmg",
+    "sha256": "437e8f09d9ded5841511bc911230564dbf520cd7cebec849d206d3297620d7d6"
   },
   {
     "name": "roam-research",
