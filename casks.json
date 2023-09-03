@@ -619,9 +619,9 @@
   },
   {
     "name": "apifox",
-    "version": "2.3.12",
-    "url": "https://cdn.apifox.cn/download/2.3.12/Apifox-2.3.12.dmg",
-    "sha256": "1fddebb8e3a7fe0d6ad109d1c88e4738d370b3e18fef0be5cf7a79265a28e263"
+    "version": "2.3.13",
+    "url": "https://cdn.apifox.cn/download/2.3.13/Apifox-2.3.13.dmg",
+    "sha256": "51e02a22cbe3ca92c6d80285491c3c162c815e1bcad3af1a7a7e1de0a2e7f2e1"
   },
   {
     "name": "apipost",
@@ -721,9 +721,9 @@
   },
   {
     "name": "aptakube",
-    "version": "1.5.6",
-    "url": "https://releases.aptakube.com/Aptakube_1.5.6_universal.dmg",
-    "sha256": "1ef33c7e3058fcce157c539a954f2681ae013bb51413fb8d1e1f1afabbbebb64"
+    "version": "1.5.7",
+    "url": "https://releases.aptakube.com/Aptakube_1.5.7_universal.dmg",
+    "sha256": "37f5f706a02cb6111b78c1a6d2a08381735665309dfe7164603d688dfb2b5cdc"
   },
   {
     "name": "aptanastudio",
@@ -2827,9 +2827,9 @@
   },
   {
     "name": "copilot-for-xcode",
-    "version": "0.22.2",
-    "url": "https://github.com/intitni/CopilotForXcode/releases/download/0.22.2/Copilot.for.Xcode.app.zip",
-    "sha256": "32693d4773b9d6ea0f163005e7684ffd32e6c4b9c0c44fb6bdb6ad0228a87d63"
+    "version": "0.22.3",
+    "url": "https://github.com/intitni/CopilotForXcode/releases/download/0.22.3/Copilot.for.Xcode.app.zip",
+    "sha256": "1211dbe751c1269aa0e875c5f528e588771fd6b8993305aa4700b181b63cadaf"
   },
   {
     "name": "copyq",
@@ -3073,9 +3073,9 @@
   },
   {
     "name": "cursor",
-    "version": "0.9.2",
-    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.9.2-x64-mac.zip",
-    "sha256": "ab6e5714b4bae4fc82f8aab0d9f36d16c78887a02cd1c14633ed62bc2b7de27a"
+    "version": "0.9.3",
+    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.9.3-x64-mac.zip",
+    "sha256": "275c20763470197b92e0bd0d6c925422c0c3ae68d858703e0c8234fd4487c1cf"
   },
   {
     "name": "cursr",
@@ -3283,57 +3283,57 @@
   },
   {
     "name": "dcp-o-matic",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.62",
-    "sha256": "80534b5ed72bb20711a871879c949e22e2c2b02356995758d8dc392817871a00"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.63",
+    "sha256": "6fbb74ad0e38654759fa7be7c097570c58983f02f415e3d199e80396f46bddc4"
   },
   {
     "name": "dcp-o-matic-batch-converter",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.62",
-    "sha256": "837709e9b87d61f47f7669da9bcef40438f799d2dd2616e537ab614cb5366523"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.63",
+    "sha256": "ac490d482e4696905b7f3c44c7df5f78603e00d32a5f6380356f6780e84785b2"
   },
   {
     "name": "dcp-o-matic-combiner",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-combiner&version=2.16.62",
-    "sha256": "1704a94e2aac9c0bb7b30d2ccf1442c182cdd266ad8da8ecc39ea1a660f501fc"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-combiner&version=2.16.63",
+    "sha256": "ef5a677f235aff08f22f9b151d2d602cb6d0f4ae66f1b4ba23562f94a1b17189"
   },
   {
     "name": "dcp-o-matic-disk-writer",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-disk&version=2.16.62",
-    "sha256": "9e11d968c0b194932ac25385fdc0048c269d1936e6fda7fec0098de513f0a41b"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-disk&version=2.16.63",
+    "sha256": "0d23c2087deb32461d9a95f3d48e1b87d51953088edab12fbafc289d36529d55"
   },
   {
     "name": "dcp-o-matic-editor",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-editor&version=2.16.62",
-    "sha256": "ce73d66014c359c1985602a697d589fb09b47eeb43aeffe008b39537fd4ea85c"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-editor&version=2.16.63",
+    "sha256": "f184661041ad7c75ee10e95e924bc16df2eb63c6cd3ae2a3721580b92b07afda"
   },
   {
     "name": "dcp-o-matic-encode-server",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.62",
-    "sha256": "0c067bdc5ff4f15327304a44036655b8fef5588a451d02008f168912b79ce0bf"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.63",
+    "sha256": "c93f939b5cebd86919e9b435f1a8f700a7e9b7338c0222b5d4565ee20ee1a0d6"
   },
   {
     "name": "dcp-o-matic-kdm-creator",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.62",
-    "sha256": "2ac1e51195491d09bb626e75cd32e571c84b29732ba98d374288d9ddef5cbc5a"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.63",
+    "sha256": "882648bf01c159d7f09a85ae59eef6a0337664bbdb4bb3ba2daca170adaeb57a"
   },
   {
     "name": "dcp-o-matic-player",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.62",
-    "sha256": "fc86f549d83a1dc41503a7879e7c01a819a26c9581025dfb352ff81a96fb5270"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.63",
+    "sha256": "b2cf290e399f644a24a0af5b2c842e437146eeb1eaa2a08256228e48aa08ecf6"
   },
   {
     "name": "dcp-o-matic-playlist-editor",
-    "version": "2.16.62",
-    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-playlist&version=2.16.62",
-    "sha256": "6134f1f652d3127ab55eea38624712d1bee4b3074843c11458a499cb7f928975"
+    "version": "2.16.63",
+    "url": "https://dcpomatic.com/dl.php?id=osx-10.10-playlist&version=2.16.63",
+    "sha256": "a0cc5298624d103445a424f8c855ed2be342847f9d72523ed99305793796e128"
   },
   {
     "name": "dcv-viewer",
@@ -3481,9 +3481,9 @@
   },
   {
     "name": "devilutionx",
-    "version": "1.5.0",
-    "url": "https://github.com/diasurgical/devilutionX/releases/download/1.5.0/devilutionx-macos-x86_64.dmg",
-    "sha256": "f01395922450a6af4ae257bb61a1f0b0e72a34267b07a42143d2c348484c10d8"
+    "version": "1.5.1",
+    "url": "https://github.com/diasurgical/devilutionX/releases/download/1.5.1/devilutionx-macos-x86_64.dmg",
+    "sha256": "dbff0787da57ed05da4830ad26f2a09aaf88b99c349003abd72a43fb8b7dd552"
   },
   {
     "name": "devonagent",
@@ -3625,9 +3625,9 @@
   },
   {
     "name": "diskcatalogmaker",
-    "version": "8.8.0",
-    "url": "https://download.diskcatalogmaker.com/download/zip/DiskCatalogMaker880.zip",
-    "sha256": "b8e20cf9cca93dc1566fc49a9563c2c258ccb612c572146d833dd6503227e665"
+    "version": "9.0.0",
+    "url": "https://download.diskcatalogmaker.com/download/zip/DiskCatalogMaker900.zip",
+    "sha256": "2bdaa17c0ce47803a5abad54b0ce697113a6a809690d019d267f1c38a7ac5f1f"
   },
   {
     "name": "diskmaker-x",
@@ -3733,9 +3733,9 @@
   },
   {
     "name": "dosbox-x",
-    "version": "2023.05.01,20230501092707",
-    "url": "https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v2023.05.01/dosbox-x-macosx-x86_64-20230501092707.zip",
-    "sha256": "472989640b7992c2f4c978db449aa47cd7331e5424585cfaffc522be90fb1d68"
+    "version": "2023.09.01,20230901155520",
+    "url": "https://github.com/joncampbell123/dosbox-x/releases/download/dosbox-x-v2023.09.01/dosbox-x-macosx-x86_64-20230901155520.zip",
+    "sha256": "169e4da416de3dc43c8817043ebfa7b9807c6cd092be6f2ce9d9715baaa03bfe"
   },
   {
     "name": "doteditor",
@@ -5239,9 +5239,9 @@
   },
   {
     "name": "gdevelop",
-    "version": "5.2.171",
-    "url": "https://github.com/4ian/GDevelop/releases/download/v5.2.171/GDevelop-5-5.2.171-universal.dmg",
-    "sha256": "1e4f1d8508cf5017d7cce16107538786e042bc05993f34c3021bccbf7ebef16c"
+    "version": "5.2.172",
+    "url": "https://github.com/4ian/GDevelop/releases/download/v5.2.172/GDevelop-5-5.2.172-universal.dmg",
+    "sha256": "cf523e4f36edbcc844436e9b9f8f6faf1dc9fe1df9f5d7a9051221a6e982f5dd"
   },
   {
     "name": "gdlauncher",
@@ -5527,9 +5527,9 @@
   },
   {
     "name": "glyphs",
-    "version": "3.2,3214",
-    "url": "https://updates.glyphsapp.com/Glyphs3.2-3214.zip",
-    "sha256": "08727edc0dd28224170b68d3b9e9f4445e62a4ceee37a9d2fb84e36a07debe5c"
+    "version": "3.2,3215",
+    "url": "https://updates.glyphsapp.com/Glyphs3.2-3215.zip",
+    "sha256": "2cd24ad3786f868c9b08812e160b7c46da2d9bf328f1018d824d8061a88e8d14"
   },
   {
     "name": "gmail-notifier",
@@ -5707,13 +5707,13 @@
   },
   {
     "name": "grandtotal",
-    "version": "8.1.3.3",
-    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.3.3.dmg",
-    "sha256": "03eba6c94eb0fa8bd26af4412f203e89fba51341b54975c9035c8d9126841318"
+    "version": "8.1.3.5",
+    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.3.5.dmg",
+    "sha256": "6a1495b94224007a05e6e0a193243e56730975a5e2ba9fb3800fdf61d0231f2b"
   },
   {
     "name": "graphicconverter",
-    "version": "12.0.2,6157",
+    "version": "12.0.3,6157",
     "url": "https://www.lemkesoft.info/files/graphicconverter/gc12_build6157.zip",
     "sha256": "84f719350dc4ecf663101403af38add56c61651365d81be5465727d66a02d2cf"
   },
@@ -6211,9 +6211,9 @@
   },
   {
     "name": "hypercal",
-    "version": "0.0.96",
-    "url": "https://storage.googleapis.com/hypercal-downloads/Hypercal-0.0.96-universal.dmg",
-    "sha256": "d01fe7272223dfbc0549f4d11a43f231e2f682c3d151e9d724097875dbbd9183"
+    "version": "0.0.97",
+    "url": "https://storage.googleapis.com/hypercal-downloads/Hypercal-0.0.97-universal.dmg",
+    "sha256": "e12976f3a4fa892ee0c74287df9720e934eee5a611a7d41a5780e6a264c8ca9a"
   },
   {
     "name": "hyperkey",
@@ -6955,9 +6955,9 @@
   },
   {
     "name": "joplin",
-    "version": "2.11.11",
-    "url": "https://github.com/laurent22/joplin/releases/download/v2.11.11/Joplin-2.11.11.dmg",
-    "sha256": "fddbda6076bb3d3e8503ade49ad8eb12b25923d3be84894abc79dfe519df7998"
+    "version": "2.12.15",
+    "url": "https://github.com/laurent22/joplin/releases/download/v2.12.15/Joplin-2.12.15.DMG",
+    "sha256": "8b7c6a3147d426901c2737598b4170b0c48530f3a51ac6261ad4666c29fd51e4"
   },
   {
     "name": "joshjon-nocturnal",
@@ -7573,9 +7573,9 @@
   },
   {
     "name": "launchbar",
-    "version": "6.18",
-    "url": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.18.dmg",
-    "sha256": "83dfa2ae6b80081ed844f76bfeefbb258b8c2b75cbf3e68479db3501f976d6dc"
+    "version": "6.18.1",
+    "url": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.18.1.dmg",
+    "sha256": "af0d464ae321e9c6046b035fa9ddbde8ec4b642748c934a45ed5b7c86519a9d9"
   },
   {
     "name": "launchcontrol",
@@ -7627,9 +7627,9 @@
   },
   {
     "name": "lectrote",
-    "version": "1.4.3",
-    "url": "https://github.com/erkyrath/lectrote/releases/download/lectrote-1.4.3/Lectrote-1.4.3-macos-universal.dmg",
-    "sha256": "a69423ff98cb1a29ed584ced61d283b4d39058d9fdc21baa4e3748bf76aec23e"
+    "version": "1.4.4",
+    "url": "https://github.com/erkyrath/lectrote/releases/download/lectrote-1.4.4/Lectrote-1.4.4-macos-universal.dmg",
+    "sha256": "e26021a39463dd7d06b94f3c97eb8b97e1a9ab79aeb4edfef39857ff073dd668"
   },
   {
     "name": "ledger-live",
@@ -8065,9 +8065,9 @@
   },
   {
     "name": "maa",
-    "version": "4.23.1",
-    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v4.23.1/MAA-v4.23.1-macos-universal.dmg",
-    "sha256": "ad2e93f3205625d63f5d2357d9d399a76dc439b4ee7dc4a4a5f1ac71a21d592e"
+    "version": "4.23.3",
+    "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/download/v4.23.3/MAA-v4.23.3-macos-universal.dmg",
+    "sha256": "214d4cab70f6a9eb10543fb0b59169bb3f8f7c2f6b9efd27154f3de2bbc834d0"
   },
   {
     "name": "mac-mouse-fix",
@@ -10279,9 +10279,9 @@
   },
   {
     "name": "openmsx",
-    "version": "19_0",
-    "url": "https://github.com/openMSX/openMSX/releases/download/RELEASE_19_0/openmsx-19.0-mac-x86_64-bin.dmg",
-    "sha256": "f247b515a0dd9864906044fac564d04cbcf6345167cd0275117bbf859fbd36ab"
+    "version": "19_1",
+    "url": "https://github.com/openMSX/openMSX/releases/download/RELEASE_19_1/openmsx-19.1-mac-x86_64-bin.dmg",
+    "sha256": "e81a31cd19b1fdf029b08b55879fef6793cb0bbcbdc79e6e4cc8892f64d82d8b"
   },
   {
     "name": "openmtp",
@@ -14365,9 +14365,9 @@
   },
   {
     "name": "swiftformat-for-xcode",
-    "version": "0.52.2",
-    "url": "https://github.com/nicklockwood/SwiftFormat/releases/download/0.52.2/SwiftFormat.for.Xcode.app.zip",
-    "sha256": "b5d32aec6a0b9f5e574078805709f9f41a70e42022f871d972e82e3c52c83255"
+    "version": "0.52.3",
+    "url": "https://github.com/nicklockwood/SwiftFormat/releases/download/0.52.3/SwiftFormat.for.Xcode.app.zip",
+    "sha256": "c5c99ce20e7b9f3e2d625a6079626be50f81254a6a3db96de852cdb2a5370a85"
   },
   {
     "name": "swiftplantumlapp",
@@ -14851,9 +14851,9 @@
   },
   {
     "name": "thebrain",
-    "version": "13.0.34.0",
-    "url": "https://updater.thebrain.com/files/TheBrain13.0.34.0.dmg",
-    "sha256": "73e92bb998bfac2f522d19acb540dd7956f28ba8f4a6eae31edfd1b70d0ed218"
+    "version": "13.0.35.0",
+    "url": "https://updater.thebrain.com/files/TheBrain13.0.35.0.dmg",
+    "sha256": "7167332376da88c13b9efa44dec6ae1ffe4fc0a69b4dbee59eebca04aa0366f8"
   },
   {
     "name": "thedesk",
@@ -15127,9 +15127,9 @@
   },
   {
     "name": "tiny-player",
-    "version": "1.6.7",
-    "url": "https://download.catnapgames.com/TinyPlayer-1.6.7.zip",
-    "sha256": "a52e40e004e7486a889318b33325e0c61b7a3079ec86040870477cd6bf28b4c7"
+    "version": "1.6.8",
+    "url": "https://download.catnapgames.com/TinyPlayer-1.6.8.zip",
+    "sha256": "c32eb9be9c993bdbe437748e129a2d2080519f050958c6beea4a5ff2cb6f7729"
   },
   {
     "name": "tinymediamanager",
@@ -15661,9 +15661,9 @@
   },
   {
     "name": "ultrastardeluxe",
-    "version": "2023.6.0",
-    "url": "https://github.com/UltraStar-Deluxe/USDX/releases/download/v2023.6.0/UltraStarDeluxe-v2023.6.0-0.dmg",
-    "sha256": "a0d47271ae836fd2fccf6962ca127e1ad0313a6ea3f455ad336510e13a85ded0"
+    "version": "2023.9.0",
+    "url": "https://github.com/UltraStar-Deluxe/USDX/releases/download/v2023.9.0/UltraStarDeluxe-v2023.9.0.dmg",
+    "sha256": "3f990349a3eca5a5e038031b35d3fb69a3149383f71474cb3735114edff11411"
   },
   {
     "name": "unclack",
@@ -15841,9 +15841,9 @@
   },
   {
     "name": "utools",
-    "version": "4.0.0",
-    "url": "https://publish.u-tools.cn/version2/uTools-4.0.0.dmg",
-    "sha256": "103acc3e44483ac40c4ab13171c17cf1627cd244184cd40ca49f5bb86df9fa4d"
+    "version": "4.0.1",
+    "url": "https://publish.u-tools.cn/version2/uTools-4.0.1.dmg",
+    "sha256": "21878a7b2011df37d4a07ba4c73a946f8873f68c4fbf28e040b9c3c2f111d080"
   },
   {
     "name": "uu-booster",
