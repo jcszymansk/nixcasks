@@ -2125,9 +2125,9 @@
   },
   {
     "name": "cardhop",
-    "version": "2.2.10",
-    "url": "https://cdn.flexibits.com/Cardhop_2.2.10.zip",
-    "sha256": "c1abb7d27ebb5d7fef785e58910678c24bc467705180f8cb23d114d55632db16"
+    "version": "2.2.11",
+    "url": "https://cdn.flexibits.com/Cardhop_2.2.11.zip",
+    "sha256": "0e83b44339790d831e17e4c1d178ecfbc2ac35ca640ef0af2c95c6b41ffe5ddd"
   },
   {
     "name": "cardpresso",
@@ -2293,9 +2293,9 @@
   },
   {
     "name": "chirp",
-    "version": "20230830",
-    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230830/chirp-next-20230830.app.zip",
-    "sha256": "61fdc56812c20827a49d5920f49643519e9137236f4b0eed7f939848faa837d4"
+    "version": "20230905",
+    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230905/chirp-next-20230905.app.zip",
+    "sha256": "095d0cd30ec550ac1d6ad3ccc5bccff7697874322b82097399737d8973a25b16"
   },
   {
     "name": "chrome-devtools",
@@ -2437,9 +2437,9 @@
   },
   {
     "name": "cleanshot",
-    "version": "4.5.1",
-    "url": "https://updates.getcleanshot.com/v3/CleanShot-X-4.5.1.dmg",
-    "sha256": "f80ca4635ad0fac7f70ac30411a5f7fe6341db6934d172688e893b8a95c712d1"
+    "version": "4.6",
+    "url": "https://updates.getcleanshot.com/v3/CleanShot-X-4.6.dmg",
+    "sha256": "69826716038de13fb1eef201f1a2eff4b4a4a996658c04ed88cba9846ebf1031"
   },
   {
     "name": "cleartext",
@@ -2683,9 +2683,9 @@
   },
   {
     "name": "coin-wallet",
-    "version": "5.10.4",
-    "url": "https://github.com/CoinSpace/CoinSpace/releases/download/v5.10.4/Coin.Wallet.dmg",
-    "sha256": "605994e24f1f89f6da7b0977c4bf273e8d2c930ce9604c4ce319933b1ec17d51"
+    "version": "5.10.5",
+    "url": "https://github.com/CoinSpace/CoinSpace/releases/download/v5.10.5/Coin.Wallet.dmg",
+    "sha256": "67d6e9c26cc0e00da3bfdf08e5b8709983180bdfff531b8a57961a4d9c05857c"
   },
   {
     "name": "coinomi-wallet",
@@ -3763,9 +3763,9 @@
   },
   {
     "name": "downie",
-    "version": "4.6.25,4605",
-    "url": "https://software.charliemonroe.net/trial/downie/v4/Downie_4_4605.dmg",
-    "sha256": "308697e7dfd38c9bd5fe612dc52f9fd3f8d0a0f9944f09840e48b694814a59f6"
+    "version": "4.6.26,4613",
+    "url": "https://software.charliemonroe.net/trial/downie/v4/Downie_4_4613.dmg",
+    "sha256": "6cf3b3d27a13d9840d9b62c4f2fc31ad4128c91085ea2665f7cc1e0b797a7725"
   },
   {
     "name": "doxie",
@@ -3865,9 +3865,9 @@
   },
   {
     "name": "dropzone",
-    "version": "4.7.0",
-    "url": "https://aptonic.com/releases/Dropzone-4.7.0.zip",
-    "sha256": "99fa2105b60549a767ddf342a623e0b84d60b41f83a525f4e7358f27bb31eb06"
+    "version": "4.7.1",
+    "url": "https://aptonic.com/releases/Dropzone-4.7.1.zip",
+    "sha256": "097eaf428f42422c2fc43758eb28af7f265fd34bab4db8d5aa6e9051e77aa254"
   },
   {
     "name": "drovio",
@@ -5527,9 +5527,9 @@
   },
   {
     "name": "glyphs",
-    "version": "3.2,3216",
-    "url": "https://updates.glyphsapp.com/Glyphs3.2-3216.zip",
-    "sha256": "2cc6a84599aec5cdd6aa1c99413f681291775ff57db059ed49ea147133a21bcd"
+    "version": "3.2,3217",
+    "url": "https://updates.glyphsapp.com/Glyphs3.2-3217.zip",
+    "sha256": "03e71e06662c1f9142c30c24f075e67a678232560905e29b8e9f717b5c9dfcd3"
   },
   {
     "name": "gmail-notifier",
@@ -6373,9 +6373,9 @@
   },
   {
     "name": "iina-plus",
-    "version": "0.7.9",
-    "url": "https://github.com/xjbeta/iina-plus/releases/download/0.7.9/IINA+.0.7.9.dmg",
-    "sha256": "35fc02f89afc1904f8250e883011d38e5dd3734d9d5ef53fbca816b909310355"
+    "version": "0.7.10",
+    "url": "https://github.com/xjbeta/iina-plus/releases/download/0.7.10/IINA+.0.7.10.dmg",
+    "sha256": "64941b3a018e8f1372e97561d5f1fb4c7b91e12289633a5f4fb8c1a34b553ecb"
   },
   {
     "name": "ilspy",
@@ -9709,9 +9709,9 @@
   },
   {
     "name": "netxms-console",
-    "version": "4.4.1",
-    "url": "https://netxms.org/download/releases/4.4/nxmc-4.4.1.dmg",
-    "sha256": "c39b23b01fcee98daa184847c15f7a223a9b194c47eed09bcca7caa431f9d06a"
+    "version": "4.4.2",
+    "url": "https://netxms.org/download/releases/4.4/nxmc-4.4.2.dmg",
+    "sha256": "d99f8fc295ce1a4acd0b0a62be1114bc7018a6f267ab1438deefb5bd1de7a97f"
   },
   {
     "name": "nfov",
@@ -10747,9 +10747,9 @@
   },
   {
     "name": "pdf-expert",
-    "version": "3.4,957",
-    "url": "https://downloads.pdfexpert.com/pem3/versions/957/PDFExpert.zip",
-    "sha256": "5f23d40436235ef473102c2bc4110a7f5736964a09c61dc24078b214e0356be4"
+    "version": "3.4.1,964",
+    "url": "https://downloads.pdfexpert.com/pem3/versions/964/PDFExpert.zip",
+    "sha256": "5391226142a71909a663bb891c901b6fae0f8b6e78025f52d4b04acc299a87e5"
   },
   {
     "name": "pdf-images",
@@ -10831,9 +10831,9 @@
   },
   {
     "name": "permute",
-    "version": "3.10.8,2705",
-    "url": "https://software.charliemonroe.net/trial/permute/v3/Permute_3_2705.dmg",
-    "sha256": "660de5c21703ceff1b9af5a4564eb2e56cb0b868d99957f078098af5172b71ce"
+    "version": "3.10.9,2709",
+    "url": "https://software.charliemonroe.net/trial/permute/v3/Permute_3_2709.dmg",
+    "sha256": "4d507116b488bfa7be1145e81b253a3b6910a56e380700b9c31f69cb8487d297"
   },
   {
     "name": "persepolis-download-manager",
@@ -11005,9 +11005,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.139.1,stable.3,5864219",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.139.1-stable.3-ci5864219.dmg",
-    "sha256": "9bf3564b889ec8e274e2117ae86f4fb6c757f7835d1a37c0e6911b13357571bf"
+    "version": "1.140.0,stable.1,5868647",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.140.0-stable.1-ci5868647.dmg",
+    "sha256": "1ee2dfd3415aa6698f2b275910f7614b14d253c392a3244de475c7184492bcb7"
   },
   {
     "name": "pixel-check",
@@ -11611,9 +11611,9 @@
   },
   {
     "name": "psychopy",
-    "version": "2023.2.1",
-    "url": "https://github.com/psychopy/psychopy/releases/download/2023.2.1/StandalonePsychoPy-2023.2.1-macOS.dmg",
-    "sha256": "cddfe9f5d51220ef7d7cc4c9e6252376c003672ce1d16d9c980aa47cc97f9537"
+    "version": "2023.2.2",
+    "url": "https://github.com/psychopy/psychopy/releases/download/2023.2.2/StandalonePsychoPy-2023.2.2-macOS.dmg",
+    "sha256": "f194542dd746e83e8a3194b2028d0cceafced9a5588baf32c6fce54ba0603c12"
   },
   {
     "name": "publii",
@@ -11647,9 +11647,9 @@
   },
   {
     "name": "purei-play",
-    "version": "2023-09-01,9c3f918d",
-    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/9c3f918d/Play.dmg",
-    "sha256": "df188096689583361b91376c9d53bec759c535dc25cba58218ad6325ec96812f"
+    "version": "2023-09-05,e6c63eef",
+    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/e6c63eef/Play.dmg",
+    "sha256": "7b3b4cec0b8bebeaa9e52d79453431f234f48b727b94e81e50feabcc8a55425d"
   },
   {
     "name": "pusher",
@@ -12319,9 +12319,9 @@
   },
   {
     "name": "responsively",
-    "version": "1.7.0",
-    "url": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.7.0/ResponsivelyApp-1.7.0.dmg",
-    "sha256": "17c106bd190349478bc19d118bece3fa4ebf6ed22720890cb8e312f92e741e75"
+    "version": "1.7.1",
+    "url": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.7.1/ResponsivelyApp-1.7.1.dmg",
+    "sha256": "7372a1f14f881c69b8c799f5b76c84d6984f9c814886dfbb466d8edb9300a33a"
   },
   {
     "name": "restfox",
@@ -12997,9 +12997,9 @@
   },
   {
     "name": "setapp",
-    "version": "3.31.1,58,1692991537",
-    "url": "https://dl.devmate.com/com.setapp.DesktopClient/58/1692991537/Setapp-58.zip",
-    "sha256": "f76cd7e7800df54efd07a2a84752f730914a9c9a9b5ce40713cc43b236afbeeb"
+    "version": "3.32.0,59,1693830497",
+    "url": "https://dl.devmate.com/com.setapp.DesktopClient/59/1693830497/Setapp-59.zip",
+    "sha256": "fb562047de4b2aa918ab4825a6e103eab5ee93e4255befe5632029c3cfb5c5fa"
   },
   {
     "name": "sfm",
@@ -13405,9 +13405,9 @@
   },
   {
     "name": "slack",
-    "version": "4.33.90",
-    "url": "https://downloads.slack-edge.com/releases/macos/4.33.90/prod/x64/Slack-4.33.90-macOS.dmg",
-    "sha256": "7e0ba8a18a9cf95090ad80f58437d647eee5d1842ac4f15ea053c16c1629edde"
+    "version": "4.34.115",
+    "url": "https://downloads.slack-edge.com/releases/macos/4.34.115/prod/x64/Slack-4.34.115-macOS.dmg",
+    "sha256": "859ee6cfece1e72509103de89efa640d8f5c293bfef3a9d1f2fd90da65e65ad0"
   },
   {
     "name": "sleek",
@@ -14959,9 +14959,9 @@
   },
   {
     "name": "ticktick",
-    "version": "4.5.61, 270",
-    "url": "https://ticktick-download-mac.s3.amazonaws.com/download/mac/TickTick_4.5.61_%20270.dmg",
-    "sha256": "c40fde50e2e489ba696eee04b1c611df3f4a20f838084adebee63cf4c01ab8ed"
+    "version": "4.5.65,279",
+    "url": "https://ticktick-download-mac.s3.amazonaws.com/download/mac/TickTick_4.5.65_279.dmg",
+    "sha256": "86891a48f66128721285a79e0a6441884656250b4d098d3d5c9017ef14f8acfe"
   },
   {
     "name": "tidal",
@@ -15193,9 +15193,9 @@
   },
   {
     "name": "tomatobar",
-    "version": "3.4.3",
-    "url": "https://github.com/ivoronin/TomatoBar/releases/download/v3.4.3/TomatoBar-v3.4.3.zip",
-    "sha256": "732dd1ac74dc63fa54bff749bdf12527df56dafffe6216a1a93796ca7b808010"
+    "version": "3.5.0",
+    "url": "https://github.com/ivoronin/TomatoBar/releases/download/v3.5.0/TomatoBar-v3.5.0.zip",
+    "sha256": "f5b29a3761d60a952697fa9f8f9e1c86350ee6f18d4e94eb2e9093ab7cb61e72"
   },
   {
     "name": "tomighty",
@@ -16231,9 +16231,9 @@
   },
   {
     "name": "vrew",
-    "version": "1.5.3",
-    "url": "https://vrew-files.voyagerx.com/Vrew-1.5.3.dmg",
-    "sha256": "b465a0be817c1a2808bfed805a54f2e0eb2abda6b35e1956626887c95e5e0a7b"
+    "version": "1.6.1",
+    "url": "https://vrew-files.voyagerx.com/Vrew-1.6.1.dmg",
+    "sha256": "c1f3acb6e4fcdba44dbdb226255440ef6e527a383db0383e16d0dc69e01da949"
   },
   {
     "name": "vscodium",
@@ -17137,9 +17137,9 @@
   },
   {
     "name": "zotero",
-    "version": "6.0.26",
-    "url": "https://download.zotero.org/client/release/6.0.26/Zotero-6.0.26.dmg",
-    "sha256": "e43e5adbaeb969617fefc2e06712d8ecce60f0986a5ef9cc5aa4917acbc1a360"
+    "version": "6.0.27",
+    "url": "https://download.zotero.org/client/release/6.0.27/Zotero-6.0.27.dmg",
+    "sha256": "66d34c14167b086a783bfc5c781fb6243b8f67714f75cb8e90ff271d821adc51"
   },
   {
     "name": "zsa-wally",
