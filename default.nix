@@ -17,7 +17,7 @@ in
       };
 
       nativeBuildInputs = [ pkgs.makeWrapper ] ++
-        lib.optionals (lib.strings.hasSuffix ".zip" cask.url) [ pkgs.unzip ];
+        lib.optionals (lib.strings.hasSuffix ".zip" (lib.strings.toLower cask.url)) [ pkgs.unzip ];
 
       sourceRoot = ".";
 
@@ -35,7 +35,7 @@ in
         runHook postInstall
       '';
 
-   } // (if (lib.strings.hasSuffix ".dmg" cask.url) then {
+   } // (if (lib.strings.hasSuffix ".dmg" (lib.strings.toLower cask.url)) then {
      unpackCmd = ./unpackdmg.sh;
    } else { }));
   }))

@@ -3,7 +3,7 @@
 # from https://discourse.nixos.org/t/help-with-error-only-hfs-file-systems-are-supported-on-ventura/25873/8
 env
 echo "File to unpack: $src"
-if ! [[ "$src" =~ \.dmg$ ]]; then exit 1; fi
+if ! [[ "$src" =~ \.[Dd][Mm][Gg]$ ]]; then exit 1; fi
 mnt=$(mktemp -d -t ci-XXXXXXXXXX)
 
 function finish {
