@@ -625,9 +625,9 @@
   },
   {
     "name": "apifox",
-    "version": "2.3.14",
-    "url": "https://cdn.apifox.cn/download/2.3.14/Apifox-2.3.14.dmg",
-    "sha256": "210637e6dcbc74824a40346a51f3f3ac3b6dd10e6b344d3cef8b5d18cbe7ba80"
+    "version": "2.3.15",
+    "url": "https://cdn.apifox.cn/download/2.3.15/Apifox-2.3.15.dmg",
+    "sha256": "b0fc7abd15b28f00db705647181cc30e50ef9388ae0446f8c2da06bd4e79a052"
   },
   {
     "name": "apipost",
@@ -2083,9 +2083,9 @@
   },
   {
     "name": "caprine",
-    "version": "2.58.0",
-    "url": "https://github.com/sindresorhus/caprine/releases/download/v2.58.0/Caprine-2.58.0.dmg",
-    "sha256": "46a2be7c9240b7d5be9bbce0e99608e8f10039add5d54c6ca6d1291b5aa389b8"
+    "version": "2.58.1",
+    "url": "https://github.com/sindresorhus/caprine/releases/download/v2.58.1/Caprine-2.58.1.dmg",
+    "sha256": "6afa13a8333673b52870a9a9a58a8c5e6788873f232b770b5630c86340604bb6"
   },
   {
     "name": "capslocknodelay",
@@ -2227,9 +2227,9 @@
   },
   {
     "name": "chatall",
-    "version": "1.41.67",
-    "url": "https://github.com/sunner/ChatALL/releases/download/v1.41.67/ChatALL-1.41.67-mac-x64.dmg",
-    "sha256": "be1af4c16a9dec8baaecdf2dcc72374f970666456ac2b9907518dd35fcfa2704"
+    "version": "1.42.68",
+    "url": "https://github.com/sunner/ChatALL/releases/download/v1.42.68/ChatALL-1.42.68-mac-x64.dmg",
+    "sha256": "fa58a5e0c5eff92f2d97bb608b0711622420b9f1984688f2a62cfac3f1fbed2c"
   },
   {
     "name": "chatbox",
@@ -2359,9 +2359,9 @@
   },
   {
     "name": "cityofzion-neon",
-    "version": "2.19.2",
-    "url": "https://github.com/CityOfZion/neon-wallet/releases/download/v2.19.2/Neon.2.19.2.x64.dmg",
-    "sha256": "de8e341d2eceea39c323f7d4643a817a02d00d7886900129bb86842c850b0fe2"
+    "version": "2.20.2",
+    "url": "https://github.com/CityOfZion/neon-wallet/releases/download/v2.20.2/Neon.2.20.2.x64.dmg",
+    "sha256": "809de86a6c1799b6ad34634ca808d8e59d312f4fd9e499765e3995e88cac6132"
   },
   {
     "name": "ckan",
@@ -3073,9 +3073,9 @@
   },
   {
     "name": "cursor",
-    "version": "0.9.5",
-    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.9.5-x64-mac.zip",
-    "sha256": "ca5edb2dd5239172a86946fdffb634908e597dcfacbee1be6196c2b5ebf9db3c"
+    "version": "0.10.4",
+    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.10.4-x64-mac.zip",
+    "sha256": "058407a2a20869f6f01afb8154d3b972861c7fc4fe6ee3fc9f142d760d7a740e"
   },
   {
     "name": "cursr",
@@ -3790,6 +3790,12 @@
     "version": "3.4.1",
     "url": "https://cdn.drata.com/agent/dist/mac/drata-agent-3.4.1.dmg",
     "sha256": "bb767633658367bd4f81e5f0343a1eeb8b129578343e8726d66b38d19a92fd47"
+  },
+  {
+    "name": "draw-things",
+    "version": "1.20230901.1-f9ec4c94",
+    "url": "https://static.drawthings.ai/DrawThings-1.20230901.1-f9ec4c94.zip",
+    "sha256": "f9ec4c940931d01c747c04beb421792616a765ee87a87846c17bd110dc0fba8e"
   },
   {
     "name": "drawbot",
@@ -7291,9 +7297,9 @@
   },
   {
     "name": "kindle-comic-converter",
-    "version": "5.6.2",
-    "url": "https://github.com/ciromattia/kcc/releases/download/v5.6.2/KindleComicConverter_osx_5.6.2.dmg",
-    "sha256": "5541dfc24f87f4de9f25fffb6a9f9965195ce2112794d03cd16d526d2f76da07"
+    "version": "5.6.3",
+    "url": "https://github.com/ciromattia/kcc/releases/download/v5.6.3/KindleComicConverter_osx_5.6.3.dmg",
+    "sha256": "822b847259782c9452996ec4da0afd68982ca11faa8ec3b1d7d54de5b3d18061"
   },
   {
     "name": "kitematic",
@@ -7801,9 +7807,9 @@
   },
   {
     "name": "lm-studio",
-    "version": "0.2.3",
-    "url": "https://s3.amazonaws.com/releases.lmstudio.ai/0.2.3/LM+Studio-darwin-arm64-0.2.3.zip",
-    "sha256": "9baa0e3c0d3c5dbe6241087f7ea6e3785e1b5e475fefd5641f29fdb1b511e31f"
+    "version": "0.2.4",
+    "url": "https://s3.amazonaws.com/releases.lmstudio.ai/0.2.4/LM+Studio-darwin-arm64-0.2.4.zip",
+    "sha256": "47d3eb3faa0f1a5b58ee801da2ec79554b46738e46226115b9e8f1b4359d656b"
   },
   {
     "name": "lmms",
@@ -8593,9 +8599,9 @@
   },
   {
     "name": "medis",
-    "version": "2.12.1",
-    "url": "https://api.getmedis.com/medis-2.12.1.zip",
-    "sha256": "46b1bfca0a8fc113d23d21c35ce4dc2e5e68457787a2ada398ab88e6d6a66acd"
+    "version": "2.13.0",
+    "url": "https://api.getmedis.com/medis-2.13.0.zip",
+    "sha256": "35d570f72cdf055a781f5ee1f8482c037412034914e98f561f7a9fe71679f70a"
   },
   {
     "name": "meetingbar",
@@ -9427,9 +9433,9 @@
   },
   {
     "name": "multiviewer-for-f1",
-    "version": "1.26.7,125139773",
-    "url": "https://releases.multiviewer.app/download/125139773/MultiViewer.for.F1-1.26.7-x64.dmg",
-    "sha256": "6f9a23fa63f84eec9237f3bcce4802652eff87a4beb6ad2d7097c857e67be4aa"
+    "version": "1.26.9,125347169",
+    "url": "https://releases.multiviewer.app/download/125347169/MultiViewer.for.F1-1.26.9-x64.dmg",
+    "sha256": "447f3f5c16cebfdb1ac07e8b05e612dceebb46c2aa7920cc40c65f7c7cc0b5d8"
   },
   {
     "name": "mumble",
@@ -9619,9 +9625,9 @@
   },
   {
     "name": "nault",
-    "version": "1.18.2",
-    "url": "https://github.com/Nault/Nault/releases/download/v1.18.2/Nault-1.18.2-Mac.dmg",
-    "sha256": "f8a7a488fe220c8452df9b80b5e176da4f488b1c5f41d7e5a80fa040f4beef7f"
+    "version": "1.18.3",
+    "url": "https://github.com/Nault/Nault/releases/download/v1.18.3/Nault-1.18.3-Mac.dmg",
+    "sha256": "02e768906e23774219907feb95ec84782449b3f02b575f2c653a500f24b6218c"
   },
   {
     "name": "ndm",
@@ -9691,9 +9697,9 @@
   },
   {
     "name": "netron",
-    "version": "7.1.6",
-    "url": "https://github.com/lutzroeder/netron/releases/download/v7.1.6/Netron-7.1.6-mac.zip",
-    "sha256": "41150be078cf5396162898f5216b1722090a6b0434654b5872e625bd042097d7"
+    "version": "7.1.8",
+    "url": "https://github.com/lutzroeder/netron/releases/download/v7.1.8/Netron-7.1.8-mac.zip",
+    "sha256": "5e532d2364884f8eebd918f6be393296d387afd0c2ad7b5f18a9ef74ba3ede36"
   },
   {
     "name": "netxms-console",
@@ -11275,9 +11281,9 @@
   },
   {
     "name": "porting-kit",
-    "version": "5.13.8",
-    "url": "https://github.com/vitor251093/porting-kit-releases/releases/download/v5.13.8/Porting-Kit-5.13.8.dmg",
-    "sha256": "c88e418f52bb867190a5f6c4ac42c1e2d991741c943f76df761a41e035306163"
+    "version": "5.14.9",
+    "url": "https://github.com/vitor251093/porting-kit-releases/releases/download/v5.14.9/Porting-Kit-5.14.9.dmg",
+    "sha256": "5f9524b755276dc4537df961be0a74d6aaaea2f28d82c1a519ae06b22a12aa48"
   },
   {
     "name": "portx",
@@ -11359,9 +11365,9 @@
   },
   {
     "name": "ppsspp",
-    "version": "1.15.4",
-    "url": "https://github.com/hrydgard/ppsspp/releases/download/v1.15.4/PPSSPPSDL-macOS-v1.15.4.zip",
-    "sha256": "19e1ba73a0d9c4769bb05f279eb21114c17a0170c60b09aa51cae8c1072d337c"
+    "version": "1.16",
+    "url": "https://github.com/hrydgard/ppsspp/releases/download/v1.16/PPSSPPSDL-macOS-v1.16.zip",
+    "sha256": "dbf09947066088525eaa5bb26e2a6da4dc3f076ad84a23b20fa8d1fd93e7ade1"
   },
   {
     "name": "praat",
@@ -11545,9 +11551,9 @@
   },
   {
     "name": "prowlarr",
-    "version": "1.7.4.3769",
-    "url": "https://github.com/Prowlarr/Prowlarr/releases/download/v1.7.4.3769/Prowlarr.master.1.7.4.3769.osx-app-core-x64.zip",
-    "sha256": "33cffa0dd5000644c9a82c0f3bd7a5478c8da74adaeb2f7cbfa128e13746d412"
+    "version": "1.8.6.3946",
+    "url": "https://github.com/Prowlarr/Prowlarr/releases/download/v1.8.6.3946/Prowlarr.master.1.8.6.3946.osx-app-core-x64.zip",
+    "sha256": "2dadb8e76bc33ddc174476ead98b257336ae97fff50b72370cfda976cca70e9a"
   },
   {
     "name": "prowritingaid",
@@ -11689,9 +11695,9 @@
   },
   {
     "name": "pyfa",
-    "version": "2.53.0",
-    "url": "https://github.com/pyfa-org/Pyfa/releases/download/v2.53.0/pyfa-v2.53.0-mac.zip",
-    "sha256": "e409c54503468a2a091c754926e331bd1fac094b598d2ec168b11a0566f1045f"
+    "version": "2.53.1",
+    "url": "https://github.com/pyfa-org/Pyfa/releases/download/v2.53.1/pyfa-v2.53.1-mac.zip",
+    "sha256": "1c965514cd82955274fa7f6b59c216c5fba3ff3eff302acf5dfabbc7f3b43796"
   },
   {
     "name": "pym-player",
@@ -11815,9 +11821,9 @@
   },
   {
     "name": "qownnotes",
-    "version": "23.9.1",
-    "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.9.1/QOwnNotes.dmg",
-    "sha256": "b0d08236d2fb5b0b758314dbf7f4311ffe7575bae53021b4f4bbed9f0e19d9ff"
+    "version": "23.9.2",
+    "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.9.2/QOwnNotes.dmg",
+    "sha256": "e0435c7c5cc6a76a14d9587e1de7295b9b3dffd850cef001b103e9331de58fc9"
   },
   {
     "name": "qq",
@@ -12169,9 +12175,9 @@
   },
   {
     "name": "rectangle-pro",
-    "version": "3.0.6",
-    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.6.dmg",
-    "sha256": "42ca807bb416ae2c16ffcd28b8650d0ece0faa7da51078e9b8a14b71e5a895c8"
+    "version": "3.0.8",
+    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.8.dmg",
+    "sha256": "675e13846c0a9fdbfaccbb799f16b1e8289b0c0b76abd6415295cf83b5902569"
   },
   {
     "name": "recut",
@@ -12187,9 +12193,9 @@
   },
   {
     "name": "redis-pro",
-    "version": "2.5.2",
-    "url": "https://github.com/cmushroom/redis-pro/releases/download/2.5.2/redis-pro.dmg",
-    "sha256": "45adfeb225a795740060ee43d31c3b0a34542416941cbd60f84c1c51c22e1ca0"
+    "version": "3.0.0",
+    "url": "https://github.com/cmushroom/redis-pro/releases/download/3.0.0/redis-pro.dmg",
+    "sha256": "202e046a4e2fa2e8f1ff2a94697695911ec28d05131a0290fa3d44974507f48f"
   },
   {
     "name": "redream",
@@ -12721,9 +12727,9 @@
   },
   {
     "name": "scihubeva",
-    "version": "6.2.2",
-    "url": "https://github.com/leovan/SciHubEVA/releases/download/v6.2.2/SciHubEVA-x86_64-v6.2.2.dmg",
-    "sha256": "a0c065176248b1cde455a84a63a925fb0cf4099f05684be23ef85a8abcbf4084"
+    "version": "6.2.3",
+    "url": "https://github.com/leovan/SciHubEVA/releases/download/v6.2.3/SciHubEVA-x86_64-v6.2.3.dmg",
+    "sha256": "f880354644a2287c3ee01fda5607b15f3b798a5e4bd06d63feab6dbb6e6734e3"
   },
   {
     "name": "scilab",
@@ -14431,9 +14437,9 @@
   },
   {
     "name": "syncthing",
-    "version": "1.23.7-1",
-    "url": "https://github.com/syncthing/syncthing-macos/releases/download/v1.23.7-1/Syncthing-1.23.7-1.dmg",
-    "sha256": "948f019009717205c8ab9f5577235ef848fc5acc98610cd75d6fdd8c2139f2d6"
+    "version": "1.24.0-1",
+    "url": "https://github.com/syncthing/syncthing-macos/releases/download/v1.24.0-1/Syncthing-1.24.0-1.dmg",
+    "sha256": "3a1817e78f93de306f05bf3a8d35baeae6c823b48b81ebcc617efc6d60056070"
   },
   {
     "name": "synfigstudio",
@@ -15811,9 +15817,9 @@
   },
   {
     "name": "utools",
-    "version": "4.0.1",
-    "url": "https://publish.u-tools.cn/version2/uTools-4.0.1.dmg",
-    "sha256": "21878a7b2011df37d4a07ba4c73a946f8873f68c4fbf28e040b9c3c2f111d080"
+    "version": "4.1.0",
+    "url": "https://publish.u-tools.cn/version2/uTools-4.1.0.dmg",
+    "sha256": "04bcdde8b3c99e490967cfbeeb429d13d60e77a434d335994afecdb6babbb4b2"
   },
   {
     "name": "uu-booster",
