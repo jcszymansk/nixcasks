@@ -565,9 +565,9 @@
   },
   {
     "name": "antconc",
-    "version": "4.2.2",
-    "url": "https://www.laurenceanthony.net/software/antconc/releases/AntConc422/apple-intel/AntConc.dmg",
-    "sha256": "ad347d0189997500929f947c415fe9d3b1972d24e3551ba3bf7a6a95d46d2c63"
+    "version": "4.2.3",
+    "url": "https://www.laurenceanthony.net/software/antconc/releases/AntConc423/apple-intel/AntConc.dmg",
+    "sha256": "e974003aedc51253fdbb1edaf6cf74f851d41b8d4b35fe21fc9d80ff158342c0"
   },
   {
     "name": "anybar",
@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.250,42500",
-    "url": "https://folivora.ai/releases/btt4.250-42500.zip",
-    "sha256": "32b37a3ae10f1662bcebcc9f7442eddfac8c5b355cb8180452698936c02a6882"
+    "version": "4.258,42580",
+    "url": "https://folivora.ai/releases/btt4.258-42580.zip",
+    "sha256": "1918ba71f41d9ec752b8e5a344957709da4a4f2c73882cd44592263a83000783"
   },
   {
     "name": "betterzip",
@@ -1411,9 +1411,9 @@
   },
   {
     "name": "bike",
-    "version": "1.14.1,153",
-    "url": "https://www.hogbaysoftware.com/bike/releases/153.dmg",
-    "sha256": "754d7e6f03d7aad4bc5194f5d9db7b2b87e8667bc48c6bfa9382f5b2970ec4df"
+    "version": "1.15,154",
+    "url": "https://www.hogbaysoftware.com/bike/releases/154.dmg",
+    "sha256": "a7e8ab436b2220721ae4f477d808892ac45a8a50ecb480ec0434da005a39612f"
   },
   {
     "name": "bili-downloader",
@@ -1849,9 +1849,9 @@
   },
   {
     "name": "browserosaurus",
-    "version": "20.4.0",
-    "url": "https://github.com/will-stone/browserosaurus/releases/download/v20.4.0/Browserosaurus-darwin-x64-20.4.0.zip",
-    "sha256": "7dedd002b873b0db268a8169550c91de4fad35d6d00de0902322a2495374117b"
+    "version": "20.5.0",
+    "url": "https://github.com/will-stone/browserosaurus/releases/download/v20.5.0/Browserosaurus-darwin-x64-20.5.0.zip",
+    "sha256": "c6656bd346e74d3b6ea1bdd6002bef36501d4633f9167315aa41c5607a227084"
   },
   {
     "name": "bruno",
@@ -2809,9 +2809,9 @@
   },
   {
     "name": "copilot",
-    "version": "3.5.0,126-0e338dae",
-    "url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-3.5.0-126-0e338dae.dmg",
-    "sha256": "0e338daea7bbb95cbce497a4b077ad3acfd705133489c2576ee4f3fc05091909"
+    "version": "3.5.2,129-6dd783ad",
+    "url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-3.5.2-129-6dd783ad.dmg",
+    "sha256": "6dd783adb1c2c3c1b95e3fe0b7e72828e09d492c23b6b8cb4fa6e304348a49f1"
   },
   {
     "name": "copilot-for-xcode",
@@ -3403,9 +3403,9 @@
   },
   {
     "name": "deltachat",
-    "version": "1.40.3",
-    "url": "https://download.delta.chat/desktop/v1.40.3/DeltaChat-1.40.3.dmg",
-    "sha256": "0d5de02593f856eb18a74ea14a5347e263acfcd6a0e102dab6e71be6f04b4b65"
+    "version": "1.40.4",
+    "url": "https://download.delta.chat/desktop/v1.40.4/DeltaChat-1.40.4.dmg",
+    "sha256": "897d7d046886f2da5a6c6560929ef923baece6d6e61ff92d6e533c9563297dd3"
   },
   {
     "name": "deltawalker",
@@ -6715,9 +6715,9 @@
   },
   {
     "name": "itsycal",
-    "version": "0.13.4",
-    "url": "https://itsycal.s3.amazonaws.com/Itsycal-0.13.4.zip",
-    "sha256": "35509500d22571a4b5e6b48d9de5740a1bcf7d74808d1218d31daf77ddd04a66"
+    "version": "0.14.0",
+    "url": "https://itsycal.s3.amazonaws.com/Itsycal-0.14.0.zip",
+    "sha256": "72e98b005006acc15b264bf66c3c5b2cc5c8ac88eb479c7b00c1535a7a31c199"
   },
   {
     "name": "itunes-volume-control",
@@ -6919,9 +6919,9 @@
   },
   {
     "name": "jitsi-meet",
-    "version": "2023.9.0",
-    "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.9.0/jitsi-meet.dmg",
-    "sha256": "c6821ce096fb878aa987d2cd7956f90ee4e03658cb8d2cc91cf67b7842ecbcca"
+    "version": "2023.9.1",
+    "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2023.9.1/jitsi-meet.dmg",
+    "sha256": "4e6e6d3697775f6218b9d29b6e841693ced47ee72997bdf168b95fb32ad03a52"
   },
   {
     "name": "jmc",
@@ -7405,9 +7405,9 @@
   },
   {
     "name": "kopiaui",
-    "version": "0.13.0",
-    "url": "https://github.com/kopia/kopia/releases/download/v0.13.0/KopiaUI-0.13.0.dmg",
-    "sha256": "cb07d568196bae64dd2dc7c1a9d940308c4d802793cc0a937c893f985d96e287"
+    "version": "0.14.0",
+    "url": "https://github.com/kopia/kopia/releases/download/v0.14.0/KopiaUI-0.14.0.dmg",
+    "sha256": "5a81e91369fa7f7c0a760f6008530fee69f0b81a31999131715a4112484e0f79"
   },
   {
     "name": "krita",
@@ -9679,9 +9679,9 @@
   },
   {
     "name": "netron",
-    "version": "7.1.8",
-    "url": "https://github.com/lutzroeder/netron/releases/download/v7.1.8/Netron-7.1.8-mac.zip",
-    "sha256": "5e532d2364884f8eebd918f6be393296d387afd0c2ad7b5f18a9ef74ba3ede36"
+    "version": "7.1.9",
+    "url": "https://github.com/lutzroeder/netron/releases/download/v7.1.9/Netron-7.1.9-mac.zip",
+    "sha256": "abb59fd1e3b5b88043e732fbb390fae58aec6591eb590396f5c1a8ff0db440f2"
   },
   {
     "name": "netxms-console",
@@ -11389,9 +11389,9 @@
   },
   {
     "name": "principle",
-    "version": "6.31",
-    "url": "https://principleformac.com/download/Principle_6_31.zip",
-    "sha256": "42e14dc541e8f7d6bfea8ee1271857ad4c18e8423a992e3a767dba3af9fbcc90"
+    "version": "6.32",
+    "url": "https://principleformac.com/download/Principle_6_32.zip",
+    "sha256": "45669a854a1e6238181aec1589cf559969e2e5736beb2e762342659fa49a2073"
   },
   {
     "name": "printopia",
@@ -11587,9 +11587,9 @@
   },
   {
     "name": "pulsar",
-    "version": "1.108.0",
-    "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.108.0/Intel.Mac.Pulsar-1.108.0-mac.zip",
-    "sha256": "5da5fd5eb10398d0c715aa44e21e7fc72774856ae6755d7a96b5caa0084f33cf"
+    "version": "1.109.0",
+    "url": "https://github.com/pulsar-edit/pulsar/releases/download/v1.109.0/Intel.Mac.Pulsar-1.109.0-mac.zip",
+    "sha256": "763999f2297183acf6683501363e3cc7d4405d121140ffc0897604004068a9e7"
   },
   {
     "name": "pulse",
@@ -11743,9 +11743,9 @@
   },
   {
     "name": "qgis",
-    "version": "3.32.2,20230819_135339",
-    "url": "https://qgis.org/downloads/macos/pr/qgis_pr_final-3_32_2_20230819_135339.dmg",
-    "sha256": "240f557b0be1abb34f5ab09a0b51678f7a5b435fc7c7cb59bbde3cfd8700174a"
+    "version": "3.32.3,20230915_122907",
+    "url": "https://qgis.org/downloads/macos/pr/qgis_pr_final-3_32_3_20230915_122907.dmg",
+    "sha256": "c1f4d8d729cc00325f68627e367745c09d92eee58966920e489c0d4ae8b704b3"
   },
   {
     "name": "qlab",
@@ -12139,21 +12139,21 @@
   },
   {
     "name": "recipeui",
-    "version": "0.8.1",
-    "url": "https://github.com/RecipeUI/RecipeUI/releases/download/app-v0.8.1/RecipeUI_universal.app.tar.gz",
-    "sha256": "eb2af2d62f672d2417eb663906d9135328305c80d2078c24555b7084d0f3d64c"
+    "version": "0.8.2",
+    "url": "https://github.com/RecipeUI/RecipeUI/releases/download/app-v0.8.2/RecipeUI_universal.app.tar.gz",
+    "sha256": "4ef74aa68afe673a45d7bf5bd725fcd6e08bf26cd8df32d148f5154c6d12c116"
   },
   {
     "name": "rectangle",
-    "version": "0.70",
-    "url": "https://github.com/rxhanson/Rectangle/releases/download/v0.70/Rectangle0.70.dmg",
-    "sha256": "609603ce615f2e55c3ba9c848e81008a7e6aca7c8b8d78ee6afd43492fd0e735"
+    "version": "0.71",
+    "url": "https://github.com/rxhanson/Rectangle/releases/download/v0.71/Rectangle0.71.dmg",
+    "sha256": "42cbc4053b8b8791b257335329a2405703cdb5809cff7c87f94f158171389e4d"
   },
   {
     "name": "rectangle-pro",
-    "version": "3.0.8",
-    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.8.dmg",
-    "sha256": "675e13846c0a9fdbfaccbb799f16b1e8289b0c0b76abd6415295cf83b5902569"
+    "version": "3.0.9",
+    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.9.dmg",
+    "sha256": "c03f328b63db82b9f57d6ff1ae871ea43729cd232c407e728c1fc9bfdd0fb864"
   },
   {
     "name": "recut",
@@ -12415,9 +12415,9 @@
   },
   {
     "name": "rive",
-    "version": "0.8.763",
-    "url": "https://releases.rive.app/macos/0.8.763/Rive.dmg",
-    "sha256": "744cfe2679bb5c2dbc5d35cb72d5e2d222631660e6d91e7cb7e398c5c0416aa3"
+    "version": "0.8.766",
+    "url": "https://releases.rive.app/macos/0.8.766/Rive.dmg",
+    "sha256": "409eb5c14286354c7ade44428bca6d3b1b3d8448db6be4979ceb5863900674b8"
   },
   {
     "name": "roam-research",
@@ -13705,9 +13705,9 @@
   },
   {
     "name": "sparkle",
-    "version": "2.4.2",
-    "url": "https://github.com/sparkle-project/Sparkle/releases/download/2.4.2/Sparkle-2.4.2.tar.xz",
-    "sha256": "64ca2b157eb94dfad6580ccb98192b48cd008076b8e72ee6a02d753595f0c731"
+    "version": "2.5.0",
+    "url": "https://github.com/sparkle-project/Sparkle/releases/download/2.5.0/Sparkle-2.5.0.tar.xz",
+    "sha256": "06a59e6bfd3c57b79e004b4f6bf6d65fde05ed3a23678dadecfd3f6ed01d5c6b"
   },
   {
     "name": "sparkleshare",
@@ -14011,9 +14011,9 @@
   },
   {
     "name": "stash",
-    "version": "2.4.0,235",
-    "url": "https://mac-release-static.stash.ws/Stash-build-235.zip",
-    "sha256": "fb2965139adebd02f7c079e8866c825ad2a11a061dff147a86f467d2d2c0e5ec"
+    "version": "2.4.0,237",
+    "url": "https://mac-release-static.stash.ws/Stash-build-237.zip",
+    "sha256": "84100a768112de88fb8299be6a06d187dfb470b2fa6c7f5f055407d713e153cb"
   },
   {
     "name": "stationtv-link",
@@ -14485,9 +14485,9 @@
   },
   {
     "name": "tableplus",
-    "version": "5.4.0,504",
-    "url": "https://download.tableplus.com/macos/504/TablePlus.dmg",
-    "sha256": "60552abafef540512796687ddfe1ec14de97b60a14c7a08c395a9f75600859fa"
+    "version": "5.4.2,506",
+    "url": "https://download.tableplus.com/macos/506/TablePlus.dmg",
+    "sha256": "6d30c4ed69a2cf7e80a0a22d83f684634531a9fe01f329defd254febd3677be5"
   },
   {
     "name": "tabtopus",
@@ -15433,9 +15433,9 @@
   },
   {
     "name": "tuple",
-    "version": "0.107.3,2023-08-31,729c146e2",
-    "url": "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.107.3-2023-08-31-729c146e2.zip",
-    "sha256": "bed8245f0e77bc7782aa7334762b6375b3d2c6f8629885797acd99ec14e43722"
+    "version": "0.107.4,2023-09-16,27d11c7e1",
+    "url": "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.107.4-2023-09-16-27d11c7e1.zip",
+    "sha256": "95ea0c897d7e732151d43c432a10afae3cc6a9a2fe9030258b6e727b4ba9c45e"
   },
   {
     "name": "turbo-boost-switcher",
