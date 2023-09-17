@@ -235,9 +235,9 @@
   },
   {
     "name": "agenda",
-    "version": "18.0.1",
-    "url": "https://downloads.agenda.com/Agenda_18.0.1.zip",
-    "sha256": "2d9e4b0c0700f9fa6bb1c3fa8eda7fef46857c9c82eabe767f7b8f3e0fc9737e"
+    "version": "18.1.1",
+    "url": "https://downloads.agenda.com/Agenda_18.1.1.zip",
+    "sha256": "85c81b4db995c3035498fc648d7c7408578b216094fd12bae65b2f2afb7e203c"
   },
   {
     "name": "agi",
@@ -709,9 +709,9 @@
   },
   {
     "name": "applite",
-    "version": "1.1",
-    "url": "https://github.com/milanvarady/Applite/releases/download/v1.1/Applite.dmg",
-    "sha256": "47748d5e7c09e70147f88592073f85c7dfa5ceef4db405507e5f12951398eda5"
+    "version": "1.2",
+    "url": "https://github.com/milanvarady/Applite/releases/download/v1.2/Applite.dmg",
+    "sha256": "0ed96bb654108b4f448e421fdbd695ba8e2da348c4a33075ac195b8222e42e45"
   },
   {
     "name": "apppolice",
@@ -757,9 +757,9 @@
   },
   {
     "name": "arc",
-    "version": "1.8.0,41552",
-    "url": "https://releases.arc.net/release/Arc-1.8.0-41552.zip",
-    "sha256": "53a67c620c0da1758da2683fe7ebe713486416074a1ddf5f89cf497605b0909a"
+    "version": "1.8.1,41651",
+    "url": "https://releases.arc.net/release/Arc-1.8.1-41651.zip",
+    "sha256": "2ae026a2be888eebb7d51ecc64c1e2f9079716d877857d60234e1e4b740fff52"
   },
   {
     "name": "archipelago",
@@ -973,9 +973,9 @@
   },
   {
     "name": "aural",
-    "version": "3.19.0",
-    "url": "https://github.com/maculateConception/aural-player/releases/download/v3.19.0/AuralPlayer-3.19.0.dmg",
-    "sha256": "855b6cc42fabc75f947a4b1f61975876bbc768955660accf88be5f72ea9cc23e"
+    "version": "3.20.0",
+    "url": "https://github.com/maculateConception/aural-player/releases/download/v3.20.0/AuralPlayer-3.20.0.dmg",
+    "sha256": "8d6d7909cae7ec975dfb8f7dc02928c016b4e7322b3fe23cfea42f32147ace06"
   },
   {
     "name": "aurora-hdr",
@@ -1333,9 +1333,9 @@
   },
   {
     "name": "bespoke",
-    "version": "1.2.0",
-    "url": "https://github.com/BespokeSynth/BespokeSynth/releases/download/v1.2.0/BespokeSynth-Mac-1_2_0.dmg",
-    "sha256": "ce6c25b1af287e67ebe0a8701a2127491bfb65258be7f46e83acbbbb246e0511"
+    "version": "1.2.1",
+    "url": "https://github.com/BespokeSynth/BespokeSynth/releases/download/v1.2.1/BespokeSynth-Mac-1_2_1.dmg",
+    "sha256": "85ca71302c002a14bc92958044797dbf0d8b9baa52a753243012347070f4e4bb"
   },
   {
     "name": "bestres",
@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.258,42580",
-    "url": "https://folivora.ai/releases/btt4.258-42580.zip",
-    "sha256": "1918ba71f41d9ec752b8e5a344957709da4a4f2c73882cd44592263a83000783"
+    "version": "4.258,42581",
+    "url": "https://folivora.ai/releases/btt4.258-42581.zip",
+    "sha256": "f821c151e51385c54c2ec47fde67aca7faa714438ff4c2a729f330a68e1b3645"
   },
   {
     "name": "betterzip",
@@ -1777,9 +1777,9 @@
   },
   {
     "name": "brave-browser",
-    "version": "1.58.124.0",
-    "url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/158.124/Brave-Browser-x64.dmg",
-    "sha256": "2215dfe8dc44b08f84aedd5991358ba3ce10048449fa2035a6383804314c1aa0"
+    "version": "1.58.127.0",
+    "url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/158.127/Brave-Browser-x64.dmg",
+    "sha256": "232e1aabb61ff5464d77a1df0ca4def450faa3ef5644d745b1e8c1d6a69aad5a"
   },
   {
     "name": "breaktimer",
@@ -2202,6 +2202,12 @@
     "sha256": "f8b32b671363634fdb9227c40d4d69c90bb3779b73ea28b6831ea7d4d0c5908f"
   },
   {
+    "name": "chainner",
+    "version": "0.20.1",
+    "url": "https://github.com/chaiNNer-org/chaiNNer/releases/download/v0.20.1/chaiNNer-0.20.1-macos-universal.dmg",
+    "sha256": "174ab1b16771de61cbd70da3f0bf6a32e267b235d4aab751520055d9f71edb11"
+  },
+  {
     "name": "chalk",
     "version": "1.7.2",
     "url": "https://pierre.chachatelier.fr/chalk/downloads/Chalk-1_7_2.dmg",
@@ -2215,9 +2221,9 @@
   },
   {
     "name": "chatall",
-    "version": "1.42.69",
-    "url": "https://github.com/sunner/ChatALL/releases/download/v1.42.69/ChatALL-1.42.69-mac-x64.dmg",
-    "sha256": "67b1900c1ec84acf0fd1dc7d0f8ad22b3bcde42b98be49ab101e4ad976672993"
+    "version": "1.42.70",
+    "url": "https://github.com/sunner/ChatALL/releases/download/v1.42.70/ChatALL-1.42.70-mac-x64.dmg",
+    "sha256": "436491b6ef93b2ca324a8f9c9d5562b7eae60f80b70f85aa5f09d3deacf5b8a9"
   },
   {
     "name": "chatbox",
@@ -2281,9 +2287,9 @@
   },
   {
     "name": "chirp",
-    "version": "20230911",
-    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230911/chirp-next-20230911.app.zip",
-    "sha256": "8e5b6f7ebeef7d76f0fb7205df8212b632321168c439a9078230788d1816d5f4"
+    "version": "20230917",
+    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230917/chirp-next-20230917.app.zip",
+    "sha256": "2eaa33ac0e5e081f8f18d0dfde84034f2e2d64049cd96c4958994db700f680bf"
   },
   {
     "name": "chrome-devtools",
@@ -4831,9 +4837,9 @@
   },
   {
     "name": "fmail2",
-    "version": "2.4.7",
-    "url": "https://arievanboxel.fr/fmail2/sparkle/FMail2_247.zip",
-    "sha256": "09e12d7d16f84374435971614d6d448f1f4c9017769672c81a7c4ec978dc762b"
+    "version": "2.4.8",
+    "url": "https://arievanboxel.fr/fmail2/sparkle/FMail2_248.zip",
+    "sha256": "bc43fcaec2852f3d7c9d6c3fd3925ae8effe4e0011cabc81676b737b60ed7891"
   },
   {
     "name": "fman",
@@ -5707,9 +5713,9 @@
   },
   {
     "name": "graphicconverter",
-    "version": "12.0.3,6157",
-    "url": "https://www.lemkesoft.info/files/graphicconverter/gc12_build6157.zip",
-    "sha256": "84f719350dc4ecf663101403af38add56c61651365d81be5465727d66a02d2cf"
+    "version": "12.0.4,6240",
+    "url": "https://www.lemkesoft.info/files/graphicconverter/gc12_build6240.zip",
+    "sha256": "c8637a4fbf88b657408116a25e8fa251b14b9126fd0130b45e2f98303a4a2c9f"
   },
   {
     "name": "graphiql",
@@ -6133,9 +6139,9 @@
   },
   {
     "name": "hstracker",
-    "version": "2.5.3",
-    "url": "https://github.com/HearthSim/HSTracker/releases/download/2.5.3/HSTracker.app.zip",
-    "sha256": "517eb3b8ca7b5b758525889e5cfde3ad4fb480399458ec5b76f7dbde8c5b5111"
+    "version": "2.5.4",
+    "url": "https://github.com/HearthSim/HSTracker/releases/download/2.5.4/HSTracker.app.zip",
+    "sha256": "7f7f0128c4cad4f55e157d11c0f2a32a1941d3dcffde2801b78be066133a7ac5"
   },
   {
     "name": "html-mangareader",
@@ -8965,9 +8971,9 @@
   },
   {
     "name": "mints",
-    "version": "1.14,2023.05",
-    "url": "https://eclecticlightdotcom.files.wordpress.com/2023/05/mints114.zip",
-    "sha256": "8984d2d7bcf000ca599c7fd621967d20a65fc09881ba9ae83ec8e7458242f780"
+    "version": "1.15,2023.09",
+    "url": "https://eclecticlightdotcom.files.wordpress.com/2023/09/mints115.zip",
+    "sha256": "13edf0976470c67bcc3023d1472fea7c6cab8fd9d8277573d2cfcc06711b661a"
   },
   {
     "name": "mirrordisplays",
@@ -9409,9 +9415,9 @@
   },
   {
     "name": "multitouch",
-    "version": "1.27.16",
-    "url": "https://multitouch.app/downloads/multitouch1.27.16.dmg",
-    "sha256": "6393b40710c6f4b12cc13214ed24f0004eb6e205d750176a887839efecc9e7ca"
+    "version": "1.27.17",
+    "url": "https://multitouch.app/downloads/multitouch1.27.17.dmg",
+    "sha256": "2ceb306d6b3a6a648251782908351cff2cb5e2bf38651d0da353605b20771dd7"
   },
   {
     "name": "multiviewer-for-f1",
@@ -10435,9 +10441,9 @@
   },
   {
     "name": "oss-browser",
-    "version": "1.16.0",
-    "url": "https://oss-attachment.cn-hangzhou.oss.aliyun-inc.com/oss-browser/1.16.0/oss-browser-darwin-x64.zip",
-    "sha256": "db165811bb5b862c1e6037a8b477157171b6e684fd0b2c1a7c1652d4614604d2"
+    "version": "1.17.0",
+    "url": "https://github.com/aliyun/oss-browser/releases/download/v1.17.0/oss-browser-darwin-x64.zip",
+    "sha256": "457743b705524bfbdf9e60d345dfac2533d4eae93b47e3abbebe5d156a3f89a9"
   },
   {
     "name": "osu",
@@ -11026,6 +11032,12 @@
     "version": "2.0.5",
     "url": "https://github.com/PlayCover/PlayCover/releases/download/2.0.5/PlayCover_2.0.5.dmg",
     "sha256": "d360235072d161d5e3da96e9c0e8cf5e7e1d63042a356f02230380e61947757a"
+  },
+  {
+    "name": "playdate-mirror",
+    "version": "1.0.0",
+    "url": "https://download-keycdn.panic.com/mirror/Mirror-1.0.0.zip",
+    "sha256": "690137066bd7059b55b7e5717994569e64814dbd5b06e7f19a181f59e0268a0b"
   },
   {
     "name": "playonmac",
@@ -12355,9 +12367,9 @@
   },
   {
     "name": "rewind",
-    "version": "13979.1,823cc46,20230914",
-    "url": "https://updates.rewind.ai/builds/main/b13979.1-main-823cc46.zip",
-    "sha256": "2f34d22ea0c741bf9a039c336a4a274b97702af13de4a4a4069d7d83718b7c3a"
+    "version": "14140.1,f6d7c07,20230915",
+    "url": "https://updates.rewind.ai/builds/main/b14140.1-main-f6d7c07.zip",
+    "sha256": "d554f72bf806cca38f23f444e686c619cab90688fcceaf066233c7e45264553d"
   },
   {
     "name": "rhino",
@@ -14245,9 +14257,9 @@
   },
   {
     "name": "superproductivity",
-    "version": "7.13.2",
-    "url": "https://github.com/johannesjo/super-productivity/releases/download/v7.13.2/superProductivity-7.13.2.dmg",
-    "sha256": "35ca85104d7e69dc9bbc23b11ab4ee7a335a55bb8b0a16adb8349392ec034fe1"
+    "version": "7.14.3",
+    "url": "https://github.com/johannesjo/super-productivity/releases/download/v7.14.3/superProductivity-7.14.3.dmg",
+    "sha256": "8b883c5c9e1dcd6ada19c329c84a710e30844850365bd2913b5f0f399a57d2fa"
   },
   {
     "name": "superslicer",
@@ -15787,9 +15799,9 @@
   },
   {
     "name": "uvtools",
-    "version": "3.15.1",
-    "url": "https://github.com/sn4k3/UVtools/releases/download/v3.15.1/UVtools_osx-x64_v3.15.1.zip",
-    "sha256": "c7d029aa9bc88d7611510370852bb3ba3b22ac7910e1aab0597909a643d0f97c"
+    "version": "4.0.0",
+    "url": "https://github.com/sn4k3/UVtools/releases/download/v4.0.0/UVtools_osx-x64_v4.0.0.zip",
+    "sha256": "f6b34a604436b768f99590479643587229af3fb05fa3e0efd9be37c4627210c3"
   },
   {
     "name": "uxprotect",
@@ -16477,9 +16489,9 @@
   },
   {
     "name": "wifispoof",
-    "version": "3.9",
+    "version": "3.9.1",
     "url": "https://sweetpproductions.com/products/wifispoof3/WiFiSpoof3.dmg",
-    "sha256": "39cba7b8a3e118e6dbf67297b13c00cd73e0b286c7c6c7cc69e2a70c65c8d28e"
+    "sha256": "c4da58e3ae91c61943476fbada55cae99f79fe4e2fdd58bcebff69681955edee"
   },
   {
     "name": "windows95",
