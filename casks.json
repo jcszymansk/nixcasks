@@ -31,9 +31,9 @@
   },
   {
     "name": "1password",
-    "version": "8.10.15",
-    "url": "https://downloads.1password.com/mac/1Password-8.10.15-x86_64.zip",
-    "sha256": "61d84c620a52fbe3bab14e6d83767bee8cbc4aa83d0eb5fdfbf19bdf7dfd1d7b"
+    "version": "8.10.16",
+    "url": "https://downloads.1password.com/mac/1Password-8.10.16-x86_64.zip",
+    "sha256": "6b653a8e61cc658e0f82280b0b34c038eb6de7139257ab2a272ed3af6cb656f4"
   },
   {
     "name": "360safe",
@@ -91,9 +91,9 @@
   },
   {
     "name": "8x8-work",
-    "version": "8.6.2-9",
-    "url": "https://vod-updates.8x8.com/ga/work-dmg-v8.6.2-9.dmg",
-    "sha256": "713a1d4eb73d420ba51077bfbef127fe3be1a36111341db9d4f4c3ad8573286a"
+    "version": "8.6.3-1",
+    "url": "https://vod-updates.8x8.com/ga/work-dmg-v8.6.3-1.dmg",
+    "sha256": "78c677ea9968432671456ab6871474775e63f0a4cfc83214b8f1572209871885"
   },
   {
     "name": "a-better-finder-attributes",
@@ -667,9 +667,9 @@
   },
   {
     "name": "appflowy",
-    "version": "0.3.1",
-    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.3.1/Appflowy_0.3.1_macos-universal.zip",
-    "sha256": "4a5f67cf971bed23dad3c6fab878e31d4ccf49de8c27fc10bfe636d54f8fe157"
+    "version": "0.3.2",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.3.2/Appflowy_0.3.2_macos-universal.zip",
+    "sha256": "8bd5aa714dda58cb1da0589df45251ef8a667d2102fdbb4c5b5a69b7d2055091"
   },
   {
     "name": "appgrid",
@@ -1381,9 +1381,9 @@
   },
   {
     "name": "bettertouchtool",
-    "version": "4.258,42581",
-    "url": "https://folivora.ai/releases/btt4.258-42581.zip",
-    "sha256": "f821c151e51385c54c2ec47fde67aca7faa714438ff4c2a729f330a68e1b3645"
+    "version": "4.265,42650",
+    "url": "https://folivora.ai/releases/btt4.265-42650.zip",
+    "sha256": "862511bf7fd045613c5983be83e9189d90fa3e8c7bbd4cf5ffa1fb94281b9b07"
   },
   {
     "name": "betterzip",
@@ -1717,9 +1717,9 @@
   },
   {
     "name": "bootstrap-studio",
-    "version": "6.4.5",
-    "url": "https://releases.bootstrapstudio.io/6.4.5/Bootstrap%20Studio%20(x64).dmg",
-    "sha256": "2124b898d4faaf16965729b76a5046e57961b2db579c8e56764cfec7f87e71a2"
+    "version": "6.5.0",
+    "url": "https://releases.bootstrapstudio.io/6.5.0/Bootstrap%20Studio%20(x64).dmg",
+    "sha256": "bf1cde1cd2a68fb6236f3f5cf165d3e807879fde854c44cc6e66cf981bfdc9e2"
   },
   {
     "name": "bootxchanger",
@@ -1867,9 +1867,9 @@
   },
   {
     "name": "buckets",
-    "version": "0.70.5",
-    "url": "https://github.com/buckets/application/releases/download/v0.70.5/Buckets-0.70.5.dmg",
-    "sha256": "1e8c68367ae030a75dc7ca66ed7a3a4fbc2d1a58d7b933697336f43fdfa510df"
+    "version": "0.71.1",
+    "url": "https://github.com/buckets/application/releases/download/v0.71.1/Buckets-0.71.1.dmg",
+    "sha256": "fd96fc00a3f8f270fc643a15aa69d27ba2fddc021fe325330467137f2a896d9f"
   },
   {
     "name": "bugdom",
@@ -2113,9 +2113,9 @@
   },
   {
     "name": "cardhop",
-    "version": "2.2.11",
-    "url": "https://cdn.flexibits.com/Cardhop_2.2.11.zip",
-    "sha256": "0e83b44339790d831e17e4c1d178ecfbc2ac35ca640ef0af2c95c6b41ffe5ddd"
+    "version": "2.2.12",
+    "url": "https://cdn.flexibits.com/Cardhop_2.2.12.zip",
+    "sha256": "bb6bae8f19ab2a3d2b4dc06ef70ab8a072f484e2ae6382da2aa14d204022c0fd"
   },
   {
     "name": "cardpresso",
@@ -2221,9 +2221,9 @@
   },
   {
     "name": "chatall",
-    "version": "1.42.70",
-    "url": "https://github.com/sunner/ChatALL/releases/download/v1.42.70/ChatALL-1.42.70-mac-x64.dmg",
-    "sha256": "436491b6ef93b2ca324a8f9c9d5562b7eae60f80b70f85aa5f09d3deacf5b8a9"
+    "version": "1.48.71",
+    "url": "https://github.com/sunner/ChatALL/releases/download/v1.48.71/ChatALL-1.48.71-mac-x64.dmg",
+    "sha256": "275d58a764e3c0a442c575148a529ecff4bd40e2c5d7c4e71c1ac77fa6f8491c"
   },
   {
     "name": "chatbox",
@@ -2599,9 +2599,9 @@
   },
   {
     "name": "coconutbattery",
-    "version": "3.9.12,DB362299",
-    "url": "https://www.coconut-flavour.com/downloads/coconutBattery_3912_DB362299.zip",
-    "sha256": "6afa264be63f332f85587b76747363a98d1b6ea9c170641cfb84de570d808bb5"
+    "version": "3.9.13,A1D9A9CA",
+    "url": "https://www.coconut-flavour.com/downloads/coconutBattery_3913_A1D9A9CA.zip",
+    "sha256": "9dec8c772211268442b9901c88efd06142228dbc923fed676e156fe1890bca3f"
   },
   {
     "name": "coconutid",
@@ -2653,9 +2653,9 @@
   },
   {
     "name": "codux",
-    "version": "15.10.0",
-    "url": "https://github.com/wixplosives/codux-versions/releases/download/15.10.0/Codux-15.10.0.x64.dmg",
-    "sha256": "637238e980381d5e223bd59a89e80e3b7bb092460f08458d07ae685e61afd38f"
+    "version": "15.11.0",
+    "url": "https://github.com/wixplosives/codux-versions/releases/download/15.11.0/Codux-15.11.0.x64.dmg",
+    "sha256": "721f6c531f8c7f30981d78711015e260e28d2e271f1af0ec9943b0c00bdb580d"
   },
   {
     "name": "coffitivity-offline",
@@ -3433,9 +3433,9 @@
   },
   {
     "name": "descript",
-    "version": "72.1.2-release.20230914.24787",
-    "url": "https://electron.descript.com/Descript-72.1.2-release.20230914.24787.dmg",
-    "sha256": "d2119ae5c0573efe1db9fc9a925fc64af268787ebbb95e3868f772db8ad05609"
+    "version": "73.1.0-release.20230915.24942",
+    "url": "https://electron.descript.com/Descript-73.1.0-release.20230915.24942.dmg",
+    "sha256": "2393d056a97d6fb09c02e70667fdc0ab8027948c8331b800bfdf97fce592f3cc"
   },
   {
     "name": "deskreen",
@@ -3565,9 +3565,9 @@
   },
   {
     "name": "dingtalk",
-    "version": "7.0.50.14_31816636",
-    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v7.0.50.14_31816636_x86.dmg",
-    "sha256": "8cb74ce51f105e2673d0f10814f0b6ca5ad44f531e7c2c132cdcd2c7ea6e1ccd"
+    "version": "7.1.0.10_32276033",
+    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v7.1.0.10_32276033_x86.dmg",
+    "sha256": "15702fc99c00be672e63261aadc3565dac30d1f79c0ba8d419fe46155f4241b8"
   },
   {
     "name": "dingtalk-lite",
@@ -3583,9 +3583,9 @@
   },
   {
     "name": "discord",
-    "version": "0.0.277",
-    "url": "https://dl.discordapp.net/apps/osx/0.0.277/Discord.dmg",
-    "sha256": "d165dac4d67f4e31072345230181c00aac447142c84a5e36b777a57ed7525968"
+    "version": "0.0.278",
+    "url": "https://dl.discordapp.net/apps/osx/0.0.278/Discord.dmg",
+    "sha256": "73ad29f115f946ff2dc7a8a8eb95dbab2cc924a68254378be4db7030b3485f93"
   },
   {
     "name": "discretescroll",
@@ -3787,9 +3787,9 @@
   },
   {
     "name": "draw-things",
-    "version": "1.20230913.1-38df119c",
-    "url": "https://static.drawthings.ai/DrawThings-1.20230913.1-38df119c.zip",
-    "sha256": "38df119cb7193dbf331a92db054d9d9e3eb3c99de84c2f5731e511cfb4a07272"
+    "version": "1.20230915.1-a84d14a5",
+    "url": "https://static.drawthings.ai/DrawThings-1.20230915.1-a84d14a5.zip",
+    "sha256": "a84d14a5b92ba2c024fa7cf94d9466fed1c1056f577f6e122077e2dd027879e5"
   },
   {
     "name": "drawbot",
@@ -3895,9 +3895,9 @@
   },
   {
     "name": "duet",
-    "version": "3.10.0.0",
-    "url": "https://duetdownload.com/Mac/3_10/duet-3-10-0-0.zip",
-    "sha256": "2ed19139c5b031571e50531e17a41d2c4d09c621c90a91c95c2b05f2014cb331"
+    "version": "3.11.0.0",
+    "url": "https://duetdownload.com/Mac/3_x/duet-3-11-0-0.zip",
+    "sha256": "98c78849b77df18a29b33a6da755a0039aef8aa884d8737d5cafce2a4507bd6d"
   },
   {
     "name": "dungeon-crawl-stone-soup-console",
@@ -4105,9 +4105,9 @@
   },
   {
     "name": "electerm",
-    "version": "1.32.28",
-    "url": "https://github.com/electerm/electerm/releases/download/v1.32.28/electerm-1.32.28-mac-x64.dmg",
-    "sha256": "a6d949903060db3729f6b73982a4a2267d3c974ab4125d4791d388a884b1967c"
+    "version": "1.32.38",
+    "url": "https://github.com/electerm/electerm/releases/download/v1.32.38/electerm-1.32.38-mac-x64.dmg",
+    "sha256": "0ae38fdba525b894f6ddbcd8080841fdcd439e92c4136e1437b8421183f42545"
   },
   {
     "name": "electorrent",
@@ -4159,9 +4159,9 @@
   },
   {
     "name": "electronmail",
-    "version": "5.1.8",
-    "url": "https://github.com/vladimiry/ElectronMail/releases/download/v5.1.8/electron-mail-5.1.8-mac-x64.dmg",
-    "sha256": "c40bbf9b07118b548061091eddc91e8dc4b32807f95281aefb69f130d606d9bf"
+    "version": "5.2.0",
+    "url": "https://github.com/vladimiry/ElectronMail/releases/download/v5.2.0/electron-mail-5.2.0-mac-x64.dmg",
+    "sha256": "c39914c11e2ddd6cf47fc683bd0b65489f9f126eff3f7fa31546766363d13672"
   },
   {
     "name": "electrum",
@@ -4231,9 +4231,9 @@
   },
   {
     "name": "eloston-chromium",
-    "version": "116.0.5845.187-1.1,1694582307",
-    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/116.0.5845.187-1.1_x86-64__1694582307/ungoogled-chromium_116.0.5845.187-1.1_x86-64-macos.dmg",
-    "sha256": "40afa1c620943ec44390318b48a4ad9d5c21d75ca6e05e772cdfa78903d98b66"
+    "version": "117.0.5938.62-1.1,1694986322",
+    "url": "https://github.com/ungoogled-software/ungoogled-chromium-macos/releases/download/117.0.5938.62-1.1_x86-64__1694986322/ungoogled-chromium_117.0.5938.62-1.1_x86-64-macos.dmg",
+    "sha256": "d0e4fc0fa50ff5c91d460317e1959f8053d2884dc676e9dbca971204d16c5090"
   },
   {
     "name": "elpass",
@@ -4465,9 +4465,9 @@
   },
   {
     "name": "fantastical",
-    "version": "3.7.21",
-    "url": "https://cdn.flexibits.com/Fantastical_3.7.21.zip",
-    "sha256": "26c45a96c1dc6e31abca594ff5304a7817d80a3840f0b9d2302ec89625142bbb"
+    "version": "3.8",
+    "url": "https://cdn.flexibits.com/Fantastical_3.8.zip",
+    "sha256": "9c5c5ae6b83fce045c26b8da658b5789d43d9eea5a438089538094a5bd827025"
   },
   {
     "name": "fantasy-map-generator",
@@ -4753,9 +4753,9 @@
   },
   {
     "name": "flipper",
-    "version": "0.219.0",
-    "url": "https://github.com/facebook/flipper/releases/download/v0.219.0/Flipper-mac.dmg",
-    "sha256": "5f5f9603e3319e6a26cb54c9d3d81ee786b4ffc8b3997203a67d702046b427a6"
+    "version": "0.220.0",
+    "url": "https://github.com/facebook/flipper/releases/download/v0.220.0/Flipper-mac.dmg",
+    "sha256": "30555ffe2a645dd995b3660cecf68389e2296543f8fba440536431b4bec1b2b0"
   },
   {
     "name": "flirc",
@@ -5023,9 +5023,9 @@
   },
   {
     "name": "freedom",
-    "version": "2.18.2",
-    "url": "https://cdn.freedom.to/installers/updates/mac/2.18.2/Freedom.zip",
-    "sha256": "2201ff7d3fcd49ad6425faf9e28b06717e90d9e6ad7891ede12ad83780cf5b5b"
+    "version": "2.19.1",
+    "url": "https://cdn.freedom.to/installers/updates/mac/2.19.1/Freedom.zip",
+    "sha256": "7bb2d386c6a8de10f7db01f66703994bbb6c769854f93076319a8957baf23bfa"
   },
   {
     "name": "freemind",
@@ -5305,9 +5305,9 @@
   },
   {
     "name": "geogebra",
-    "version": "6.0.801.0",
-    "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-801-0.zip",
-    "sha256": "920786bef0eff90a40d1bf9252271af194b01655d2ff18ecc0662e3c1143cef3"
+    "version": "6.0.802.0",
+    "url": "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-802-0.zip",
+    "sha256": "80b5e86932810c6c7b0da64e7aa4793f7b73b099f22d3b0fa2a4c9a6955baf2c"
   },
   {
     "name": "geomap",
@@ -5707,9 +5707,9 @@
   },
   {
     "name": "grandtotal",
-    "version": "8.1.3.6",
-    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.3.6.dmg",
-    "sha256": "3c946b228b4a8ead5e13f630f64f73e6a3296ea6046db41496beb7c443280702"
+    "version": "8.1.3.7",
+    "url": "https://www.mediaatelier.com/GrandTotal8/GrandTotal_8.1.3.7.dmg",
+    "sha256": "aa564aa7b1768ccc4fded0512ffe9dcfa9fd0d634aa9090de16b16882c7b7f82"
   },
   {
     "name": "graphicconverter",
@@ -6151,9 +6151,9 @@
   },
   {
     "name": "http-toolkit",
-    "version": "1.14.2",
-    "url": "https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.14.2/HttpToolkit-1.14.2.dmg",
-    "sha256": "1b4933dcad443b34095cf6dfe51cd54f3c5baed28a55b063e72966d7bf6c5eef"
+    "version": "1.14.3",
+    "url": "https://github.com/httptoolkit/httptoolkit-desktop/releases/download/v1.14.3/HttpToolkit-1.14.3.dmg",
+    "sha256": "05c14b5a835c747a585de71849d5058daff2b1b3b45160760804f771793d94e8"
   },
   {
     "name": "httpie",
@@ -6895,9 +6895,9 @@
   },
   {
     "name": "jetbrains-toolbox",
-    "version": "2.0.3,2.0.3.17006",
-    "url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.0.3.17006.dmg",
-    "sha256": "50aa58e06423063299e6380061748adf97648a2767fc610026e1027d9dcc0c15"
+    "version": "2.0.4,2.0.4.17212",
+    "url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-2.0.4.17212.dmg",
+    "sha256": "b3dcb90216c2355ca5300b7d25849f15b4b3a7c978344c533793c309858396f8"
   },
   {
     "name": "jettison",
@@ -6975,7 +6975,7 @@
     "name": "jprofiler",
     "version": "14.0",
     "url": "https://download-gcdn.ej-technologies.com/jprofiler/jprofiler_macos_14_0.dmg",
-    "sha256": "9ba0d8e52d8f0f4623a1d5cb99defa09c28c551c8f03495bd8a4dffd1fc9bc88"
+    "sha256": "46674b37b3789f5d8765c5918c5a83a8ff03086aa3c827536652819d20ae110c"
   },
   {
     "name": "jquake",
@@ -7111,9 +7111,9 @@
   },
   {
     "name": "kdenlive",
-    "version": "23.08.0",
-    "url": "https://cdn.download.kde.org/stable/kdenlive/23.08/macOS/kdenlive-23.08.0.dmg",
-    "sha256": "0439dc21c8e26e35c1af8f4744234bca60d38e709de251f84a46ca2e78a2a0d1"
+    "version": "23.08.1",
+    "url": "https://cdn.download.kde.org/stable/kdenlive/23.08/macOS/kdenlive-23.08.1.dmg",
+    "sha256": "5be8a40bbb859c32d75a2bab4a6c264a57727725ea9c6fd5ada0d6443adde05a"
   },
   {
     "name": "kdiff3",
@@ -7171,9 +7171,9 @@
   },
   {
     "name": "keka",
-    "version": "1.3.3",
-    "url": "https://github.com/aonez/Keka/releases/download/v1.3.3/Keka-1.3.3.dmg",
-    "sha256": "e7a0576c2d09b521efb9f012a2b8b02eba60ccdc391d904154aa652c468431f2"
+    "version": "1.3.4",
+    "url": "https://github.com/aonez/Keka/releases/download/v1.3.4/Keka-1.3.4.dmg",
+    "sha256": "6e173b98ea77f13dcbf50842573ecffc793f8b51e196deb72cfc7f52f87b7b4d"
   },
   {
     "name": "kekaexternalhelper",
@@ -7303,9 +7303,9 @@
   },
   {
     "name": "kitty",
-    "version": "0.29.2",
-    "url": "https://github.com/kovidgoyal/kitty/releases/download/v0.29.2/kitty-0.29.2.dmg",
-    "sha256": "4ad8559658d4293ea8660646e388bc896d039b0dcf478eed8fe56b95dd9f78b8"
+    "version": "0.30.0",
+    "url": "https://github.com/kovidgoyal/kitty/releases/download/v0.30.0/kitty-0.30.0.dmg",
+    "sha256": "553627ca75395a5533dc9eeea24aa43e86bc50a2b9ce1d188a4d144f3c776e14"
   },
   {
     "name": "kiwix",
@@ -7411,9 +7411,9 @@
   },
   {
     "name": "kopiaui",
-    "version": "0.14.0",
-    "url": "https://github.com/kopia/kopia/releases/download/v0.14.0/KopiaUI-0.14.0.dmg",
-    "sha256": "5a81e91369fa7f7c0a760f6008530fee69f0b81a31999131715a4112484e0f79"
+    "version": "0.14.1",
+    "url": "https://github.com/kopia/kopia/releases/download/v0.14.1/KopiaUI-0.14.1.dmg",
+    "sha256": "640cc9746f701efe659247d6a1e7b15ed8f1617643036c0c142ef791512ff1c7"
   },
   {
     "name": "krita",
@@ -7957,9 +7957,9 @@
   },
   {
     "name": "lunar",
-    "version": "6.2.5",
-    "url": "https://static.lunar.fyi/releases/Lunar-6.2.5.dmg",
-    "sha256": "5d7fe3d6ac1757cabd99cf34881f55091bf3b2399b2ce9bc0e432f30cc706a6c"
+    "version": "6.2.6",
+    "url": "https://static.lunar.fyi/releases/Lunar-6.2.6.dmg",
+    "sha256": "63b0886ec05ea16013d47e3961d943689666077cf8715f8b4382c214dea124ec"
   },
   {
     "name": "lunar-client",
@@ -8269,9 +8269,9 @@
   },
   {
     "name": "mailbutler",
-    "version": "6714,2954227",
-    "url": "https://downloads.mailbutler.io/sparkle/public/Mailbutler_6714-2954227.zip",
-    "sha256": "f9e8b72c6b7ffe0c8276c93a80667d037479618e49a2a700c9a0e9277e065a77"
+    "version": "6818,3004614",
+    "url": "https://downloads.mailbutler.io/sparkle/public/Mailbutler_6818-3004614.zip",
+    "sha256": "d117ae9cbe932852341060819510c31b74d0a04685763a4ca78990da2cef4132"
   },
   {
     "name": "mailmaster",
@@ -8737,15 +8737,15 @@
   },
   {
     "name": "metashape",
-    "version": "2.0.2",
-    "url": "http://download.agisoft.com/metashape_2_0_2.dmg",
-    "sha256": "ac122bd2f651234ef1b8d54e5222ae5c2d75b5f3da18b607e44c59523211ab43"
+    "version": "2.0.3",
+    "url": "http://download.agisoft.com/metashape_2_0_3.dmg",
+    "sha256": "90dc0315a90b82e9501cd008796aec1f5d5b8f26cb60a5e84440d1fe6c342817"
   },
   {
     "name": "metashapepro",
-    "version": "2.0.2",
-    "url": "http://download.agisoft.com/metashape-pro_2_0_2.dmg",
-    "sha256": "e9610b826df68ac9ce70a6789ff4da48858083c3dd2a768ef784b533f27047a8"
+    "version": "2.0.3",
+    "url": "http://download.agisoft.com/metashape-pro_2_0_3.dmg",
+    "sha256": "8e9bb28994f9caafb46acf00b28bfc5c7d5c51691cdb03f2341d4622d5dc1de7"
   },
   {
     "name": "metaz",
@@ -10615,9 +10615,9 @@
   },
   {
     "name": "papers",
-    "version": "4.37.2366",
-    "url": "https://update.readcube.com/desktop/updates/Papers_Setup_4.37.2366-x64.zip",
-    "sha256": "4f8307f3ce447e6f4fc890b8bfe4dc1fd5372502adfed0c8e29a782132905e95"
+    "version": "4.37.2368",
+    "url": "https://update.readcube.com/desktop/updates/Papers_Setup_4.37.2368-x64.zip",
+    "sha256": "ee9ccd906e255df4f5072468d6a55f9b4278c464e2646ceeb36c08eac80060f2"
   },
   {
     "name": "paperspace",
@@ -10885,9 +10885,9 @@
   },
   {
     "name": "phpwebstudy",
-    "version": "1.0.50",
-    "url": "https://github.com/xpf0000/PhpWebStudy/releases/download/v1.0.50/PhpWebStudy-1.0.50-mac.zip",
-    "sha256": "712d41b33a7624bfa1b2f2b2d35900cec879d773b332539653c1317db3b9909b"
+    "version": "1.0.51",
+    "url": "https://github.com/xpf0000/PhpWebStudy/releases/download/v1.0.51/PhpWebStudy-1.0.51-mac.zip",
+    "sha256": "ddea25aac553d2f2e51e20ab84e80b641aa3114a43b8c35a85cff34fc92a5e86"
   },
   {
     "name": "pibar",
@@ -10975,9 +10975,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.141.1,stable.2,5918022",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.141.1-stable.2-ci5918022.dmg",
-    "sha256": "48e20ae47df38a64d9d0b81230467e6206f0ffd4469a1984debe6c81c4e2f342"
+    "version": "1.141.1,stable.3,5927034",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.141.1-stable.3-ci5927034.dmg",
+    "sha256": "5fc4bfd1295f076272ce3e36167b5406f2b7283869e27a3ec7d6cbca626fbc85"
   },
   {
     "name": "pixel-check",
@@ -11131,9 +11131,9 @@
   },
   {
     "name": "podman-desktop",
-    "version": "1.3.1",
-    "url": "https://github.com/containers/podman-desktop/releases/download/v1.3.1/podman-desktop-1.3.1-x64.dmg",
-    "sha256": "0e0c999ae80fe1ecfe15cd707f3610e89f3804175e3111f51c2ebce20fc77fe2"
+    "version": "1.4.0",
+    "url": "https://github.com/containers/podman-desktop/releases/download/v1.4.0/podman-desktop-1.4.0-x64.dmg",
+    "sha256": "0ec98a724bc045718e4b47372b5aa2d0fb7282a04be6a8ff855fa5db7f809580"
   },
   {
     "name": "podpisuj",
@@ -11311,15 +11311,15 @@
   },
   {
     "name": "postman",
-    "version": "10.17.3",
-    "url": "https://dl.pstmn.io/download/version/10.17.3/osx64",
-    "sha256": "2fe9bb006c789ae2257ea495f0ecc5a6cfa2aaa6a00ad2230f3e421460b29f6e"
+    "version": "10.18.2",
+    "url": "https://dl.pstmn.io/download/version/10.18.2/osx64",
+    "sha256": "204a082e28588c345171cb68ea5764aaa81f843a2f160ff77a499acd7bffd0f6"
   },
   {
     "name": "postman-agent",
-    "version": "0.4.15",
-    "url": "https://dl-agent.pstmn.io/download/version/0.4.15/osx_64",
-    "sha256": "14ef5f9352df1e06f67761cbe1c4e68459866311f3bcfae397d33298ddff669e"
+    "version": "0.4.16",
+    "url": "https://dl-agent.pstmn.io/download/version/0.4.16/osx_64",
+    "sha256": "4db569dc68d2e1ce5ec8a267ef5fc1e338a6ecf876d06e628169844a673822b5"
   },
   {
     "name": "powder-player",
@@ -12151,9 +12151,9 @@
   },
   {
     "name": "recipeui",
-    "version": "0.8.2",
-    "url": "https://github.com/RecipeUI/RecipeUI/releases/download/app-v0.8.2/RecipeUI_universal.app.tar.gz",
-    "sha256": "4ef74aa68afe673a45d7bf5bd725fcd6e08bf26cd8df32d148f5154c6d12c116"
+    "version": "0.8.3",
+    "url": "https://github.com/RecipeUI/RecipeUI/releases/download/app-v0.8.3/RecipeUI_universal.app.tar.gz",
+    "sha256": "27b901712b057d333dc9b8ff1eca7a3a66d7d2b7ea39c8f8311e443279b7fd06"
   },
   {
     "name": "rectangle",
@@ -12367,9 +12367,9 @@
   },
   {
     "name": "rewind",
-    "version": "14140.1,f6d7c07,20230915",
-    "url": "https://updates.rewind.ai/builds/main/b14140.1-main-f6d7c07.zip",
-    "sha256": "d554f72bf806cca38f23f444e686c619cab90688fcceaf066233c7e45264553d"
+    "version": "14175.1,49b226d,20230918",
+    "url": "https://updates.rewind.ai/builds/main/b14175.1-main-49b226d.zip",
+    "sha256": "908c61e1913481a116beeebbebdb42804dcc2af91a5b70aa8ab9d301fc19ba39"
   },
   {
     "name": "rhino",
@@ -12841,9 +12841,9 @@
   },
   {
     "name": "sdm",
-    "version": "21.28.0,CCDD6E012B67901A329B0E3F3262A29C7D5213F6",
-    "url": "https://downloads.strongdm.com/builds/desktop/21.28.0/darwin/universal/CCDD6E012B67901A329B0E3F3262A29C7D5213F6/SDM-21.28.0.universal.zip",
-    "sha256": "ec6f716752e7d71691a8ed3aa3a9905f0b84d0aebd26f442f6ca2ccf25304d2d"
+    "version": "21.29.0,C0D616DE4C2EB7ABBC10B777A58D4C9F98E86533",
+    "url": "https://downloads.strongdm.com/builds/desktop/21.29.0/darwin/universal/C0D616DE4C2EB7ABBC10B777A58D4C9F98E86533/SDM-21.29.0.universal.zip",
+    "sha256": "b3359f4dcb4a286bc5cbff7dc9a3531c3a2025f1f5a643f0478e87d7f435755a"
   },
   {
     "name": "seadrive",
@@ -13147,9 +13147,9 @@
   },
   {
     "name": "shureplus-motiv",
-    "version": "1.5.0",
-    "url": "https://content-files.shure.com/Software/shure_plus_motiv_desktop/1-5-0/MOTIV-Desktop-mac-1.5.0.dmg",
-    "sha256": "ad39586a16880de43ceb6fdc5bda5dce9d6d50a088cc593aa30984cc6c512fbb"
+    "version": "1.5.1",
+    "url": "https://content-files.shure.com/Software/shure_plus_motiv_desktop/1-5-1/MOTIV-Desktop-mac-1.5.1.dmg",
+    "sha256": "eff79791d7d58d2cfb3df86c1f99dd5a1da5a4aba90bffbe6c5c9beb74ad3f4f"
   },
   {
     "name": "shuttle",
@@ -13201,9 +13201,9 @@
   },
   {
     "name": "sigmaos",
-    "version": "1.11.2.1",
-    "url": "https://releases.sigmaos.com/SigmaOS-1.11.2.1.dmg",
-    "sha256": "3146ffe5548a1cf97c2ed49c5db25bf86d029ff6d5a7c27d5c1c128e6434e4c3"
+    "version": "1.11.2.2",
+    "url": "https://releases.sigmaos.com/SigmaOS-1.11.2.2.dmg",
+    "sha256": "32c2e10ee7d2e27ecad018b9fd2d03fbcba25428e28cf6ab5c545ed95ab27f15"
   },
   {
     "name": "signal",
@@ -14017,15 +14017,15 @@
   },
   {
     "name": "staruml",
-    "version": "5.1.0",
-    "url": "https://staruml.io/download/releases-v5/StarUML-5.1.0.dmg",
-    "sha256": "c21ecc5517ea3ab96c8a5a10158f77904f76cff4054349c2dea94e27fb8fe82a"
+    "version": "6.0.1",
+    "url": "https://files.staruml.io/releases-v6/StarUML-6.0.1.dmg",
+    "sha256": "43095e53aff0b327a3710b872aa20413196bca6a5e473ccc1ff3bbbf7559670b"
   },
   {
     "name": "stash",
-    "version": "2.4.0,237",
-    "url": "https://mac-release-static.stash.ws/Stash-build-237.zip",
-    "sha256": "84100a768112de88fb8299be6a06d187dfb470b2fa6c7f5f055407d713e153cb"
+    "version": "2.4.0,238",
+    "url": "https://mac-release-static.stash.ws/Stash-build-238.zip",
+    "sha256": "2e93ae5bd5f5b7fa34b402b10ecacdcb6e9ac0456f418e1ca8a2c48b48543284"
   },
   {
     "name": "stationtv-link",
@@ -14323,9 +14323,9 @@
   },
   {
     "name": "swiftformat-for-xcode",
-    "version": "0.52.3",
-    "url": "https://github.com/nicklockwood/SwiftFormat/releases/download/0.52.3/SwiftFormat.for.Xcode.app.zip",
-    "sha256": "c5c99ce20e7b9f3e2d625a6079626be50f81254a6a3db96de852cdb2a5370a85"
+    "version": "0.52.4",
+    "url": "https://github.com/nicklockwood/SwiftFormat/releases/download/0.52.4/SwiftFormat.for.Xcode.app.zip",
+    "sha256": "8f8d1a10c867753bec1cae42ebae29d4c831d965dc829f5c75cde64a2ee6bccc"
   },
   {
     "name": "swiftplantumlapp",
@@ -15679,9 +15679,9 @@
   },
   {
     "name": "unite",
-    "version": "4.5",
-    "url": "https://bzgdownloads.s3.amazonaws.com/Unite/Unite+4.5.zip",
-    "sha256": "2333abd98308b8377570e11d19fb72c3a1f3f2ebeff75dfc60585cd70e12d5f0"
+    "version": "4.6",
+    "url": "https://bzgdownloads.s3.amazonaws.com/Unite/Unite+4.6.zip",
+    "sha256": "e8f81d7d88a9903b19023e1bb473caba3c7e28b7d2639b77bf8771a2602f2bad"
   },
   {
     "name": "unite-phone",
@@ -15799,9 +15799,9 @@
   },
   {
     "name": "uvtools",
-    "version": "4.0.0",
-    "url": "https://github.com/sn4k3/UVtools/releases/download/v4.0.0/UVtools_osx-x64_v4.0.0.zip",
-    "sha256": "f6b34a604436b768f99590479643587229af3fb05fa3e0efd9be37c4627210c3"
+    "version": "4.0.1",
+    "url": "https://github.com/sn4k3/UVtools/releases/download/v4.0.1/UVtools_osx-x64_v4.0.1.zip",
+    "sha256": "4224e919690da844a50cd096de4ea0d99dfce85641f0522d4466d1e50f57bd24"
   },
   {
     "name": "uxprotect",
@@ -15889,9 +15889,9 @@
   },
   {
     "name": "veepn",
-    "version": "2.3.4",
-    "url": "https://download.veepn.com/mac/VeePN_v2.3.4.dmg",
-    "sha256": "60e5db845a6a7b61f6e7aceaa10d000ace4f0679224aa92947cbfaf6e31c26ae"
+    "version": "2.3.5",
+    "url": "https://download.veepn.com/mac/VeePN_v2.3.5.dmg",
+    "sha256": "d033d6fe5ba0df74aa7b784d7d162444f7118ebffbd32d6352d2cf85afc17f41"
   },
   {
     "name": "vellum",
@@ -16375,9 +16375,9 @@
   },
   {
     "name": "webull",
-    "version": "7.2.0",
-    "url": "https://u1sweb.webullfintech.com/us/Webull%20Desktop_7.2.0_global_universalsigned.dmg",
-    "sha256": "075381cf6d441eb39cb6be7a0843a96f122a0519b9310a19064874b638b8e2b2"
+    "version": "7.3.0",
+    "url": "https://u1sweb.webullfintech.com/us/Webull%20Desktop_7.3.0_global_universalsigned.dmg",
+    "sha256": "7d9a6afc377eb010b1aaf2b56ac567b6b20ee143ef794bc8a8f312cf42c5e649"
   },
   {
     "name": "wechatwebdevtools",
@@ -16639,9 +16639,9 @@
   },
   {
     "name": "wpsoffice-cn",
-    "version": "6.1.0,8274",
-    "url": "https://package.mac.wpscdn.cn/mac_wps_pkg/6.1.0/WPS_Office_6.1.0(8274)_x64.dmg",
-    "sha256": "14598438295838fc20518323303b61a75a15edc09321c095bd900f169e3d59d5"
+    "version": "6.2.0,8297",
+    "url": "https://package.mac.wpscdn.cn/mac_wps_pkg/6.2.0/WPS_Office_6.2.0(8297)_x64.dmg",
+    "sha256": "fb523ca69c958d9a1448c7d16b7675a593e988dab71663cf66eb4af70a1ad86e"
   },
   {
     "name": "wrike",
