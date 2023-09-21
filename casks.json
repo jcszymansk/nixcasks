@@ -727,9 +727,9 @@
   },
   {
     "name": "aptakube",
-    "version": "1.5.9",
-    "url": "https://releases.aptakube.com/Aptakube_1.5.9_universal.dmg",
-    "sha256": "f65cf0f8165b8c6793da71cc1d3576d1cedc84c8662b2ea7de35ff1ced808d17"
+    "version": "1.5.10",
+    "url": "https://releases.aptakube.com/Aptakube_1.5.10_universal.dmg",
+    "sha256": "666a55bd5efb811dfdf49684707dd5e4a8703d295c3eb7b0672f93e600ee713f"
   },
   {
     "name": "aptanastudio",
@@ -751,15 +751,15 @@
   },
   {
     "name": "araxis-merge",
-    "version": "2023.5915",
-    "url": "https://www.araxis.com/download/Merge2023.5915-macOS.dmg",
-    "sha256": "8e9372f56a3597bdea49caadab1f11e998d8686c5e2d19472ec9470db643032e"
+    "version": "2023.5953",
+    "url": "https://www.araxis.com/download/Merge2023.5953-macOS.dmg",
+    "sha256": "d33876fa6ef8330561d995c4cf52da902ad356b58710622803ade7f80ea341d1"
   },
   {
     "name": "arc",
-    "version": "1.8.1,41651",
-    "url": "https://releases.arc.net/release/Arc-1.8.1-41651.zip",
-    "sha256": "2ae026a2be888eebb7d51ecc64c1e2f9079716d877857d60234e1e4b740fff52"
+    "version": "1.9.1,41815",
+    "url": "https://releases.arc.net/release/Arc-1.9.1-41815.zip",
+    "sha256": "3bc80c668befbccc2014c59cfe340386389e605ad710542d058e01de4ca6aab7"
   },
   {
     "name": "archipelago",
@@ -1495,9 +1495,9 @@
   },
   {
     "name": "bitwarden",
-    "version": "2023.8.4",
-    "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.8.4/Bitwarden-2023.8.4-universal.dmg",
-    "sha256": "38fe29cadf03f12a8487ddeb5f770aaf09b5c69cae448dac2c708d7e898046bc"
+    "version": "2023.9.0",
+    "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2023.9.0/Bitwarden-2023.9.0-universal.dmg",
+    "sha256": "1539057aa54fd1f95f498a4a58fb66ebb9bd39a7d8751007cd0ac8eb1a69e7a7"
   },
   {
     "name": "bitwig-studio",
@@ -1525,9 +1525,9 @@
   },
   {
     "name": "blender",
-    "version": "3.6.2",
-    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.2-macos-x64.dmg",
-    "sha256": "661aa18604a38c0b25f132d5c176ae51c83c89cd89a752aa312aace1c730b204"
+    "version": "3.6.3",
+    "url": "https://download.blender.org/release/Blender3.6/blender-3.6.3-macos-x64.dmg",
+    "sha256": "ae4050e87e5d546362212bd1948f1a2212d3b5adb53a754a22fd7a271ef636aa"
   },
   {
     "name": "blender-benchmark",
@@ -1783,9 +1783,9 @@
   },
   {
     "name": "brave-browser",
-    "version": "1.58.127.0",
-    "url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/158.127/Brave-Browser-x64.dmg",
-    "sha256": "232e1aabb61ff5464d77a1df0ca4def450faa3ef5644d745b1e8c1d6a69aad5a"
+    "version": "1.58.129.0",
+    "url": "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/158.129/Brave-Browser-x64.dmg",
+    "sha256": "2a7267d577d7cb327a7e25ecd48cc03d72859c6c45bee8a14d798f9eabbf569c"
   },
   {
     "name": "breaktimer",
@@ -2047,9 +2047,9 @@
   },
   {
     "name": "camunda-modeler",
-    "version": "5.15.0",
-    "url": "https://camunda.org/release/camunda-modeler/5.15.0/camunda-modeler-5.15.0-mac.zip",
-    "sha256": "ee5d7898f69b494bbdc5d8ab258fb3f15350de7fc4d47d23b1f139d755bcd453"
+    "version": "5.15.1",
+    "url": "https://camunda.org/release/camunda-modeler/5.15.1/camunda-modeler-5.15.1-mac.zip",
+    "sha256": "93afdb1be8a0a445f5037f4e2ba4f5447495eb19fbb6aa9ee0614ae6da2ab942"
   },
   {
     "name": "candybar",
@@ -2293,9 +2293,9 @@
   },
   {
     "name": "chirp",
-    "version": "20230917",
-    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230917/chirp-next-20230917.app.zip",
-    "sha256": "2eaa33ac0e5e081f8f18d0dfde84034f2e2d64049cd96c4958994db700f680bf"
+    "version": "20230921",
+    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230921/chirp-next-20230921.app.zip",
+    "sha256": "198ec468c8cf871a49458f405ae5bea7b9323108328dcc22a2b8133d585f6877"
   },
   {
     "name": "chrome-devtools",
@@ -2371,9 +2371,9 @@
   },
   {
     "name": "clamxav",
-    "version": "3.6,10151",
-    "url": "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.6_10151.zip",
-    "sha256": "16420e7dcca8ecee94c69c1af7969e1b626847eacc2798c4bc10639ee555f3cf"
+    "version": "3.6.1,10182",
+    "url": "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.6.1_10182.zip",
+    "sha256": "c5699f993316489d022fc7d52e51cf080d2e917d83536ba62f61c132c558725f"
   },
   {
     "name": "clash-for-windows",
@@ -2401,9 +2401,9 @@
   },
   {
     "name": "clay",
-    "version": "2.12.0",
-    "url": "https://assets.clay.earth/desktop/mac/Clay-2.12.0-universal.dmg",
-    "sha256": "446898d1155c944188feee3892fd8cf75431b5e77b7f3b28e1733344ca167993"
+    "version": "2.12.1",
+    "url": "https://assets.clay.earth/desktop/mac/Clay-2.12.1-universal.dmg",
+    "sha256": "1a9d853046a552d2138f94f644a8fb4b8e163987730d86d46f83472bd52cf3a2"
   },
   {
     "name": "clean-me",
@@ -2467,9 +2467,9 @@
   },
   {
     "name": "clickup",
-    "version": "3.3.22",
-    "url": "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.3.22-x64.dmg",
-    "sha256": "249fad75d7d72c2dc8a24c3dbccc2f5b1780ddc29f96806e4aeb9f4b0d658fcd"
+    "version": "3.3.55",
+    "url": "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.3.55-x64.dmg",
+    "sha256": "a8cf7ec1063088db5876f618d0a65a63d3aaacb09c2595da52c2d9ce5cc5206f"
   },
   {
     "name": "clion",
@@ -2605,9 +2605,9 @@
   },
   {
     "name": "coconutbattery",
-    "version": "3.9.13,A1D9A9CA",
-    "url": "https://www.coconut-flavour.com/downloads/coconutBattery_3913_A1D9A9CA.zip",
-    "sha256": "9dec8c772211268442b9901c88efd06142228dbc923fed676e156fe1890bca3f"
+    "version": "3.9.13,958DC1FA",
+    "url": "https://www.coconut-flavour.com/downloads/coconutBattery_3913_958DC1FA.zip",
+    "sha256": "105a8613544110475564405c06fb360f812ac6648b1995a60b50395028f7ae6a"
   },
   {
     "name": "coconutid",
@@ -2821,9 +2821,9 @@
   },
   {
     "name": "copilot",
-    "version": "3.5.2,129-6dd783ad",
-    "url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-3.5.2-129-6dd783ad.dmg",
-    "sha256": "6dd783adb1c2c3c1b95e3fe0b7e72828e09d492c23b6b8cb4fa6e304348a49f1"
+    "version": "3.5.3,131-b68147bc",
+    "url": "https://storage.googleapis.com/copilot-mac-releases/images/Copilot-3.5.3-131-b68147bc.dmg",
+    "sha256": "b68147bc29cfc7d924d0c6535ad67e414ac9f4e0d5f1d659328771a8ddb07906"
   },
   {
     "name": "copilot-for-xcode",
@@ -3067,15 +3067,15 @@
   },
   {
     "name": "curseforge",
-    "version": "0.232.1-1",
-    "url": "https://curseforge.overwolf.com/electron/mac/CurseForge-0.232.1-1-universal-mac.zip",
-    "sha256": "e4f80e00ee75a2b335432c10de559c21893191ce2233741d6af7bd2e2b5f6afb"
+    "version": "0.234.3-1",
+    "url": "https://curseforge.overwolf.com/electron/mac/CurseForge-0.234.3-1-universal-mac.zip",
+    "sha256": "c0083cfebd4c2a4241050280f002b8ec5dac53b4f48533040d8f27b421325705"
   },
   {
     "name": "cursor",
-    "version": "0.11.0",
-    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.11.0-x64-mac.zip",
-    "sha256": "a3109ee3f8858f66ee4e2d1ef995c80154d61284fa59a7083d47b1eb1f9e695b"
+    "version": "0.11.3",
+    "url": "https://download.todesktop.com/230313mzl4w4u92/Cursor%200.11.3-x64-mac.zip",
+    "sha256": "a67fec18b84f5557545b637410d97b8aac62e411a8d57d2d10d393f4750dccff"
   },
   {
     "name": "cursr",
@@ -3439,9 +3439,9 @@
   },
   {
     "name": "descript",
-    "version": "73.1.0-release.20230915.24942",
-    "url": "https://electron.descript.com/Descript-73.1.0-release.20230915.24942.dmg",
-    "sha256": "2393d056a97d6fb09c02e70667fdc0ab8027948c8331b800bfdf97fce592f3cc"
+    "version": "73.1.3-release.20230920.25265",
+    "url": "https://electron.descript.com/Descript-73.1.3-release.20230920.25265.dmg",
+    "sha256": "c8e40ea87ed8fc54a07c2d35002cc34d3bcd97bf0ee4726eb3b40ea3911b917a"
   },
   {
     "name": "deskreen",
@@ -3571,9 +3571,9 @@
   },
   {
     "name": "dingtalk",
-    "version": "7.1.0.11_32329791",
-    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v7.1.0.11_32329791_x86.dmg",
-    "sha256": "9b598fd67708e64e50fc41dd87499cff3ffd00b31006cc2787115a7869cd6d4b"
+    "version": "7.1.0.12_32353024",
+    "url": "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v7.1.0.12_32353024_x86.dmg",
+    "sha256": "ef32a82b2f96e2e937542fa8cfa2b63e891657c12df5f7c2d0321032ff798e19"
   },
   {
     "name": "dingtalk-lite",
@@ -3871,9 +3871,9 @@
   },
   {
     "name": "dropzone",
-    "version": "4.7.4",
-    "url": "https://aptonic.com/releases/Dropzone-4.7.4.zip",
-    "sha256": "587db18a74933903f425a1bacb2661cdf037b7dda6af0b7fa00fbda9e9988679"
+    "version": "4.7.5",
+    "url": "https://aptonic.com/releases/Dropzone-4.7.5.zip",
+    "sha256": "634bdd2a1ad3046b237a58fe46cddde963cd363368a4302cde22bd80b7aa72eb"
   },
   {
     "name": "drovio",
@@ -4111,9 +4111,9 @@
   },
   {
     "name": "electerm",
-    "version": "1.32.38",
-    "url": "https://github.com/electerm/electerm/releases/download/v1.32.38/electerm-1.32.38-mac-x64.dmg",
-    "sha256": "0ae38fdba525b894f6ddbcd8080841fdcd439e92c4136e1437b8421183f42545"
+    "version": "1.32.46",
+    "url": "https://github.com/electerm/electerm/releases/download/v1.32.46/electerm-1.32.46-mac-x64.dmg",
+    "sha256": "dfeda1ab6b3d3040a94eb8f24fd76f735206cc0e700a685381784f795ab28835"
   },
   {
     "name": "electorrent",
@@ -4135,9 +4135,9 @@
   },
   {
     "name": "electron",
-    "version": "26.2.1",
-    "url": "https://github.com/electron/electron/releases/download/v26.2.1/electron-v26.2.1-darwin-x64.zip",
-    "sha256": "007413187793c94cd248f52d3e00e2d95ed73b7a3b2c5a618f22eba7af94cd1a"
+    "version": "26.2.2",
+    "url": "https://github.com/electron/electron/releases/download/v26.2.2/electron-v26.2.2-darwin-x64.zip",
+    "sha256": "eddc1340d7663766b3a5e6c91ed5b5a58947f1d23dc909eb20ad1e4bbcb1542a"
   },
   {
     "name": "electron-api-demos",
@@ -4153,9 +4153,9 @@
   },
   {
     "name": "electron-fiddle",
-    "version": "0.34.0",
-    "url": "https://github.com/electron/fiddle/releases/download/v0.34.0/Electron.Fiddle-darwin-x64-0.34.0.zip",
-    "sha256": "565de4ebe11c70620d6c235daa6ce57149fec8a2cd2d834faa42c66250654819"
+    "version": "0.34.1",
+    "url": "https://github.com/electron/fiddle/releases/download/v0.34.1/Electron.Fiddle-darwin-x64-0.34.1.zip",
+    "sha256": "23fc6bee51fe13522c69e52099a0250d0b74704b249d29bcb35470679e622125"
   },
   {
     "name": "electronic-wechat",
@@ -4201,9 +4201,9 @@
   },
   {
     "name": "elephicon",
-    "version": "2.6.2",
-    "url": "https://github.com/sprout2000/elephicon/releases/download/v2.6.2/Elephicon-2.6.2-darwin-x64.dmg",
-    "sha256": "4e0a9d50ce2de9fe3987846bf149a88667aa2c688b16cb256af4bd0dc39c60c2"
+    "version": "2.6.3",
+    "url": "https://github.com/sprout2000/elephicon/releases/download/v2.6.3/Elephicon-2.6.3-darwin-x64.dmg",
+    "sha256": "c1d2f463422826e4456f49c41cb896f9f96ea9654089d4cff23ca0a6f9a7cf41"
   },
   {
     "name": "elgato-control-center",
@@ -4471,9 +4471,9 @@
   },
   {
     "name": "fantastical",
-    "version": "3.8.1",
-    "url": "https://cdn.flexibits.com/Fantastical_3.8.1.zip",
-    "sha256": "93b54de8387bc9cfbfe912599c8e29fb79930fabb415974775cc019530ceeaaf"
+    "version": "3.8.2",
+    "url": "https://cdn.flexibits.com/Fantastical_3.8.2.zip",
+    "sha256": "0fda73b34863e386070aad2922e1b5b4ed543f9319f191620c3bea51fb131130"
   },
   {
     "name": "fantasy-map-generator",
@@ -4681,9 +4681,9 @@
   },
   {
     "name": "firefly-shimmer",
-    "version": "2.1.6",
-    "url": "https://github.com/iotaledger/firefly/releases/download/desktop-2.1.6/firefly-desktop-2.1.6.dmg",
-    "sha256": "c8ebd8bbacccef2e9d913aa892e66e8d094a08f4dd196874409d224b68e8b62f"
+    "version": "2.1.7",
+    "url": "https://github.com/iotaledger/firefly/releases/download/desktop-2.1.7/firefly-desktop-2.1.7.dmg",
+    "sha256": "50accf84c0f23ba95519ffa340e00c7fbcbfe1c0517f840286ff4973f091ffd3"
   },
   {
     "name": "firefox",
@@ -4759,9 +4759,9 @@
   },
   {
     "name": "flipper",
-    "version": "0.220.0",
-    "url": "https://github.com/facebook/flipper/releases/download/v0.220.0/Flipper-mac.dmg",
-    "sha256": "30555ffe2a645dd995b3660cecf68389e2296543f8fba440536431b4bec1b2b0"
+    "version": "0.221.0",
+    "url": "https://github.com/facebook/flipper/releases/download/v0.221.0/Flipper-mac.dmg",
+    "sha256": "d06b8339a9d6df8df489266ea87e180d4e59fcd77d670e9291c6a4061e3e0fcc"
   },
   {
     "name": "flirc",
@@ -5461,9 +5461,9 @@
   },
   {
     "name": "github",
-    "version": "3.3.2-567a84ed",
-    "url": "https://desktop.githubusercontent.com/github-desktop/releases/3.3.2-567a84ed/GitHubDesktop-x64.zip",
-    "sha256": "5a3e586c247aeadf381feb38b5230956c49afb3b9d5b9953b49d6399de89fa7a"
+    "version": "3.3.3-abf8a692",
+    "url": "https://desktop.githubusercontent.com/github-desktop/releases/3.3.3-abf8a692/GitHubDesktop-x64.zip",
+    "sha256": "3f4c7e170382510dd80f451bad735c374f3b813b6f0a287d10d457dede5cb86d"
   },
   {
     "name": "gitify",
@@ -6102,12 +6102,6 @@
     "sha256": "90ca5f61de4912f7958bd690e424fa3e962e69459ca0a796a7737da712984b4b"
   },
   {
-    "name": "hopper-debugger-server",
-    "version": "2.7",
-    "url": "https://www.hopperapp.com/HopperGDBServer/HopperDebuggerServer-2.7.zip",
-    "sha256": "dd23a36d3ee52c972c251f692491878509beeadced79a85f170d8113de21dc28"
-  },
-  {
     "name": "horos",
     "version": "4.0.0",
     "url": "https://horosproject.org/horos-content/Horos4.0.0.dmg",
@@ -6145,9 +6139,9 @@
   },
   {
     "name": "hstracker",
-    "version": "2.5.4",
-    "url": "https://github.com/HearthSim/HSTracker/releases/download/2.5.4/HSTracker.app.zip",
-    "sha256": "7f7f0128c4cad4f55e157d11c0f2a32a1941d3dcffde2801b78be066133a7ac5"
+    "version": "2.5.6",
+    "url": "https://github.com/HearthSim/HSTracker/releases/download/2.5.6/HSTracker.app.zip",
+    "sha256": "66d2b4a6cbd8a32a64bd1c23d8ce59f65a89121b42697151807fdaeef1bf2ebc"
   },
   {
     "name": "html-mangareader",
@@ -6193,9 +6187,9 @@
   },
   {
     "name": "hydrus-network",
-    "version": "543",
-    "url": "https://github.com/hydrusnetwork/hydrus/releases/download/v543/Hydrus.Network.543.-.macOS.-.App.dmg",
-    "sha256": "a4bb30f937fca5bbe0bb95621d3647a2a238e63696c1b688ee0b62010df0d0f3"
+    "version": "544",
+    "url": "https://github.com/hydrusnetwork/hydrus/releases/download/v544/Hydrus.Network.544.-.macOS.-.App.dmg",
+    "sha256": "714c2acc3983e67983816e31879b07db5a41c34080cdddd8d7839ab192afe653"
   },
   {
     "name": "hyper",
@@ -6541,9 +6535,9 @@
   },
   {
     "name": "internxt-drive",
-    "version": "1.9.9",
-    "url": "https://github.com/internxt/drive-desktop/releases/download/v1.9.9/internxt-drive-1.9.9.dmg",
-    "sha256": "7670c21b8d0721c9ce8526d0619bee9bdc75af023b48507217f47d3ca84c826a"
+    "version": "2.0.0",
+    "url": "https://github.com/internxt/drive-desktop/releases/download/v2.0.0/internxt-drive-2.0.0.dmg",
+    "sha256": "0a218560e645a99d65c052597ab125a148c93827bf27b5c2060213c6127418e5"
   },
   {
     "name": "invesalius",
@@ -6919,9 +6913,9 @@
   },
   {
     "name": "jgrennison-openttd",
-    "version": "0.55.1",
-    "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.55.1/openttd-jgrpp-0.55.1-macos-universal.dmg",
-    "sha256": "2da410932aa1f2225606ef799c9b63f9fbe68a42f9079f9220051a350eac5099"
+    "version": "0.55.2",
+    "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.55.2/openttd-jgrpp-0.55.2-macos-universal.dmg",
+    "sha256": "1b56047fbe5049bf60c8eafc7622ac21854f5f85aea399a645cb5e643ca4993c"
   },
   {
     "name": "jitsi",
@@ -7561,9 +7555,9 @@
   },
   {
     "name": "launchbar",
-    "version": "6.18.1",
-    "url": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.18.1.dmg",
-    "sha256": "af0d464ae321e9c6046b035fa9ddbde8ec4b642748c934a45ed5b7c86519a9d9"
+    "version": "6.18.2",
+    "url": "https://www.obdev.at/downloads/launchbar/LaunchBar-6.18.2.dmg",
+    "sha256": "6ff5542b480c0d6fc65927ac3edc1a7a986218fb1fde7185caf4b0169eaf9d72"
   },
   {
     "name": "launchcontrol",
@@ -7609,9 +7603,9 @@
   },
   {
     "name": "leapp",
-    "version": "0.20.0",
-    "url": "https://asset.noovolari.com/0.20.0/Leapp-0.20.0.dmg",
-    "sha256": "84ff31469ae0b2eae8abc9daa27ec1514c8a5179a7ac1b5f3b1caececf3d6fef"
+    "version": "0.20.1",
+    "url": "https://asset.noovolari.com/0.20.1/Leapp-0.20.1.dmg",
+    "sha256": "8c074c0aef32b722b30aac25678b5a788e07266665eae31096aea25588073321"
   },
   {
     "name": "lectrote",
@@ -8899,9 +8893,9 @@
   },
   {
     "name": "millie",
-    "version": "5.13.2",
-    "url": "https://apis.millie.co.kr/v1/download/installer/mac/Millie-5.13.2.dmg",
-    "sha256": "ea005edac77a6f7c65260890e0aac92e162c3115d7ea737933063caa88ae18e8"
+    "version": "5.14.7",
+    "url": "https://apis.millie.co.kr/v1/download/installer/mac/Millie-5.14.7.dmg",
+    "sha256": "8a9f6e3c63e99e62d3a042f3d23d30a64c0225bc6e1763988b60ea60763f0472"
   },
   {
     "name": "miln-movie-splitter",
@@ -9925,9 +9919,9 @@
   },
   {
     "name": "nozbe",
-    "version": "2023.30",
-    "url": "https://builds.nozbe.com/mac/2023.30/Nozbe.app.zip",
-    "sha256": "e16df40a78570d8bc93952c880edbc9cdee51cb37f662eb94409fac32d0364e3"
+    "version": "2023.32",
+    "url": "https://builds.nozbe.com/mac/2023.32/Nozbe.app.zip",
+    "sha256": "a907cd4dcc139319c16f1f9884702164fa732b1f68d379791f8f1ce5ed26fe44"
   },
   {
     "name": "nrlquaker-winbox",
@@ -10087,9 +10081,9 @@
   },
   {
     "name": "omnifocus",
-    "version": "3.14.4",
-    "url": "https://downloads.omnigroup.com/software/macOS/11/OmniFocus-3.14.4.dmg",
-    "sha256": "007f3eb964e0c164c1ccd7b439a0032cd1f7dc230ba07e3c90189468640966f6"
+    "version": "3.15",
+    "url": "https://downloads.omnigroup.com/software/macOS/11/OmniFocus-3.15.dmg",
+    "sha256": "e34bbeb3d52372289031a7bee2c11c78bf36229e51bc0045ad8edc6c141f7840"
   },
   {
     "name": "omnigraffle",
@@ -10105,9 +10099,9 @@
   },
   {
     "name": "omniplan",
-    "version": "4.5.5",
-    "url": "https://downloads.omnigroup.com/software/macOS/11/OmniPlan-4.5.5.dmg",
-    "sha256": "71b74ef0523fbea7147806e4b6bbcfbc17c9f01bff0a32b8b809f6473052739e"
+    "version": "4.6",
+    "url": "https://downloads.omnigroup.com/software/macOS/11/OmniPlan-4.6.dmg",
+    "sha256": "2d674c80ee5c60e3697a38b4933084958ea2b1f990a28827722b803257e7722d"
   },
   {
     "name": "omnipresence",
@@ -10357,9 +10351,9 @@
   },
   {
     "name": "opera-gx",
-    "version": "102.0.4880.55",
-    "url": "https://get.geo.opera.com/pub/opera_gx/102.0.4880.55/mac/Opera_GX_102.0.4880.55_Setup.dmg",
-    "sha256": "9577dd9141108f866c4c47133c6062e3bc916af1956c8dfc8d7f820569ffb8a9"
+    "version": "102.0.4880.64",
+    "url": "https://get.geo.opera.com/pub/opera_gx/102.0.4880.64/mac/Opera_GX_102.0.4880.64_Setup.dmg",
+    "sha256": "5ef249a6ac4119fbe91b1f63181581fd7f0e553b23f2ef8f6bfd1670cb9a8e4f"
   },
   {
     "name": "opera-mobile-emulator",
@@ -10399,9 +10393,9 @@
   },
   {
     "name": "orbstack",
-    "version": "0.17.3_16179",
-    "url": "https://cdn-updates.orbstack.dev/amd64/OrbStack_v0.17.3_16179_amd64.dmg",
-    "sha256": "d14a2ff80d4afb08760fc9c43f9c113eb8d6faafee1528f9397301ffc9cf48be"
+    "version": "1.0.0_16221",
+    "url": "https://cdn-updates.orbstack.dev/amd64/OrbStack_v1.0.0_16221_amd64.dmg",
+    "sha256": "702639f315ac5240f283d1e989d16f1e364297ae07f438b7fbdf42ab850fd6c2"
   },
   {
     "name": "orca",
@@ -10849,9 +10843,9 @@
   },
   {
     "name": "pgadmin4",
-    "version": "7.6",
-    "url": "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v7.6/macos/pgadmin4-7.6-x86_64.dmg",
-    "sha256": "9b7fd958f0e163c323768a5e37034c45f82968f5b19ae1a996aefd3e77bf0342"
+    "version": "7.7",
+    "url": "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v7.7/macos/pgadmin4-7.7-x86_64.dmg",
+    "sha256": "9bf48155f8803d3151ea0b649dee739ebe7d7f6e3b994e5f753f3617bc64abac"
   },
   {
     "name": "phd2",
@@ -10981,9 +10975,9 @@
   },
   {
     "name": "pitch",
-    "version": "1.142.0,stable.2,5939595",
-    "url": "https://desktop-app-builds.pitch.com/Pitch-1.142.0-stable.2-ci5939595.dmg",
-    "sha256": "a45aa081736975ddca875bbdade3b39643a398013b4414187edbc081795faa78"
+    "version": "1.142.0,stable.3,5946223",
+    "url": "https://desktop-app-builds.pitch.com/Pitch-1.142.0-stable.3-ci5946223.dmg",
+    "sha256": "afd0e10647d96eccb88f9e40d245a85d92b5875cc98fa588a97b6f5f685c09c3"
   },
   {
     "name": "pixel-check",
@@ -11011,9 +11005,9 @@
   },
   {
     "name": "planet",
-    "version": "0.14.1",
-    "url": "https://github.com/Planetable/Planet/releases/download/release-0.14.1/Planet.zip",
-    "sha256": "13ed8e12e807a1523f57d5c5bfd1d13c021471a37eb3e4522b80d8025a9498d4"
+    "version": "0.15.0",
+    "url": "https://github.com/Planetable/Planet/releases/download/release-0.15.0/Planet.zip",
+    "sha256": "0e0bbd78815d30afa529161d8c8a45673e23e11c357ccb36c0ef3e1a3387c773"
   },
   {
     "name": "platypus",
@@ -11521,9 +11515,9 @@
   },
   {
     "name": "protokol",
-    "version": "0.5.1,101",
-    "url": "https://hexler.net/pub/protokol/protokol-0.5.1.101-macos.dmg",
-    "sha256": "897b92a8187d7300dfb7071632957c541ec53bd2651146ecd4c73b737f28095c"
+    "version": "0.5.2,102",
+    "url": "https://hexler.net/pub/protokol/protokol-0.5.2.102-macos.dmg",
+    "sha256": "4a0a1c81af9bbae773c1a94b9a007e65e131de70982aa5de92b961ee9564efb4"
   },
   {
     "name": "protonvpn",
@@ -11827,9 +11821,9 @@
   },
   {
     "name": "qqlive",
-    "version": "2.78.0.53792",
-    "url": "https://dldir1.qq.com/qqtv/mac/TencentVideo2.78.0.53792.dmg",
-    "sha256": "757f9686076d23fb941c0de256ea59b55f8acfef358a4e4da6171e813b268630"
+    "version": "2.79.0.53799",
+    "url": "https://dldir1.qq.com/qqtv/mac/TencentVideo2.79.0.53799.dmg",
+    "sha256": "9bb6eed2dfa7d46aa47d518fda535d9a5194711a4965a88269a33537aa830fcb"
   },
   {
     "name": "qqmacmgr",
@@ -11923,9 +11917,9 @@
   },
   {
     "name": "quicken",
-    "version": "7.2.2,702.49933.100",
-    "url": "https://download.quicken.com/mac/Quicken/001/Release/031A96D9-EFE6-4520-8B6A-7F465DDAA3E4/Quicken-702.49933.100/Quicken-702.49933.100.zip",
-    "sha256": "b2924695ba9afeac2f9051a2d18571aa17f3a92d3a80dbfcf23b7cc5611b7719"
+    "version": "7.2.3,702.49949.100",
+    "url": "https://download.quicken.com/mac/Quicken/001/Release/031A96D9-EFE6-4520-8B6A-7F465DDAA3E4/Quicken-702.49949.100/Quicken-702.49949.100.zip",
+    "sha256": "ac09f6db9ca8b2bbb0cdbdd993fa34c79e3d14f3ee0bf8850c605795f11dccf2"
   },
   {
     "name": "quickhash",
@@ -12085,9 +12079,9 @@
   },
   {
     "name": "raycast",
-    "version": "1.58.1",
-    "url": "https://releases.raycast.com/releases/1.58.1/download?build=universal",
-    "sha256": "473ed0cd6f4964dce583b20107dbd253abbb1f86731469d629190e38793c5fc4"
+    "version": "1.59.0",
+    "url": "https://releases.raycast.com/releases/1.59.0/download?build=universal",
+    "sha256": "100f03cdf26d77594cd3f3756d0f31f4643c2a220bc1128f2052a4e9795a0618"
   },
   {
     "name": "raze",
@@ -12199,9 +12193,9 @@
   },
   {
     "name": "reflect",
-    "version": "2.1.0",
-    "url": "https://github.com/team-reflect/reflect-electron-updates/releases/download/v2.1.0/Reflect-darwin-x64-2.1.0.zip",
-    "sha256": "16ac16ab0db3328b606a79b6afd4ef993792ba7830bb746217c2cdf5f7b8e117"
+    "version": "2.1.1",
+    "url": "https://github.com/team-reflect/reflect-electron-updates/releases/download/v2.1.1/Reflect-darwin-x64-2.1.1.zip",
+    "sha256": "873149a5284fd0902d589c5f50352703dc6e0fcfaa376b741aa3cbc8ee32e9e6"
   },
   {
     "name": "reflector",
@@ -12295,9 +12289,9 @@
   },
   {
     "name": "reqable",
-    "version": "1.4.1",
+    "version": "1.5.0",
     "url": "https://api.reqable.com/download?platform=macos&arch=x86_64",
-    "sha256": "dfcfb2bd5b353c7f72ec3747cdfcebdad7de1c9e077d90365df4157abbbc93f7"
+    "sha256": "c6eb7034e3d373a0e30b011a896e1093cf7deef53cc7e3e9d2e4ab42ab236eda"
   },
   {
     "name": "resilio-sync",
@@ -12379,9 +12373,9 @@
   },
   {
     "name": "rewind",
-    "version": "14175.1,49b226d,20230918",
-    "url": "https://updates.rewind.ai/builds/main/b14175.1-main-49b226d.zip",
-    "sha256": "908c61e1913481a116beeebbebdb42804dcc2af91a5b70aa8ab9d301fc19ba39"
+    "version": "14270.1,8c61696,20230921",
+    "url": "https://updates.rewind.ai/builds/main/b14270.1-main-8c61696.zip",
+    "sha256": "9816e6698989af6714d2bb30a144fec427ccd922c4ad32934368674c1dfe6e3e"
   },
   {
     "name": "rhino",
@@ -12439,9 +12433,9 @@
   },
   {
     "name": "rive",
-    "version": "0.8.766",
-    "url": "https://releases.rive.app/macos/0.8.766/Rive.dmg",
-    "sha256": "409eb5c14286354c7ade44428bca6d3b1b3d8448db6be4979ceb5863900674b8"
+    "version": "0.8.780",
+    "url": "https://releases.rive.app/macos/0.8.780/Rive.dmg",
+    "sha256": "d381962dd11586174e9c112f7bea6c45e8d45ad63d947e847e2ba2b02299b582"
   },
   {
     "name": "roam-research",
@@ -12481,9 +12475,9 @@
   },
   {
     "name": "rocket-chat",
-    "version": "3.9.7",
-    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.7/rocketchat-3.9.7-mac.dmg",
-    "sha256": "2fd58a60051ea75f1127a58b07236f5b33167f8fdc07ea2ffc7e6430ddd8e566"
+    "version": "3.9.8",
+    "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.9.8/rocketchat-3.9.8-mac.dmg",
+    "sha256": "131dc0222f0490e168dbd13682eb10dd7ddc226d76d3f8bff620572cb3b0f62d"
   },
   {
     "name": "rocks-n-diamonds",
@@ -12517,9 +12511,9 @@
   },
   {
     "name": "rotki",
-    "version": "1.30.1",
-    "url": "https://github.com/rotki/rotki/releases/download/v1.30.1/rotki-darwin_x64-v1.30.1.dmg",
-    "sha256": "daeee2031c84af4fe2d714fb181a9d7bd27859f18b725e411f4684c932f07cf5"
+    "version": "1.30.2",
+    "url": "https://github.com/rotki/rotki/releases/download/v1.30.2/rotki-darwin_x64-v1.30.2.dmg",
+    "sha256": "2c3b391449810dfa17ab2c6fc08a47e6ddec5b064cfdedc9c334fbb9661e2338"
   },
   {
     "name": "routebuddy",
@@ -12805,9 +12799,9 @@
   },
   {
     "name": "screens",
-    "version": "4.12.12,1694618697",
-    "url": "https://updates.edovia.com/com.edovia.screens4.mac/Screens_4.12.12b1694618697.zip",
-    "sha256": "36e0a106f30d44d294e872acf36aac51cc92a66b234d6cc108b4927b6087752e"
+    "version": "4.12.14,1695305390",
+    "url": "https://updates.edovia.com/com.edovia.screens4.mac/Screens_4.12.14b1695305390.zip",
+    "sha256": "efff958a87ec9fae1de3e70eb6e0dc9ed54f196f278ad43d7d11e904ec8caf05"
   },
   {
     "name": "screens-connect",
@@ -12877,9 +12871,9 @@
   },
   {
     "name": "seamonkey",
-    "version": "2.53.17",
-    "url": "https://archive.mozilla.org/pub/seamonkey/releases/2.53.17/mac/en-US/seamonkey-2.53.17.en-US.mac.dmg",
-    "sha256": "1dfbbaebec46ac73e0110dcf2c514d4ab6fbc97e5a662566222871c0ae94e4db"
+    "version": "2.53.17.1",
+    "url": "https://archive.mozilla.org/pub/seamonkey/releases/2.53.17.1/mac/en-US/seamonkey-2.53.17.1.en-US.mac.dmg",
+    "sha256": "50613ed3043c8313cd95eef0d5cf7d9173a27a6f0e18de106645d8b19994afb7"
   },
   {
     "name": "second-life-viewer",
@@ -13219,9 +13213,9 @@
   },
   {
     "name": "signal",
-    "version": "6.30.2",
-    "url": "https://updates.signal.org/desktop/signal-desktop-mac-x64-6.30.2.dmg",
-    "sha256": "878a97cf5e1b1e8dc81e21c33e743510e0ea122b987c904623a0ab22e6bf23f2"
+    "version": "6.31.0",
+    "url": "https://updates.signal.org/desktop/signal-desktop-mac-x64-6.31.0.dmg",
+    "sha256": "7d275ee32f0c7653392dac006d011a3e0b769fd69334dde94d3bac6d13005bff"
   },
   {
     "name": "signet",
@@ -13321,9 +13315,9 @@
   },
   {
     "name": "sip",
-    "version": "3.1",
-    "url": "https://sipapp.fra1.digitaloceanspaces.com/updates/v3/sip-3.1.dmg",
-    "sha256": "de954067926a732d791295ef81b8377a8b0fee7555be5895fe39bf7b6d95e66a"
+    "version": "3.1.1",
+    "url": "https://sipapp.fra1.digitaloceanspaces.com/updates/v3/sip-3.1.1.dmg",
+    "sha256": "359a2b25ab0bfcb043962eac6cd211112a7e09312d2dd9948bcd90a0c86a306d"
   },
   {
     "name": "sipgate-softphone",
@@ -13501,9 +13495,9 @@
   },
   {
     "name": "snagit",
-    "version": "2023.2.2",
-    "url": "https://download.techsmith.com/snagitmac/releases/2322/snagit.dmg",
-    "sha256": "7b939f1a6d0ff73a58848f3ef66a7406abcca93491a8f8ba134efb254dfb122e"
+    "version": "2023.2.3",
+    "url": "https://download.techsmith.com/snagitmac/releases/2323/snagit.dmg",
+    "sha256": "587a2b84b1da1170e9da78a40d1c49a5b07e21527f5085b83fab67f2b7f51194"
   },
   {
     "name": "snapmaker-luban",
@@ -13531,9 +13525,9 @@
   },
   {
     "name": "snipaste",
-    "version": "2.8.5-Beta",
-    "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.5-Beta.dmg",
-    "sha256": "46ecdaf721aefeafa97681c82c0404bc2b67056bfcab1f03f922b501d017897a"
+    "version": "2.8.6-Beta",
+    "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.6-Beta.dmg",
+    "sha256": "b6f6a6020eff2328cedf9d748fbae667ad1b68a47ab435f64b5f4bb053e54999"
   },
   {
     "name": "snipy",
@@ -13723,9 +13717,9 @@
   },
   {
     "name": "spamsieve",
-    "version": "2.9.52",
-    "url": "https://c-command.com/downloads/SpamSieve-2.9.52.dmg",
-    "sha256": "5f08171ee69616b1948d7ddd8d003152552841092a831ef2f145649e4b211406"
+    "version": "3.0",
+    "url": "https://c-command.com/downloads/SpamSieve-3.0.dmg",
+    "sha256": "a7ead3be30dfc4f92189f8738851fa4f19f17a8b3598fb8178d643ee01a3be2b"
   },
   {
     "name": "sparkle",
@@ -13777,9 +13771,9 @@
   },
   {
     "name": "specter",
-    "version": "2.0.1",
-    "url": "https://github.com/cryptoadvance/specter-desktop/releases/download/v2.0.1/Specter-v2.0.1.dmg",
-    "sha256": "f13ef3e0aecc67441c2d590dec2a9dec2a4d5816ee4ac062bada466dbf6143ac"
+    "version": "2.0.2",
+    "url": "https://github.com/cryptoadvance/specter-desktop/releases/download/v2.0.2/Specter-v2.0.2.dmg",
+    "sha256": "20bfd7c4daea70499ab3e04831fb006867cb21c7299aad282ca566b35cd4e7fd"
   },
   {
     "name": "speedcrunch",
@@ -14137,9 +14131,9 @@
   },
   {
     "name": "stremio",
-    "version": "4.4.160",
-    "url": "https://dl.strem.io/shell-osx/v4.4.160/Stremio+4.4.160.dmg",
-    "sha256": "8ef33a44bb7b29c6000d1d878c69966e22d029f71a806526c36b90177c350c10"
+    "version": "4.4.164",
+    "url": "https://dl.strem.io/shell-osx/v4.4.164/Stremio+4.4.164.dmg",
+    "sha256": "6c29c672e7d1f3181de3275f7c73898e203c121ccb85c8e229955bc80c905671"
   },
   {
     "name": "stretchly",
@@ -14245,9 +14239,9 @@
   },
   {
     "name": "superhuman",
-    "version": "25.0.0",
-    "url": "https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-25.0.0-latest-mac.zip",
-    "sha256": "6eb3b68556471f81cfa62c37d0c700cbd897e9888a216df494330bd952a4b96e"
+    "version": "25.0.2",
+    "url": "https://storage.googleapis.com/download.superhuman.com/supertron-update/Superhuman-25.0.2-latest-mac.zip",
+    "sha256": "69ca5fd961997bf1ffdd4998cc3737c0af8f15dfbaf5e1820de02c7b6a83550c"
   },
   {
     "name": "superkey",
@@ -14641,9 +14635,9 @@
   },
   {
     "name": "teleport-connect",
-    "version": "13.3.8",
-    "url": "https://cdn.teleport.dev/Teleport%20Connect-13.3.8.dmg",
-    "sha256": "4904c685a6434f584ce93dc9da80f7eb3da2863c6042de9dca4bcb8836f163ca"
+    "version": "14.0.0",
+    "url": "https://cdn.teleport.dev/Teleport%20Connect-14.0.0.dmg",
+    "sha256": "48e84b06387db255833e1f50a50872a8f256f8ab6f051fd1a6ec21814d6a3e6d"
   },
   {
     "name": "tempbox",
@@ -14905,9 +14899,9 @@
   },
   {
     "name": "thunderbird",
-    "version": "115.2.2",
-    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.2.2/mac/en-US/Thunderbird%20115.2.2.dmg",
-    "sha256": "3811c82037545c4a075a13e20e6f10010c40b4f524e310801ed37a71061fdc0f"
+    "version": "115.2.3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/115.2.3/mac/en-US/Thunderbird%20115.2.3.dmg",
+    "sha256": "d77b1fe703ca6437f3f266721ada3f41fd151c9147089466f1bc58dccc166387"
   },
   {
     "name": "thyme",
@@ -15373,9 +15367,9 @@
   },
   {
     "name": "trezor-suite",
-    "version": "23.8.1",
-    "url": "https://suite.trezor.io/web/static/desktop/Trezor-Suite-23.8.1-mac-x64.dmg",
-    "sha256": "cd4d382af1ff2a47fdae4194d578c2bf12a2281955ddc183ba788c0c5b3c96de"
+    "version": "23.9.3",
+    "url": "https://suite.trezor.io/web/static/desktop/Trezor-Suite-23.9.3-mac-x64.dmg",
+    "sha256": "d658cd5d9c027608d081b3fb72d448b4db63bed98a870bbff12021f139a92e83"
   },
   {
     "name": "tribler",
@@ -15541,9 +15535,9 @@
   },
   {
     "name": "typora",
-    "version": "1.7.4",
-    "url": "https://download.typora.io/mac/Typora-1.7.4.dmg",
-    "sha256": "1c30a0a7e04fe24d72743b208b60a25a12bec896207f6dbe166fc872ef7b93ef"
+    "version": "1.7.5",
+    "url": "https://download.typora.io/mac/Typora-1.7.5.dmg",
+    "sha256": "6449f61ef39ec5a8fd4d480e05efff28d7464ed3843b1e6d5d0688fb943e911a"
   },
   {
     "name": "tysimulator",
@@ -15895,9 +15889,9 @@
   },
   {
     "name": "vassal",
-    "version": "3.7.0",
-    "url": "https://github.com/vassalengine/vassal/releases/download/3.7.0/VASSAL-3.7.0-macos-x86_64.dmg",
-    "sha256": "f7a97ebb061d7afeb908d5a5d76312740ea76c86eef6a98358adf9d551d4482e"
+    "version": "3.7.1",
+    "url": "https://github.com/vassalengine/vassal/releases/download/3.7.1/VASSAL-3.7.1-macos-x86_64.dmg",
+    "sha256": "b2328641728af6fc751aaeedf0c9686baff62d2408e03cfcac5e01482621d4fb"
   },
   {
     "name": "ved",
@@ -15961,9 +15955,9 @@
   },
   {
     "name": "videofusion",
-    "version": "4.5.2.9137",
-    "url": "https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_4_5_2_9137_jianyingpro_0_creatortool.dmg",
-    "sha256": "c2812963524d294e8af3a3a6a7c1597507d766a075dbd1b8fe1fa3efac530308"
+    "version": "4.6.0.9242",
+    "url": "https://lf3-package.vlabstatic.com/obj/faceu-packages/Jianying_4_6_0_9242_jianyingpro_0_creatortool.dmg",
+    "sha256": "df58df0ba5ad55b988bbe37423c93d9b7445cf16e0772238a651fa4e9d8a6bfc"
   },
   {
     "name": "vidl",
@@ -16621,9 +16615,9 @@
   },
   {
     "name": "workflowy",
-    "version": "4.0.2309121609",
-    "url": "https://github.com/workflowy/desktop/releases/download/v4.0.2309121609/WorkFlowy.zip",
-    "sha256": "3200f9160f1c965051fac33c03e1fc6475973f39a254679469c4397e0b6b4b38"
+    "version": "4.0.2309211009",
+    "url": "https://github.com/workflowy/desktop/releases/download/v4.0.2309211009/WorkFlowy.zip",
+    "sha256": "32846c87795743afee4d508d2ce2d7a6844aaa4a4669ca848e7352cc92ebed2f"
   },
   {
     "name": "workspaces",
@@ -16951,9 +16945,9 @@
   },
   {
     "name": "youdaonote",
-    "version": "7.2.10",
-    "url": "https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0-7.2.10.zip",
-    "sha256": "065b10499fa1c4810b9c52652d42ca62944c6e089d1910426a1a8b8571ca50bd"
+    "version": "7.2.11",
+    "url": "https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0-7.2.11.zip",
+    "sha256": "0aa56cda125d3040bd7e07bcdc8474bc8592eae6afc0e653b64c741833577373"
   },
   {
     "name": "youku",
@@ -17047,9 +17041,9 @@
   },
   {
     "name": "zed",
-    "version": "0.103.1",
-    "url": "https://zed.dev/api/releases/stable/0.103.1/Zed.dmg",
-    "sha256": "033bda2cb8602a0283c808538d552f84f1033eb312e2a67c7927d13c8fa1be31"
+    "version": "0.104.4",
+    "url": "https://zed.dev/api/releases/stable/0.104.4/Zed.dmg",
+    "sha256": "42a7b30ad5ec2ffeb764e418a8caebb3e8e0f430768c84637f39c534f04742b3"
   },
   {
     "name": "zeebe-modeler",
