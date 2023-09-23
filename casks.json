@@ -457,9 +457,9 @@
   },
   {
     "name": "amazon-chime",
-    "version": "5.22.22088",
-    "url": "https://clients.chime.aws/mac-nme/AmazonChime-5.22.22088.dmg",
-    "sha256": "f56300a367a3142cc12a64b98c4c50a5d5e9d50f0f0c897855983f944750c26a"
+    "version": "5.22.22108",
+    "url": "https://clients.chime.aws/mac-nme/AmazonChime-5.22.22108.dmg",
+    "sha256": "5ef9754cbdf59e2e1824c67cbf72b54e0acad95d4ca2c9c2460dcadf3737822f"
   },
   {
     "name": "amazon-workdocs",
@@ -3895,9 +3895,9 @@
   },
   {
     "name": "duckduckgo",
-    "version": "1.57.0",
-    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.57.0.dmg",
-    "sha256": "3463fd11be747d556d6192e989d54494458db8f492d4af69feaab7002040d0c3"
+    "version": "1.57.1",
+    "url": "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-1.57.1.dmg",
+    "sha256": "75921fbbcfb1171bf0c21ad719a4d539153592e6aa7440d2cd1dd418bd0bd9a4"
   },
   {
     "name": "duefocus",
@@ -4867,9 +4867,9 @@
   },
   {
     "name": "focus",
-    "version": "2.0.3",
-    "url": "https://heyfocus.com/uploads/Focus-v2.0.3.zip",
-    "sha256": "1995d1143390989210f7838aca1209b656a984d660d53860b20ad38a5bb1ceda"
+    "version": "2.0.4",
+    "url": "https://heyfocus.com/uploads/Focus-v2.0.4.zip",
+    "sha256": "456b4f18cc45b87dbd159a9711807d5725b815785d3556f37b9a2768f32b0747"
   },
   {
     "name": "focus-booster",
@@ -5875,9 +5875,9 @@
   },
   {
     "name": "hackintool",
-    "version": "3.9.9",
-    "url": "https://github.com/headkaze/Hackintool/releases/download/3.9.9/Hackintool.zip",
-    "sha256": "14035f329799dc10ddd9d8713a11683364095cdbd37c77626080cff77503ae9e"
+    "version": "4.0.2",
+    "url": "https://github.com/headkaze/Hackintool/releases/download/4.0.2/Hackintool.zip",
+    "sha256": "b92d00ba8e89d5fc6f5321e7cb33153567a010204629d10068a412af718cacfc"
   },
   {
     "name": "hackmd",
@@ -8233,9 +8233,9 @@
   },
   {
     "name": "macwhisper",
-    "version": "4.6,361",
-    "url": "https://macwhisper-site.vercel.app/releases/MacWhisper-361.zip",
-    "sha256": "4166ed01c7dbc6511a41536fd86dca82375fa14b191e15fdc4ef9a2c5de01984"
+    "version": "5.0.1,401",
+    "url": "https://macwhisper-site.vercel.app/releases/MacWhisper-401.zip",
+    "sha256": "6a57012053f3691daf902017b058f09533b20fb6dbd46637ebb3e5bf52649cf6"
   },
   {
     "name": "macwinzipper",
@@ -9697,9 +9697,9 @@
   },
   {
     "name": "netron",
-    "version": "7.1.9",
-    "url": "https://github.com/lutzroeder/netron/releases/download/v7.1.9/Netron-7.1.9-mac.zip",
-    "sha256": "abb59fd1e3b5b88043e732fbb390fae58aec6591eb590396f5c1a8ff0db440f2"
+    "version": "7.2.0",
+    "url": "https://github.com/lutzroeder/netron/releases/download/v7.2.0/Netron-7.2.0-mac.zip",
+    "sha256": "c19b2b121f2090272ee594568e3256378754762766ce76aad3386e2f41dab61f"
   },
   {
     "name": "netxms-console",
@@ -9919,9 +9919,9 @@
   },
   {
     "name": "nova",
-    "version": "11.4",
-    "url": "https://download-keycdn.panic.com/nova/Nova%2011.4.zip",
-    "sha256": "2d4a569fd0dcd10559dba5be2556ae5a154f31af5c4983987b85755cc2c409fe"
+    "version": "11.5",
+    "url": "https://download-keycdn.panic.com/nova/Nova%2011.5.zip",
+    "sha256": "8335c3612d5f597737e60027c449a74771207236401fb4a203c95b2678de3e30"
   },
   {
     "name": "noxappplayer",
@@ -10435,9 +10435,9 @@
   },
   {
     "name": "oscar",
-    "version": "1.5.0",
-    "url": "https://www.apneaboard.com/OSCAR/OSCAR-1.5.0.dmg",
-    "sha256": "3ec1ba2f8ab0234964106bf02a7ba11a97de9f09fe3ec2cca9c1eeeac30af846"
+    "version": "1.5.1",
+    "url": "https://www.apneaboard.com/OSCAR/OSCAR-1.5.1.dmg",
+    "sha256": "09b1ff0499b6ec90e22069ce44d68b1e94f7d456cb93a5817b412fa20c891580"
   },
   {
     "name": "oscilloscope",
@@ -12295,9 +12295,9 @@
   },
   {
     "name": "replacicon",
-    "version": "1.6.1,25",
-    "url": "https://replacicon.app/builds/Replacicon_25.zip",
-    "sha256": "1a522b3b5fb093179433ef8bdcf45854ae989bf24a7c99d0441eb1be5d45d7e6"
+    "version": "1.6.2,26",
+    "url": "https://replacicon.app/builds/Replacicon_26.zip",
+    "sha256": "2f13314ac141a3e75036f7b1336e053149b3e193ab657480f59fec762bdb348f"
   },
   {
     "name": "reqable",
@@ -12583,9 +12583,9 @@
   },
   {
     "name": "rsyncui",
-    "version": "1.7.1",
-    "url": "https://github.com/rsyncOSX/RsyncUI/releases/download/v1.7.1/RsyncUI.1.7.1.dmg",
-    "sha256": "9a309bde465ee2186a2538d35765b856fd4813dfa212eefcb84ec0f260a590e9"
+    "version": "1.7.2",
+    "url": "https://github.com/rsyncOSX/RsyncUI/releases/download/v1.7.2/RsyncUI.1.7.2.dmg",
+    "sha256": "f733da38618b7daa9c707c6921177a793358c62b17762d166ceefb43e7cb7720"
   },
   {
     "name": "rubymine",
@@ -14641,9 +14641,9 @@
   },
   {
     "name": "telegram",
-    "version": "10.0.5,250883",
-    "url": "https://osx.telegram.org/updates/Telegram-10.0.5.250883.app.zip",
-    "sha256": "29d569b3d9fd2559d006669ba20ebba50f37e61e6c65c15dd8d74685716a44a1"
+    "version": "10.1,252034",
+    "url": "https://osx.telegram.org/updates/Telegram-10.1.252034.app.zip",
+    "sha256": "52d2b9e97ccd73718adca89ee5afdefa43d65c712c7da441512cc17139824df4"
   },
   {
     "name": "teleport-connect",
@@ -16323,7 +16323,7 @@
     "name": "waterfox",
     "version": "6.0",
     "url": "https://cdn1.waterfox.net/waterfox/releases/G6.0/Darwin_x86_64-aarch64/Waterfox%20G6.0.dmg",
-    "sha256": "d4b9f237e5568e21d2714e5fa7d1a762f48751bfd6a78ec25ffea48538f12893"
+    "sha256": "a34681e8a98325153208b7c093825cd3d2a8d0f00a32a3bcf89b53a22341d088"
   },
   {
     "name": "waterfox-classic",
