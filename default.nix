@@ -7,15 +7,17 @@ let
   inherit (pkgs) lib;
   data = with builtins; fromJSON (readFile ./casks.json);
   sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
+  overrides = import ./overrides.nix {};
 in
   builtins.listToAttrs (lib.lists.forEach data (cask:
       let 
         artifacts = lib.lists.foldl lib.attrsets.recursiveUpdate {} cask.artifacts;
         app = builtins.elemAt artifacts.app 0;
         lowerurl = lib.strings.toLower cask.url;
+        name = cask.token;
       in
         rec {
-          name = cask.token;
+          inherit name;
           value = pkgs.stdenv.mkDerivation ({
             inherit (cask) version;
             pname = name;
