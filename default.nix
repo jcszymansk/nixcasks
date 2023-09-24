@@ -30,7 +30,7 @@ in
                   lib.optionals (lib.strings.hasSuffix ".zip" lowerurl) [ pkgs.unzip ];
 
             setSourceRoot = ''
-              sourceRoot="$(dirname "$(find . -name '${app}')")"
+              sourceRoot="$(dirname "$(find . -name '${app}' | grep -v __MACOSX)")"
             '';
 
             installPhase = ''
