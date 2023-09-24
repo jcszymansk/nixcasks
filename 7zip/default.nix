@@ -14,6 +14,8 @@ stdenv.mkDerivation rec {
     sha256 = "0x4zpzjfnn0ggjprz30fawdvb014icz9j14r9n1a3rb0fc072q1m";
   };
 
+  patches = [ ./000-dangerous-links.patch ];
+
   arch = {
     "x86_64-darwin" = "x64";
     "aarch64-darwin" = "arm64";
