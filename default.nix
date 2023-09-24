@@ -22,9 +22,12 @@ in
               inherit (cask) url sha256;
             };
 
-            nativeBuildInputs = [ pkgs.makeWrapper ] ++
-                lib.optionals (lib.strings.hasSuffix ".dmg" cask.url) [ sevenzip ] ++
-                lib.optionals (lib.strings.hasSuffix ".zip" cask.url) [ pkgs.unzip ];
+            nativeBuildInputs = let
+                lowerurl = lib.strings.toLower cask.url;
+              in
+                [ pkgs.makeWrapper ] ++
+                  lib.optionals (lib.strings.hasSuffix ".dmg" lowerurl) [ sevenzip ] ++
+                  lib.optionals (lib.strings.hasSuffix ".zip" lowerurl) [ pkgs.unzip ];
 
             setSourceRoot = ''
               sourceRoot="$(dirname "$(find . -name '${app}')")"
