@@ -895,9 +895,9 @@
   },
   {
     "name": "atlauncher",
-    "version": "3.4.33.1",
-    "url": "https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.33.1/ATLauncher-3.4.33.1.zip",
-    "sha256": "8f04da472684f97755abb3b6511f0f9aaf3b45a01abd659c086687c1115cd070"
+    "version": "3.4.34.0",
+    "url": "https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.34.0/ATLauncher-3.4.34.0.zip",
+    "sha256": "e64449f9bbc070aa6ac1f64735ea5be4c6cdc582eeb4e289b84a55db4069af71"
   },
   {
     "name": "atom",
@@ -2239,9 +2239,9 @@
   },
   {
     "name": "chatbox",
-    "version": "1.0.0",
-    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v1.0.0/Chatbox-1.0.0.dmg",
-    "sha256": "c79d1d1c2729acba2f23f0258ddcf713e0483ff260e1101a6b0c2d5100647051"
+    "version": "1.0.2",
+    "url": "https://github.com/Bin-Huang/chatbox/releases/download/v1.0.2/Chatbox-1.0.2.dmg",
+    "sha256": "3f7c0f472a5c34ee1477638d918243aaf1c2b9cb412c6077c97dc67bb74aefe6"
   },
   {
     "name": "chatmate-for-facebook",
@@ -2299,9 +2299,9 @@
   },
   {
     "name": "chirp",
-    "version": "20230921",
-    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230921/chirp-next-20230921.app.zip",
-    "sha256": "198ec468c8cf871a49458f405ae5bea7b9323108328dcc22a2b8133d585f6877"
+    "version": "20230924",
+    "url": "https://trac.chirp.danplanet.com/chirp_next/next-20230924/chirp-next-20230924.app.zip",
+    "sha256": "65644f9a8ae75fe14a9c4d5efff1456d1c3737f294312b3e0c09ebd352890241"
   },
   {
     "name": "chrome-devtools",
@@ -2311,9 +2311,9 @@
   },
   {
     "name": "chromium-gost",
-    "version": "117.0.5938.62",
-    "url": "https://github.com/deemru/Chromium-Gost/releases/download/117.0.5938.62/chromium-gost-117.0.5938.62-macos-amd64.tar.bz2",
-    "sha256": "6840fdeeea479113197a7dcdd47e6b5594679c956b1b0cb4b52b6e52fe677578"
+    "version": "117.0.5938.92",
+    "url": "https://github.com/deemru/Chromium-Gost/releases/download/117.0.5938.92/chromium-gost-117.0.5938.92-macos-amd64.tar.bz2",
+    "sha256": "b221e6d846269817ec10adc71b1df713e331f3830b59bbd7d5625137a2261adf"
   },
   {
     "name": "chronos",
@@ -2473,9 +2473,9 @@
   },
   {
     "name": "clickup",
-    "version": "3.3.55",
-    "url": "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.3.55-x64.dmg",
-    "sha256": "a8cf7ec1063088db5876f618d0a65a63d3aaacb09c2595da52c2d9ce5cc5206f"
+    "version": "3.3.57",
+    "url": "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.3.57-x64.dmg",
+    "sha256": "3dcbea893e1fb51b624c012a67271444a58d28822c136c6377feae0a66e16033"
   },
   {
     "name": "clion",
@@ -3241,9 +3241,9 @@
   },
   {
     "name": "dbeaver-community",
-    "version": "23.2.0",
-    "url": "https://dbeaver.io/files/23.2.0/dbeaver-ce-23.2.0-macos-x86_64.dmg",
-    "sha256": "19706c94bbb8752f2127d4f3a1b3358000fd0ed449a9f13dc75772dbb9ca30e7"
+    "version": "23.2.1",
+    "url": "https://dbeaver.io/files/23.2.1/dbeaver-ce-23.2.1-macos-x86_64.dmg",
+    "sha256": "64658eee9a8db98332cff2bc97269471aec9f74ebedc9fc6a0e4ffe7075eda0f"
   },
   {
     "name": "dbeaver-enterprise",
@@ -3403,9 +3403,9 @@
   },
   {
     "name": "default-folder-x",
-    "version": "5.7.8",
-    "url": "https://www.stclairsoft.com/download/DefaultFolderX-5.7.8.dmg",
-    "sha256": "90ba62b6cd7a02dbd39f4261b764ba5c9ed008c5556473f8160fe36fa8328f10"
+    "version": "6.0",
+    "url": "https://www.stclairsoft.com/download/DefaultFolderX-6.0.dmg",
+    "sha256": "ec923d3308b5229bdce4b2cb50dc9ad6b11cab784fd84b97e745f3cfa2869cbf"
   },
   {
     "name": "defold",
@@ -3874,6 +3874,12 @@
     "version": "5.37,5478",
     "url": "https://d2wvuuix8c9e48.cloudfront.net/Dropshare5-5478.app.zip",
     "sha256": "7d997fa48d2d9ca9151b4135dcf817e2a1a388987be21d3e6aba12e081a33f86"
+  },
+  {
+    "name": "dropshelf",
+    "version": "1729",
+    "url": "https://pilotmoon.com/downloads/beta/Dropshelf-build-1729.zip",
+    "sha256": "452ed83a900eb989a0a5e114fa31bc0eee32da8b71b55eb6ba4ad420c72f6ca9"
   },
   {
     "name": "dropzone",
@@ -4795,9 +4801,9 @@
   },
   {
     "name": "floorp",
-    "version": "11.3.3",
-    "url": "https://github.com/Floorp-Projects/Floorp/releases/download/v11.3.3/floorp-macOS-universal.dmg",
-    "sha256": "f50cd4ff015c2df40aac21ef65a18c69bf7c3d81d4f2c7608cc71022a9a07aee"
+    "version": "11.4.0",
+    "url": "https://github.com/Floorp-Projects/Floorp/releases/download/v11.4.0/floorp-macOS-universal.dmg",
+    "sha256": "9d00e898ab6e46fb8579b65672e4c97a20bdad8819142fdbe9b1aae9d63566fe"
   },
   {
     "name": "flrig",
@@ -5065,9 +5071,9 @@
   },
   {
     "name": "freeplane",
-    "version": "1.11.6",
-    "url": "https://downloads.sourceforge.net/freeplane/Freeplane-1.11.6-intel.dmg",
-    "sha256": "eb2fede253f6b1a1976305d3d0c2af5ac945b8220ff071ceebacf1e871c6d4e1"
+    "version": "1.11.7",
+    "url": "https://downloads.sourceforge.net/freeplane/Freeplane-1.11.7-intel.dmg",
+    "sha256": "4eac089727821b6a5bac092fa86bbb36b73a7d46b07b952bb0df3394a407e5ba"
   },
   {
     "name": "freesmug-chromium",
@@ -5377,9 +5383,9 @@
   },
   {
     "name": "ghost-browser",
-    "version": "2.1.5.1",
-    "url": "https://downloads.ghostbrowser.com/GhostBrowser-2.1.5.1.dmg",
-    "sha256": "6b7facebe7c00c33a651c1a1288b8049608f38d617f33f96d1902a726b24e341"
+    "version": "2.1.5.2",
+    "url": "https://downloads.ghostbrowser.com/GhostBrowser-2.1.5.2.dmg",
+    "sha256": "fbb124f1594e309ae958dd63e35e4ab457b7b86b41d1532cf3bbaadb66e3fe3e"
   },
   {
     "name": "ghosttile",
@@ -5479,9 +5485,9 @@
   },
   {
     "name": "gitify",
-    "version": "4.3.1",
-    "url": "https://github.com/manosim/gitify/releases/download/v4.3.1/Gitify-4.3.1-universal-mac.zip",
-    "sha256": "46158a704a94c5a5389aca52fe689b94aa4b3abd1eadbd2378d0f18cf7358ae9"
+    "version": "4.4.0",
+    "url": "https://github.com/manosim/gitify/releases/download/v4.4.0/Gitify-4.4.0-universal-mac.zip",
+    "sha256": "5829ff0fc45aaf48468c7713650f3d178924edf6f736e304ba2acf97693c78c7"
   },
   {
     "name": "gitkraken",
@@ -6877,9 +6883,9 @@
   },
   {
     "name": "jellyfin",
-    "version": "10.8.10",
-    "url": "https://repo.jellyfin.org/releases/server/macos/stable/installer/jellyfin_10.8.10.dmg",
-    "sha256": "c237fdd7e410695991f712a049f8699871467133787973b5a9deb71142b207f2"
+    "version": "10.8.11",
+    "url": "https://repo.jellyfin.org/releases/server/macos/stable/installer/jellyfin_10.8.11.dmg",
+    "sha256": "8a293c7e7a3719b6fcadfd78b25f7a1e84d653231ab39ba80d5d04b17a5ddfda"
   },
   {
     "name": "jellyfin-media-player",
@@ -6925,9 +6931,9 @@
   },
   {
     "name": "jgrennison-openttd",
-    "version": "0.55.2",
-    "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.55.2/openttd-jgrpp-0.55.2-macos-universal.dmg",
-    "sha256": "1b56047fbe5049bf60c8eafc7622ac21854f5f85aea399a645cb5e643ca4993c"
+    "version": "0.55.3",
+    "url": "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.55.3/openttd-jgrpp-0.55.3-macos-universal.dmg",
+    "sha256": "d9c791ead638a447c9941370701227fe8d510805eb0ffdcd0da894b1793523bd"
   },
   {
     "name": "jitsi",
@@ -9289,9 +9295,9 @@
   },
   {
     "name": "mounty",
-    "version": "2.1",
-    "url": "https://mounty.app/releases/Mounty-2.1.dmg",
-    "sha256": "2aeeb012ebaf1d60767d268e48c8b90726e3f05b2e35945f4293c11fbad84381"
+    "version": "2.2",
+    "url": "https://mounty.app/releases/Mounty-2.2.dmg",
+    "sha256": "8b3a067edcc744efced14e861f33b947c4f9a732dd96d91449effa8e4437638d"
   },
   {
     "name": "movist-pro",
@@ -10459,9 +10465,9 @@
   },
   {
     "name": "osu",
-    "version": "2023.914.0",
-    "url": "https://github.com/ppy/osu/releases/download/2023.914.0/osu.app.Intel.zip",
-    "sha256": "81d2cbf1ac0e276f64c9a6ca435a91ba121bb54169571a373e8b20f168d33c90"
+    "version": "2023.924.0",
+    "url": "https://github.com/ppy/osu/releases/download/2023.924.0/osu.app.Intel.zip",
+    "sha256": "479e7c3f8d72a14f55fda5735b5bbeaab0bd6996cff26b3c0f7f0277f8b4b60f"
   },
   {
     "name": "otto-matic",
@@ -11389,9 +11395,9 @@
   },
   {
     "name": "prepros",
-    "version": "7.16.0",
-    "url": "https://downloads.prepros.io/v7/7.16.0/Prepros-7.16.0.zip",
-    "sha256": "7c873773c42ec6dd3a94ab7ba2d75d9fb70e007618335002fc2823273b4ef0ad"
+    "version": "7.17.0",
+    "url": "https://downloads.prepros.io/v7/7.17.0/Prepros-7.17.0.zip",
+    "sha256": "c5b58d8caaef498c75206167ab0c8f3792a3e8ddf362665859e9bd65471df24c"
   },
   {
     "name": "pretzel",
@@ -11419,9 +11425,9 @@
   },
   {
     "name": "printopia",
-    "version": "3.0.21",
-    "url": "https://download.decisivetactics.com/downloads/printopia/Printopia_3.0.21.zip",
-    "sha256": "e93ebd9133c4417572f103c1a0475ef5bd627659e0d71c151199ed2964a8d700"
+    "version": "3.0.22",
+    "url": "https://download.decisivetactics.com/downloads/printopia/Printopia_3.0.22.zip",
+    "sha256": "6186943f1ec0d45b26f86a2d91fccc0a03ad7847bddefe4feb9d9cd63349b69a"
   },
   {
     "name": "prism",
@@ -11635,9 +11641,9 @@
   },
   {
     "name": "purei-play",
-    "version": "2023-09-13,b31f6635",
-    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/b31f6635/Play.dmg",
-    "sha256": "c32b7f50d86c864366068cd2b474fa59ccb5ea6cc0b83cd40f83fdff56fdc8f2"
+    "version": "2023-09-21,f50566ff",
+    "url": "https://s3.us-east-2.amazonaws.com/playbuilds/f50566ff/Play.dmg",
+    "sha256": "5353bbf445fac5c298a9b9adc7b1f4377739b6d41f0ec75048542bbb784367e0"
   },
   {
     "name": "pusher",
@@ -11821,9 +11827,9 @@
   },
   {
     "name": "qownnotes",
-    "version": "23.9.5",
-    "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.9.5/QOwnNotes.dmg",
-    "sha256": "0f08b67cbea3f57855be62001d79af6cf64c4b76930deaec0d0639333dd9ad61"
+    "version": "23.9.7",
+    "url": "https://github.com/pbek/QOwnNotes/releases/download/v23.9.7/QOwnNotes.dmg",
+    "sha256": "4c4092f05b142878c97d09e1ef82f14c79c02d076bc9eba8b04c2585d0fec066"
   },
   {
     "name": "qq",
@@ -12175,9 +12181,9 @@
   },
   {
     "name": "rectangle-pro",
-    "version": "3.0.9",
-    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.9.dmg",
-    "sha256": "c03f328b63db82b9f57d6ff1ae871ea43729cd232c407e728c1fc9bfdd0fb864"
+    "version": "3.0.11",
+    "url": "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%203.0.11.dmg",
+    "sha256": "1ecd9e44ee43a58a18d2b2df7261994478e683ec1d773ffe2c4d2ee04f600939"
   },
   {
     "name": "recut",
@@ -12283,9 +12289,9 @@
   },
   {
     "name": "renamer",
-    "version": "6.1.2",
-    "url": "https://storage.googleapis.com/incrediblebee/apps/Renamer-6/Renamer-6.1.2.zip",
-    "sha256": "7718935725aaac3c86c03efe4290f9959811a2ac387a900ed69b3a8163766ac6"
+    "version": "6.2.0",
+    "url": "https://storage.googleapis.com/incrediblebee/apps/Renamer-6/Renamer-6.2.0.zip",
+    "sha256": "0a3098b7555d0f3f96e2ac16fccabfe2811c722045e6b403f056700314314af6"
   },
   {
     "name": "repetier-host",
@@ -12319,9 +12325,9 @@
   },
   {
     "name": "responsively",
-    "version": "1.7.1",
-    "url": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.7.1/ResponsivelyApp-1.7.1.dmg",
-    "sha256": "7372a1f14f881c69b8c799f5b76c84d6984f9c814886dfbb466d8edb9300a33a"
+    "version": "1.8.0",
+    "url": "https://github.com/responsively-org/responsively-app-releases/releases/download/v1.8.0/ResponsivelyApp-1.8.0.dmg",
+    "sha256": "9aef2af6ec3a4f07c9f46b41e2d518af644228ddbc58f6a61f423c7cfd349c4c"
   },
   {
     "name": "restfox",
@@ -12385,9 +12391,9 @@
   },
   {
     "name": "rewind",
-    "version": "14270.1,8c61696,20230921",
-    "url": "https://updates.rewind.ai/builds/main/b14270.1-main-8c61696.zip",
-    "sha256": "9816e6698989af6714d2bb30a144fec427ccd922c4ad32934368674c1dfe6e3e"
+    "version": "14339.1,f6d0c5d,20230924",
+    "url": "https://updates.rewind.ai/builds/main/b14339.1-main-f6d0c5d.zip",
+    "sha256": "a9b54cccaef873e64bc7dfe4b2fc1fa6cebdf5ca57996d81050697212cace2d9"
   },
   {
     "name": "rhino",
@@ -12421,9 +12427,9 @@
   },
   {
     "name": "rio",
-    "version": "0.0.19",
-    "url": "https://github.com/raphamorim/rio/releases/download/v0.0.19/Rio-v0.0.19.dmg",
-    "sha256": "f85c4af7bf9b595ba322624a35352c91f0bab2bb7a2b04d50314bb82d9fa932e"
+    "version": "0.0.20",
+    "url": "https://github.com/raphamorim/rio/releases/download/v0.0.20/Rio-v0.0.20.dmg",
+    "sha256": "82da31f8a5cbedeb78031c176b65056b6c7ef790c9d9f982be5c741c1086693e"
   },
   {
     "name": "ripcord",
@@ -13339,9 +13345,9 @@
   },
   {
     "name": "sitesucker-pro",
-    "version": "5.1.11",
-    "url": "https://ricks-apps.com/osx/sitesucker/archive/5.x/5.1.x/5.1.11/SiteSucker_Pro_5.1.11.dmg",
-    "sha256": "3b5de478a566ceff104089586c2f6739f5e8f8a3021b8e26e2ee3d650df3b561"
+    "version": "5.1.12",
+    "url": "https://ricks-apps.com/osx/sitesucker/archive/5.x/5.1.x/5.1.12/SiteSucker_Pro_5.1.12.dmg",
+    "sha256": "d43abd9f023c5f7c1a71df62083371e698634d9c1264832f997456cacdee3de5"
   },
   {
     "name": "siyuan",
