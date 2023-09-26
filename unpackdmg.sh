@@ -1,26 +1,24 @@
-#!/bin/sh
+#!/bin/bash
 
 # from https://discourse.nixos.org/t/help-with-error-only-hfs-file-systems-are-supported-on-ventura/25873/8
-env
 echo "File to unpack: $src"
-if ! [[ "$src" =~ \.dmg$ ]]; then exit 1; fi
+if ! [[ "$src" =~ \.[Dd][Mm][Gg]$ ]]; then exit 1; fi
+
 mnt=$(mktemp -d -t ci-XXXXXXXXXX)
 
 function finish {
-  echo "Detaching $mnt"
-  /usr/bin/hdiutil detach $mnt -force
   rm -rf $mnt
 }
 trap finish EXIT
 
-echo "Attaching $mnt"
-/usr/bin/hdiutil attach -nobrowse -readonly $src -mountpoint $mnt
+if ! "$sevenzip"/bin/7zz t $src >/dev/null 2>&1; then
 
-echo "What's in the mount dir"?
-ls -la $mnt/
+  cnv=$mnt/$(basename $src)
 
-echo "Copying contents"
-shopt -s extglob
-DEST="$PWD"
-(cd "$mnt"; cp -a !(Applications) "$DEST/")
+  echo "converting $mnt"
+  /usr/bin/hdiutil convert -format UDBZ -o $cnv $src
+  src=$cnv
 
+fi
+echo "unpacking $src"
+"$sevenzip"/bin/7zz  -snld x $src

@@ -12,20 +12,18 @@ in
       let 
         artifacts = lib.lists.foldl lib.attrsets.recursiveUpdate {} cask.artifacts;
         app = builtins.elemAt artifacts.app 0;
+        lowerurl = lib.strings.toLower cask.url;
       in
         rec {
           name = cask.token;
-          value = pkgs.stdenv.mkDerivation {
+          value = pkgs.stdenv.mkDerivation ({
             inherit (cask) version;
             pname = name;
             src = fetchurl {
               inherit (cask) url sha256;
             };
 
-            nativeBuildInputs = let
-                lowerurl = lib.strings.toLower cask.url;
-              in
-                [ pkgs.makeWrapper ] ++
+            nativeBuildInputs = [ pkgs.makeWrapper ] ++
                   lib.optionals (lib.strings.hasSuffix ".dmg" lowerurl) [ sevenzip ] ++
                   lib.optionals (lib.strings.hasSuffix ".zip" lowerurl) [ pkgs.unzip ];
 
@@ -46,5 +44,8 @@ in
         
               runHook postInstall
             '';
-          };
+          } // (if (lib.strings.hasSuffix ".dmg" lowerurl) then {
+            inherit sevenzip;
+            unpackCmd = ./unpackdmg.sh;
+          } else {}));
   }))

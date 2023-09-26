@@ -25,7 +25,7 @@ stdenv.mkDerivation rec {
 
   nativeBuildInputs = [ gnumake ];
 
-  setupHook = ./setup-hook.sh;
+#setupHook = ./setup-hook.sh;
 
   dontConfigure = true;
 
