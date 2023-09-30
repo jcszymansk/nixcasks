@@ -1,0 +1,14 @@
+diff -ru a/CPP/7zip/UI/Common/ArchiveExtractCallback.cpp b/CPP/7zip/UI/Common/ArchiveExtractCallback.cpp
+--- a/CPP/7zip/UI/Common/ArchiveExtractCallback.cpp	2023-04-06 11:00:00.000000000 +0200
++++ b/CPP/7zip/UI/Common/ArchiveExtractCallback.cpp	2023-09-24 21:09:59.949098330 +0200
+@@ -1965,6 +1965,10 @@
+   
+   if (!IsSafePath(relatPath))
+   {
++    // install dmgs have often /Application links; don't abort but don't create link either
++    if (_ntOptions.SymLinks_AllowDangerous.Val) {
++      return S_OK;
++    }
+     return SendMessageError2(
+           0, // errorCode
+           "Dangerous link path was ignored",
