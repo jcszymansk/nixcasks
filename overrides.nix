@@ -1,3 +1,9 @@
-_:{
-  macpass = { setSourceRoot = "sourceRoot=."; };
+_:
+
+let 
+  noSandbox = _: { __noChroot = true; };
+in
+{
+  macpass = _: { setSourceRoot = "sourceRoot=."; };
+  docker = noSandbox;
 }

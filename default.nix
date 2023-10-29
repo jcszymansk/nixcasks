@@ -15,8 +15,7 @@ in
         app = builtins.elemAt artifacts.app 0;
         lowerurl = lib.strings.toLower cask.url;
         name = cask.token;
-      in
-        rec {
+        deriv = rec {
           inherit name;
           value = pkgs.stdenv.mkDerivation ({
             inherit (cask) version;
@@ -50,4 +49,9 @@ in
             inherit sevenzip;
             unpackCmd = ./unpackdmg.sh;
           } else {}));
-  }))
+        };
+      in
+        if (lib.attrsets.hasAttrByPath [ "${name}" ] overrides)
+        then { inherit (deriv) name; value = deriv.value.overrideAttrs overrides."${name}"; }
+        else deriv
+  ))
