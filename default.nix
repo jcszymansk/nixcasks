@@ -3,14 +3,14 @@
 }:
 
 with pkgs;
-let 
+let
   inherit (pkgs) lib;
   data = with builtins; fromJSON (readFile ./casks.json);
   sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
   overrides = import ./overrides.nix {};
 in
   builtins.listToAttrs (lib.lists.forEach data (cask:
-      let 
+      let
         artifacts = lib.lists.foldl lib.attrsets.recursiveUpdate {} cask.artifacts;
         app = builtins.elemAt artifacts.app 0;
         lowerurl = lib.strings.toLower cask.url;
@@ -34,15 +34,15 @@ in
 
             installPhase = ''
               runHook preInstall
-        
+
               mkdir -p $out/Applications
               cp -r *.app $out/Applications
-        
+
               mkdir -p $out/bin
               for bin in $out/Applications/*.app/Contents/MacOS/*; do
                 [[ "$(basename "$bin")" =~ $pname && ! "$bin" =~ \.dylib && -f "$bin" && -x "$bin" ]] &&  makeWrapper "$bin" "$out/bin/$(basename "$bin")"
               done
-        
+
               runHook postInstall
             '';
           } // (if (lib.strings.hasSuffix ".dmg" lowerurl) then {
