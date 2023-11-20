@@ -10,8 +10,17 @@ Homebrew Cask apps I use from the very first day I started this.
 ### How to use:
 
 - add this repository to your flake inputs
-- in outputs add ```nixcasks = inputs.nixcasks.legacyPackages."${system}"``` to your pkgs
+- in outputs add ```nixcasks = import input.nixcasks { inherit nixpkgs pkgs; osVersion = "version"; };``` and then add
+`nixcasks` to your pkgs
 - in your config use packages like ```with pkgs.nixcasks; [ mpv paintbrush tor-browser ]``` and so on
+
+### Application variants
+
+To use application variants you must specify your actual OS version as shown above unless you happen
+to use `sonoma`, which is now the default.
+
+**NOTE**: as I don't have an ARM mac, ARM variations are now not tested at all; feel free to test and
+open an issue in case of problems.
 
 ### What is supported
 
