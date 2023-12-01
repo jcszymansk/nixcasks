@@ -17,7 +17,7 @@ Homebrew Cask apps I use from the very first day I started this.
 ### Application variants
 
 To use application variants you must specify your actual OS version as shown above unless you happen
-to use `sonoma`, which is now the default.
+to use the oldest yet supported version (which is now `monterey`).
 
 **NOTE**: as I don't have an ARM mac, ARM variations are now not tested at all; feel free to test and
 open an issue in case of problems.

@@ -1,6 +1,6 @@
 { nixpkgs ? (builtins.getFlake (toString ./.)).inputs.nixpkgs
 , pkgs ? import nixpkgs {}
-, osVersion ? "sonoma"
+, osVersion ? "monterey"
 }:
 
 with pkgs;
