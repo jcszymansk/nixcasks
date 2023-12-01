@@ -25,14 +25,14 @@ stdenv.mkDerivation rec {
 
   nativeBuildInputs = [ gnumake ];
 
-#setupHook = ./setup-hook.sh;
+  #setupHook = ./setup-hook.sh;
 
   dontConfigure = true;
 
   buildPhase = ''
     export MACOSX_DEPLOYMENT_TARGET=11.0
     cd CPP/7zip/Bundles/Alone2
-    make -f ../../cmpl_mac_${arch}.mak LOCAL_FLAGS_ST=-Wno-extra-semi-stmt
+    make -f ../../cmpl_mac_${arch}.mak LOCAL_FLAGS_ST="-Wno-extra-semi-stmt -Wno-unsafe-buffer-usage -Wno-cast-function-type-strict -Wno-reserved-identifier -Wno-implicit-int -Wno-declaration-after-statement -Wno-unused-but-set-variable"
   '';
 
   installPhase = ''
