@@ -1,0 +1,40 @@
+diff -ru a/C/7zip_gcc_c.mak b/C/7zip_gcc_c.mak
+--- a/C/7zip_gcc_c.mak	2023-05-03 15:00:00.000000000 +0200
++++ b/C/7zip_gcc_c.mak	2023-12-03 20:04:07.493963898 +0100
+@@ -14,7 +14,7 @@
+ PROGPATH_STATIC = $(O)/$(PROG)s
+ 
+ ifneq ($(CC), xlc)
+-CFLAGS_WARN_WALL = -Wall -Werror -Wextra
++CFLAGS_WARN_WALL = -Wno-everything
+ endif
+ 
+ # for object file
+diff -ru a/CPP/7zip/7zip_gcc.mak b/CPP/7zip/7zip_gcc.mak
+--- a/CPP/7zip/7zip_gcc.mak	2023-05-03 15:00:00.000000000 +0200
++++ b/CPP/7zip/7zip_gcc.mak	2023-12-03 20:03:48.334008799 +0100
+@@ -24,7 +24,7 @@
+ 
+ 
+ ifneq ($(CC), xlc)
+-CFLAGS_WARN_WALL = -Werror -Wall -Wextra
++CFLAGS_WARN_WALL = -Wno-everything
+ endif
+ 
+ # for object file
+diff -ru a/CPP/Build.mak b/CPP/Build.mak
+--- a/CPP/Build.mak	2023-05-01 12:00:00.000000000 +0200
++++ b/CPP/Build.mak	2023-12-03 20:03:13.903363875 +0100
+@@ -67,11 +67,7 @@
+ !IF "$(CC)" == "clang-cl"
+ 
+ CFLAGS = $(CFLAGS) \
+-  -Werror \
+-  -Wall \
+-  -Wextra \
+-  -Weverything \
+-  -Wfatal-errors \
++  -Wno-everything \
+ 
+ !ENDIF
+ 
