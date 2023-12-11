@@ -30,10 +30,17 @@ entries as I write it.
 The applications' list is updated from Homebrew daily by a github action, so ```nixcasks``` has almost
 no delay behind the Homebrew.
 
+### What is being tested
+
+- Application variants (on branch `feature/variations`); this should allow for installation of older
+versions where the default ones don't support the user's system, and ARM specific binaries (but as I don't
+have an ARM mac, it's completely untested now)
+- Overrides (on branch `feature/overrides`); this should allow for specifying app-specific attributes
+which are not included in `casks.json`
+
 ### What is not yet supported
 
 - Applications which require renaming (`target` attribute)
-- Application variants (which means that if an application has an ARM64 specific image it won't be used as of now)
 
 ### What will (probably) never be supported
 
