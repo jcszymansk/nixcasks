@@ -10,7 +10,7 @@ Homebrew Cask apps I use from the very first day I started this.
 ### How to use:
 
 - add this repository to your flake inputs
-- in outputs add ```nixcasks = import input.nixcasks { inherit nixpkgs pkgs; osVersion = "version"; };``` and then add
+- in outputs add ```nixcasks = import inputs.nixcasks { inherit nixpkgs pkgs; osVersion = "version"; };``` and then add
 `nixcasks` to your pkgs
 - in your config use packages like ```with pkgs.nixcasks; [ mpv paintbrush tor-browser ]``` and so on
 
@@ -32,9 +32,6 @@ no delay behind the Homebrew.
 
 ### What is being tested
 
-- Application variants (on branch `feature/variations`); this should allow for installation of older
-versions where the default ones don't support the user's system, and ARM specific binaries (but as I don't
-have an ARM mac, it's completely untested now)
 - Overrides (on branch `feature/overrides`); this should allow for specifying app-specific attributes
 which are not included in `casks.json`
 
