@@ -16,6 +16,8 @@ in
       let
         artifacts = lib.lists.foldl lib.attrsets.recursiveUpdate {} cask.artifacts;
         app = builtins.elemAt artifacts.app 0;
+        /* if artifacs.app has second element, it's a k/v pair "target" -> name to which rename the app */
+        rename = if (builtins.length artifacts.app) > 1 then (builtins.elemAt artifacts.app 1).target else app;
         lowerurl = lib.strings.toLower cask.url;
         rawVariation = cask.variations.${variationId} or { inherit (cask) version url sha256; };
         variation = {
@@ -44,7 +46,7 @@ in
               runHook preInstall
 
               mkdir -p $out/Applications
-              cp -r *.app $out/Applications
+              cp -r "${app}" "$out/Applications/${rename}"
 
               mkdir -p $out/bin
               for bin in $out/Applications/*.app/Contents/MacOS/*; do
