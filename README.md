@@ -30,14 +30,16 @@ entries as I write it.
 The applications' list is updated from Homebrew daily by a github action, so ```nixcasks``` has almost
 no delay behind the Homebrew.
 
+Overrides: this allows specifying app-specific attributes which are not included in `casks.json`
+
 ### What is being tested
 
-- Overrides (on branch `feature/overrides`); this should allow for specifying app-specific attributes
-which are not included in `casks.json`
+- Applications which require renaming (`target` attribute; on branch `feature/app-redirect-target`)
 
 ### What is not yet supported
 
-- Applications which require renaming (`target` attribute)
+- `binary` artifacts
+- custom taps
 
 ### What will (probably) never be supported
 
