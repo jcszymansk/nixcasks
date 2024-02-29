@@ -8,6 +8,7 @@ let
   inherit (pkgs) lib;
   data = with builtins; fromJSON (readFile ./casks.json);
   sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
+  overrides = import ./overrides.nix {};
   brewyArch = if (lib.strings.hasPrefix "aarch64" pkgs.system) then "arm64_" else "";
   variationId = "${brewyArch}${osVersion}";
 in
@@ -21,9 +22,9 @@ in
           inherit (rawVariation) url sha256;
           version = rawVariation.version or cask.version;
         };
-      in
-        rec {
-          name = cask.token;
+        name = cask.token;
+        deriv = rec {
+          inherit name;
           value = pkgs.stdenv.mkDerivation ({
             inherit (variation) version;
             pname = name;
@@ -56,4 +57,9 @@ in
             inherit sevenzip;
             unpackCmd = ./unpackdmg.sh;
           } else {}));
-  }))
+        };
+      in
+        if (lib.attrsets.hasAttrByPath [ "${name}" ] overrides)
+        then { inherit (deriv) name; value = deriv.value.overrideAttrs overrides."${name}"; }
+        else deriv
+  ))
