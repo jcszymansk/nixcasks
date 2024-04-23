@@ -40,6 +40,8 @@ in
               sourceRoot="$(dirname "$(find . -name '${app}' | grep -v __MACOSX)")"
             '';
 
+            dontFixup = true;
+
             installPhase = ''
               runHook preInstall
 
