@@ -45,7 +45,7 @@ in
             installPhase = ''
               runHook preInstall
 
-              mkdir -p $out/Applications
+              mkdir -p $(dirname $out/Applications/${rename})
               cp -r "${app}" "$out/Applications/${rename}"
 
               mkdir -p $out/bin
