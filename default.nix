@@ -8,7 +8,7 @@ let
   inherit (pkgs) lib;
   data = with builtins; fromJSON (readFile ./casks.json);
   sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
-  overrides = import ./overrides.nix {};
+  overrides = import ./overrides.nix { inherit pkgs sevenzip; };
   brewyArch = if (lib.strings.hasPrefix "aarch64" pkgs.system) then "arm64_" else "";
   variationId = "${brewyArch}${osVersion}";
 in
