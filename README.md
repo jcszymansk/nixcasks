@@ -32,14 +32,17 @@ no delay behind the Homebrew.
 
 Overrides: this allows specifying app-specific attributes which are not included in `casks.json`
 
+Applications which require renaming (`target` attribute)
+
 ### What is being tested
 
-- Applications which require renaming (`target` attribute; on branch `feature/app-redirect-target`)
+(as of now, nothing)
 
 ### What is not yet supported
 
 - `binary` artifacts
 - custom taps
+- local app definitions
 
 ### What will (probably) never be supported
 
