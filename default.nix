@@ -8,7 +8,7 @@ let
   inherit (pkgs) lib;
   data = with builtins; fromJSON (readFile ./casks.json);
   sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
-  overrides = import ./overrides.nix {};
+  overrides = import ./overrides.nix { inherit pkgs sevenzip; };
   brewyArch = if (lib.strings.hasPrefix "aarch64" pkgs.system) then "arm64_" else "";
   variationId = "${brewyArch}${osVersion}";
 in
@@ -16,6 +16,8 @@ in
       let
         artifacts = lib.lists.foldl lib.attrsets.recursiveUpdate {} cask.artifacts;
         app = builtins.elemAt artifacts.app 0;
+        /* if artifacs.app has second element, it's a k/v pair "target" -> name to which rename the app */
+        rename = if (builtins.length artifacts.app) > 1 then (builtins.elemAt artifacts.app 1).target else app;
         lowerurl = lib.strings.toLower cask.url;
         rawVariation = cask.variations.${variationId} or { inherit (cask) version url sha256; };
         variation = {
@@ -48,8 +50,8 @@ in
             installPhase = ''
               runHook preInstall
 
-              mkdir -p $out/Applications
-              cp -r *.app $out/Applications
+              mkdir -p $(dirname $out/Applications/${rename})
+              cp -r "${app}" "$out/Applications/${rename}"
 
               mkdir -p $out/bin
               for bin in $out/Applications/*.app/Contents/MacOS/*; do
