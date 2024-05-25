@@ -9,15 +9,50 @@ Homebrew Cask apps I use from the very first day I started this.
 
 ### How to use:
 
-- add this repository to your flake inputs
-- in outputs add ```nixcasks = import inputs.nixcasks { inherit nixpkgs pkgs; osVersion = "version"; };``` and then add
-`nixcasks` to your pkgs
-- in your config use packages like ```with pkgs.nixcasks; [ mpv paintbrush tor-browser ]``` and so on
+#### with flakes:
+
+- add this repository to your flake inputs, e.g.
+```nix
+    nixcasks = {
+      url = "github:jacekszymanski/nixcasks";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+```
+
+- in outputs add (you must have `${system}` already available)
+```nix
+    nixcasks = (inputs.nixcasks.output {
+       osVersion = "monterey";
+    }).packages.${system};
+```
+- add `nixcasks` to your pkgs, the recomended way is via `packageOverrides`:
+
+```nix
+    pkgs = import nixpkgs {
+      inherit system;
+      config.packageOverrides = _: {
+        inherit nixcasks;
+      };
+    };
+```
+
+- now `nixcasks` is available under `pkgs`, e.g. `pkgs.nixcasks.vlc`
+
+#### without flakes (not recommended):
+
+- import this repository in your nix file, you may clone it and import from your filesystem or import directly from github:
+```nix
+    nixcasks = import (fetchTarball "https://github.com/jacekszymanski/nixcasks/archive/master.tar.gz") {
+      inherit pkgs;
+      osVersion = "sonoma";
+    }
+```
+- use packages from `nixcasks`, e.g. `nixcasks.vlc`
+
 
 ### Application variants
 
-To use application variants you must specify your actual OS version as shown above unless you happen
-to use the oldest yet supported version (which is now `monterey`).
+By default Nixcasks selects an application variant for your architecture (as determined from `pkgs.system`) and for the oldest yet supported macOS version, which is now `monterey`. If you want to use variants for a newer version of macOS, you need to declare it in the attribute `osVersion` in your import.
 
 **NOTE**: as I don't have an ARM mac, ARM variations are now not tested at all; feel free to test and
 open an issue in case of problems.
@@ -33,10 +68,6 @@ no delay behind the Homebrew.
 Overrides: this allows specifying app-specific attributes which are not included in `casks.json`
 
 Applications which require renaming (`target` attribute)
-
-### What is being tested
-
-(as of now, nothing)
 
 ### What is not yet supported
 
