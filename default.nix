@@ -1,14 +1,23 @@
-{ pkgs ? (builtins.getFlake(toString ./.)).pkgs.${builtins.currentSystem}
+{ pkgs ? import (builtins.getFlake(toString ./.)).inputs.nixpkgs {}
 , osVersion ? "monterey"
+, localAdditions ? ./.
+, localArgs ? {}
 , ...
 }:
 
 with pkgs;
 let
   inherit (pkgs) lib;
-  data = with builtins; fromJSON (readFile ./casks.json);
   sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
-  overrides = import ./overrides.nix { inherit pkgs sevenzip; };
+  nclib = import ./nclib.nix { inherit pkgs sevenzip; };
+  defaultImportArgs = { inherit pkgs sevenzip nclib; };
+  data = with builtins; fromJSON (readFile ./casks.json);
+  localOverrides =
+    let loPath = "${localAdditions}/overrides.nix"; 
+    in if (builtins.pathExists loPath) 
+      then import loPath (defaultImportArgs // localArgs)
+      else {};
+  overrides = (import ./overrides.nix defaultImportArgs) // localOverrides;
   brewyArch = if (lib.strings.hasPrefix "aarch64" pkgs.system) then "arm64_" else "";
   variationId = "${brewyArch}${osVersion}";
 in

@@ -8,15 +8,13 @@
         "aarch64-darwin"
       ];
       forAllSystems = f: nixpkgs.lib.genAttrs systems (system: f system);
-      pkgs = forAllSystems (system: nixpkgs.legacyPackages.${system});
     in
     {
-      inherit pkgs;
-      legacyPackages = forAllSystems (system: import ./default.nix {
-        pkgs = import nixpkgs { inherit system; };
-      });
-      devShells = forAllSystems (system: {
-        default = pkgs."${system}".mkShell {};
-      });
+      output = args: rec {
+        packages = forAllSystems (system: import ./default.nix ({
+          pkgs = import nixpkgs { inherit system; };
+        } // args));
+        legacyPackages = packages;
+      };
     };
 }

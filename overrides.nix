@@ -1,20 +1,12 @@
-{ pkgs, sevenzip }:
+{ pkgs, sevenzip, nclib, ... }:
 
 let
   inherit (pkgs) lib fetchurl;
-  noSandbox = _: { __noChroot = true; };
-  broken = _: { meta.broken = true; };
-  force-dmg = prev: {
-    inherit sevenzip;
-    forcedmg = true;
-    nativeBuildInputs = prev.nativeBuildInputs ++ [ sevenzip ];
-    unpackCmd = ./unpackdmg.sh;
-  };
 in
 {
   macpass = _: { setSourceRoot = "sourceRoot=."; };
-  docker = noSandbox;
-  little-snitch = broken;
+  docker = nclib.noSandbox;
+  little-snitch = nclib.broken;
 } // (
   let
     eclipses = [
@@ -32,5 +24,5 @@ in
       "eclipse-testing"
     ];
   in
-    lib.attrsets.genAttrs eclipses (name: force-dmg)
+    lib.attrsets.genAttrs eclipses (name: nclib.force-dmg)
 )
