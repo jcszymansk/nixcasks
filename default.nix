@@ -1,6 +1,6 @@
 { pkgs ? import (builtins.getFlake(toString ./.)).inputs.nixpkgs {}
 , osVersion ? "monterey"
-, localAdditions ? ./.
+, localAdditions ? ./local
 , localArgs ? {}
 , ...
 }:
