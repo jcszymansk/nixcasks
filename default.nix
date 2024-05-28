@@ -24,6 +24,15 @@ in
   builtins.listToAttrs (lib.lists.forEach data (cask:
       let
         artifacts = lib.lists.foldl lib.attrsets.recursiveUpdate {} cask.artifacts;
+
+        /* no filtering in jq anymore, now all apps are accepted, those that would be
+           filtered are marked broken, but they can be "unbroken" in overrides.
+         */
+        noCheck = (cask.sha256 or "no_check") == "no_check";
+        hasPkg = lib.hasAttr "pkg" artifacts;
+        hasInstaller = lib.hasAttr "installer" artifacts;
+        broken = noCheck || hasPkg || hasInstaller;
+
         app = builtins.elemAt artifacts.app 0;
         /* if artifacs.app has second element, it's a k/v pair "target" -> name to which rename the app */
         rename = if (builtins.length artifacts.app) > 1 then (builtins.elemAt artifacts.app 1).target else app;
@@ -69,6 +78,8 @@ in
 
               runHook postInstall
             '';
+
+            meta.broken = broken;
           } // (if (lib.strings.hasSuffix ".dmg" lowerurl) then {
             inherit sevenzip;
             unpackCmd = ./unpackdmg.sh;

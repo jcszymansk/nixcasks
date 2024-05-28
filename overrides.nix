@@ -7,6 +7,7 @@ in
   macpass = _: { setSourceRoot = "sourceRoot=."; };
   docker = nclib.noSandbox;
   little-snitch = nclib.broken;
+  sage = _: { meta.broken = false; };
 } // (
   let
     eclipses = [
