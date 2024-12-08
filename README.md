@@ -22,7 +22,7 @@ Homebrew Cask apps I use from the very first day I started this.
 - in outputs add (you must have `${system}` already available)
 ```nix
     nixcasks = (inputs.nixcasks.output {
-       osVersion = "monterey";
+       osVersion = "ventura";
     }).packages.${system};
 ```
 - add `nixcasks` to your pkgs, the recomended way is via `packageOverrides`:
@@ -52,7 +52,7 @@ Homebrew Cask apps I use from the very first day I started this.
 
 ### Application variants
 
-By default Nixcasks selects an application variant for your architecture (as determined from `pkgs.system`) and for the oldest yet supported macOS version, which is now `monterey`. If you want to use variants for a newer version of macOS, you need to declare it in the attribute `osVersion` in your import.
+By default Nixcasks selects an application variant for your architecture (as determined from `pkgs.system`) and for the oldest yet supported macOS version, which is now `ventura`. If you want to use variants for a newer version of macOS, you need to declare it in the attribute `osVersion` in your import.
 
 **NOTE**: as I don't have an ARM mac, ARM variations are now not tested at all; feel free to test and
 open an issue in case of problems.
