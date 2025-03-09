@@ -3,7 +3,7 @@
 downloaded=$(mktemp -p .)
 exit=0
 
-curl --compressed -s -o $downloaded https://formulae.brew.sh/api/cask.json
+curl --compressed --silent --output $downloaded https://formulae.brew.sh/api/cask.json
 
 if [ "$?" = 0 ]; then
   mv -f $downloaded casks.json
