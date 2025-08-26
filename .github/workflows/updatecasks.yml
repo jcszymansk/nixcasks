@@ -6,7 +6,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - if: matrix.os == 'ubuntu-latest'
         name: Config git for github-actions
         run: |
