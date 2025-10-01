@@ -10,7 +10,7 @@ in
   sage = _: { meta.broken = false; };
 } // (
   let
-    eclipses = [
+    forcedmg = [
       "eclipse-cpp"
       "eclipse-dsl"
       "eclipse-ide"
@@ -23,7 +23,8 @@ in
       "eclipse-platform"
       "eclipse-rcp"
       "eclipse-testing"
+      "raycast"
     ];
   in
-    lib.attrsets.genAttrs eclipses (name: nclib.force-dmg)
+    lib.attrsets.genAttrs forcedmg (name: nclib.force-dmg)
 )
