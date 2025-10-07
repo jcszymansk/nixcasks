@@ -8,13 +8,13 @@
 with pkgs;
 let
   inherit (pkgs) lib;
-  sevenzip = darwin.apple_sdk_11_0.callPackage ./7zip { inherit pkgs; };
+  sevenzip = callPackage ./7zip {};
   nclib = import ./nclib.nix { inherit pkgs sevenzip; };
   defaultImportArgs = { inherit pkgs sevenzip nclib; };
   data = with builtins; fromJSON (readFile ./casks.json);
   localOverrides =
-    let loPath = "${localAdditions}/overrides.nix"; 
-    in if (builtins.pathExists loPath) 
+    let loPath = "${localAdditions}/overrides.nix";
+    in if (builtins.pathExists loPath)
       then import loPath (defaultImportArgs // localArgs)
       else {};
   overrides = (import ./overrides.nix defaultImportArgs) // localOverrides;
