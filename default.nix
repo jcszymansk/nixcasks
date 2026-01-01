@@ -20,6 +20,7 @@ let
   overrides = (import ./overrides.nix defaultImportArgs) // localOverrides;
   brewyArch = if (lib.strings.hasPrefix "aarch64" pkgs.system) then "arm64_" else "";
   variationId = "${brewyArch}${osVersion}";
+  deprecated = lib.warn "Nixcasks has been deprecated and will be archived in June 2026. Please migrate to one of the alternative projects.";
 in
   builtins.listToAttrs (lib.lists.forEach data (cask:
       let
@@ -45,7 +46,7 @@ in
         name = cask.token;
         deriv = rec {
           inherit name;
-          value = pkgs.stdenv.mkDerivation ({
+          value = deprecated (pkgs.stdenv.mkDerivation ({
             inherit (variation) version;
             pname = name;
             src = fetchurl {
@@ -83,9 +84,9 @@ in
           } // (if (lib.strings.hasSuffix ".dmg" lowerurl) then {
             inherit sevenzip;
             unpackCmd = ./unpackdmg.sh;
-          } else {}));
+          } else {})));
         };
-      in
+      in 
         if (lib.attrsets.hasAttrByPath [ "${name}" ] overrides)
         then { inherit (deriv) name; value = deriv.value.overrideAttrs overrides."${name}"; }
         else deriv

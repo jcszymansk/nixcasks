@@ -1,3 +1,17 @@
+# THIS PROJECT HAS BEEN DEPRECATED
+
+As I switched away from Mac and there are at least two alternative projects for making Nix derivations
+from Homebrew Casks, I have decided to deprecate this project. The automatic cask updates will
+continue until June 2026, when the project will be archived.
+
+Please migrate to one of the alternative projects:
+
+- [brew-nix](https://github.com/BatteredBunny/brew-nix)
+- [nix-casks](https://github.com/atahanyorganci/nix-casks)
+
+Thank you.
+
+
 # Brew Casks, nixified
 
 This project is an effort to enable installing applications from Homebrew Casks repository as first
